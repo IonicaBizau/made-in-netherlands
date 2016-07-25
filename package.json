@@ -59,7 +59,8 @@
           "[Haskell](#haskell)",
           "[Lua](#lua)",
           "[Matlab](#matlab)",
-          "[Objective-C](#objective-c)"
+          "[Objective-C](#objective-c)",
+          "[Perl](#perl)"
         ]
       },
       {
@@ -6303,6 +6304,981 @@
               "2",
               "[@misato](https://github.com/misato)/[**DCIntrospectARC**](https://github.com/misato/DCIntrospectARC)",
               "The DCIntrospect ARC & iOS6 compatible",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Perl #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "899",
+              "[@creaktive](https://github.com/creaktive)/[**rainbarf**](https://github.com/creaktive/rainbarf)",
+              "CPU/RAM/battery stats chart bar for tmux (and GNU screen)",
+              "[:arrow_upper_right:](https://metacpan.org/module/rainbarf)"
+            ],
+            [
+              "529",
+              "[@gugod](https://github.com/gugod)/[**App-perlbrew**](https://github.com/gugod/App-perlbrew)",
+              "Manage perl installations in your $HOME",
+              "[:arrow_upper_right:](http://perlbrew.pl)"
+            ],
+            [
+              "230",
+              "[@fglock](https://github.com/fglock)/[**Perlito**](https://github.com/fglock/Perlito)",
+              "Perl 5 and Perl 6 compilers",
+              "[:arrow_upper_right:](http://fglock.github.io/Perlito/)"
+            ],
+            [
+              "45",
+              "[@yko](https://github.com/yko)/[**mojo.vim**](https://github.com/yko/mojo.vim)",
+              "Vim syntax for mojo epl templates in Mojo projects",
+              "[:arrow_upper_right:](http://www.vim.org/scripts/script.php?script_id=3168)"
+            ],
+            [
+              "37",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**perl-android-scripts**](https://github.com/xsawyerx/perl-android-scripts)",
+              "Collection of Perl scripts (examples, programs) that run on Android using ASE",
+              ""
+            ],
+            [
+              "29",
+              "[@avar](https://github.com/avar)/[**irssi-bitlbee-facebo…**](https://github.com/avar/irssi-bitlbee-facebook-rename)",
+              "A irssi script to rename chat.facebook.com nicks in bitlbee from e.g. \"u1359078110\" to \"AEvarArnfjord\"",
+              "[:arrow_upper_right:](http://www.nowhere.dk/articles/facebook-chat-in-bitlbee)"
+            ],
+            [
+              "29",
+              "[@gugod](https://github.com/gugod)/[**bin**](https://github.com/gugod/bin)",
+              "Basically my ~/bin folder.",
+              "[:arrow_upper_right:](file:///Users/gugod/bin)"
+            ],
+            [
+              "25",
+              "[@gugod](https://github.com/gugod)/[**Hijk**](https://github.com/gugod/Hijk)",
+              "Specialized HTTP Client",
+              ""
+            ],
+            [
+              "22",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**module-starter**](https://github.com/xsawyerx/module-starter)",
+              "Module::Starter, a tool to help create solid Perl modules from scratch",
+              ""
+            ],
+            [
+              "22",
+              "[@gugod](https://github.com/gugod)/[**Test-Continuous**](https://github.com/gugod/Test-Continuous)",
+              "(Perl) Run your tests suite continusouly when developing.",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Test-Continuous)"
+            ],
+            [
+              "18",
+              "[@gugod](https://github.com/gugod)/[**git-authors**](https://github.com/gugod/git-authors)",
+              "Display authors in of the repository / files.",
+              "[:arrow_upper_right:](http://gugod.org/2013/03/tool-git-authors/)"
+            ],
+            [
+              "17",
+              "[@gugod](https://github.com/gugod)/[**Seacan**](https://github.com/gugod/Seacan)",
+              "",
+              ""
+            ],
+            [
+              "16",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**gitflux**](https://github.com/xsawyerx/gitflux)",
+              "A Perl port of gitflow. Really? Yes, really!",
+              ""
+            ],
+            [
+              "16",
+              "[@gugod](https://github.com/gugod)/[**perlrocks**](https://github.com/gugod/perlrocks)",
+              "",
+              ""
+            ],
+            [
+              "15",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**metacpan-api**](https://github.com/xsawyerx/metacpan-api)",
+              "A comprehensive, DWIM-featured API to MetaCPAN",
+              "[:arrow_upper_right:](http://search.metacpan.org)"
+            ],
+            [
+              "14",
+              "[@mbarbon](https://github.com/mbarbon)/[**language-p**](https://github.com/mbarbon/language-p)",
+              " An experimental Perl 5 parser/compiler written in Perl 5",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Language-P/)"
+            ],
+            [
+              "14",
+              "[@gugod](https://github.com/gugod)/[**railsish**](https://github.com/gugod/railsish)",
+              "A perl webapp framework with rails-like convention-based coding style.",
+              ""
+            ],
+            [
+              "13",
+              "[@gugod](https://github.com/gugod)/[**Test-Cukes**](https://github.com/gugod/Test-Cukes)",
+              "A BBD test tool inspired by Cucumber",
+              ""
+            ],
+            [
+              "12",
+              "[@rvosa](https://github.com/rvosa)/[**bio-phylo**](https://github.com/rvosa/bio-phylo)",
+              "Bio::Phylo - Phyloinformatic analysis using Perl",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Bio-Phylo)"
+            ],
+            [
+              "12",
+              "[@gugod](https://github.com/gugod)/[**markapl**](https://github.com/gugod/markapl)",
+              "(Perl) Markup as Perl",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Markapl)"
+            ],
+            [
+              "12",
+              "[@avar](https://github.com/avar)/[**sendmail-pmilter**](https://github.com/avar/sendmail-pmilter)",
+              "Perl binding of Sendmail Milter protocol",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Sendmail-PMilter)"
+            ],
+            [
+              "12",
+              "[@Htbaa](https://github.com/Htbaa)/[**WebService-Rackspace…**](https://github.com/Htbaa/WebService-Rackspace-CloudFiles)",
+              "Perl Interface to Rackspace Cloud Files service",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/WebService-Rackspace-CloudFiles/)"
+            ],
+            [
+              "11",
+              "[@avar](https://github.com/avar)/[**linode-etc**](https://github.com/avar/linode-etc)",
+              "The /etc configuration for v.nix.is",
+              "[:arrow_upper_right:](http://noc.nix.is)"
+            ],
+            [
+              "11",
+              "[@damog](https://github.com/damog)/[**www-tumblr**](https://github.com/damog/www-tumblr)",
+              "Perl interface for the Tumblr API",
+              "[:arrow_upper_right:](https://metacpan.org/module/WWW::Tumblr)"
+            ],
+            [
+              "11",
+              "[@gugod](https://github.com/gugod)/[**jabbot**](https://github.com/gugod/jabbot)",
+              "The multipurpose bot.",
+              ""
+            ],
+            [
+              "10",
+              "[@ikruglov](https://github.com/ikruglov)/[**HADaemon-Control**](https://github.com/ikruglov/HADaemon-Control)",
+              "Create init scripts for Perl high-available (HA) daemons",
+              ""
+            ],
+            [
+              "9",
+              "[@gugod](https://github.com/gugod)/[**Doorman**](https://github.com/gugod/Doorman)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@gugod](https://github.com/gugod)/[**acme-cpanauthors-tai…**](https://github.com/gugod/acme-cpanauthors-taiwanese)",
+              "(Perl) We are Taiwanese CPAN Authors!",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Acme-CPANAuthors-Taiwanese)"
+            ],
+            [
+              "9",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**task-dancer**](https://github.com/xsawyerx/task-dancer)",
+              "Dancer in a box",
+              ""
+            ],
+            [
+              "8",
+              "[@sitetechie](https://github.com/sitetechie)/[**Avatar**](https://github.com/sitetechie/Avatar)",
+              "A simple yet nifty Avatar generator application",
+              "[:arrow_upper_right:](http://sitetechie.com)"
+            ],
+            [
+              "8",
+              "[@ikruglov](https://github.com/ikruglov)/[**YAHC**](https://github.com/ikruglov/YAHC)",
+              "YAHC - Yet another HTTP client",
+              ""
+            ],
+            [
+              "8",
+              "[@gugod](https://github.com/gugod)/[**rubyish-perl**](https://github.com/gugod/rubyish-perl)",
+              "For writting perl code with some ruby feeling.",
+              ""
+            ],
+            [
+              "7",
+              "[@gugod](https://github.com/gugod)/[**sssfs**](https://github.com/gugod/sssfs)",
+              "S3 file system",
+              ""
+            ],
+            [
+              "7",
+              "[@creaktive](https://github.com/creaktive)/[**LWP-Protocol-Net-Cur…**](https://github.com/creaktive/LWP-Protocol-Net-Curl)",
+              "the power of libcurl in the palm of your hands!",
+              "[:arrow_upper_right:](https://metacpan.org/module/LWP::Protocol::Net::Curl)"
+            ],
+            [
+              "7",
+              "[@mickep76](https://github.com/mickep76)/[**distill**](https://github.com/mickep76/distill)",
+              "Template engine using hierarchical substitution for Puppet through the ENC interface",
+              ""
+            ],
+            [
+              "6",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**juno**](https://github.com/xsawyerx/juno)",
+              "Asynchronous event-driven checking mechanism",
+              ""
+            ],
+            [
+              "6",
+              "[@gugod](https://github.com/gugod)/[**ActiveResource**](https://github.com/gugod/ActiveResource)",
+              "The Perl implementation of ActiveResource",
+              "[:arrow_upper_right:](http://github.com/gugod/ActiveResource)"
+            ],
+            [
+              "6",
+              "[@yko](https://github.com/yko)/[**mojolicious-plugin-n…**](https://github.com/yko/mojolicious-plugin-navitrack)",
+              "Plugin to automake navigation tracking ",
+              ""
+            ],
+            [
+              "6",
+              "[@yko](https://github.com/yko)/[**mojolicious-command-…**](https://github.com/yko/mojolicious-command-generate-fatapp)",
+              "Mojolicious application generator. Fat version",
+              ""
+            ],
+            [
+              "6",
+              "[@avar](https://github.com/avar)/[**bot-twatterhose**](https://github.com/avar/bot-twatterhose)",
+              "Consume the Twitter firehose and babble to Twitter with Hailo",
+              "[:arrow_upper_right:](http://twitter.com/twatterhose)"
+            ],
+            [
+              "6",
+              "[@mbeijen](https://github.com/mbeijen)/[**App-OTRS-CreateTicke…**](https://github.com/mbeijen/App-OTRS-CreateTicket)",
+              "Create tickets in OTRS via the Ticket Connector from the command line (CLI).",
+              ""
+            ],
+            [
+              "6",
+              "[@nperez](https://github.com/nperez)/[**psm**](https://github.com/nperez/psm)",
+              "POEx::Role::SessionInstantiation",
+              ""
+            ],
+            [
+              "6",
+              "[@sitetechie](https://github.com/sitetechie)/[**BPM-Engine**](https://github.com/sitetechie/BPM-Engine)",
+              "Business process execution engine",
+              "[:arrow_upper_right:](http://bpmengine.org)"
+            ],
+            [
+              "5",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**acme-rafl-everywhere**](https://github.com/xsawyerx/acme-rafl-everywhere)",
+              "rafl is so everywhere, he has his own Acme module!",
+              ""
+            ],
+            [
+              "5",
+              "[@mbarbon](https://github.com/mbarbon)/[**app-build**](https://github.com/mbarbon/app-build)",
+              "Extend Module::Build to build/install/configure entire applications",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/App-Build/)"
+            ],
+            [
+              "5",
+              "[@creaktive](https://github.com/creaktive)/[**HTML-Untemplate**](https://github.com/creaktive/HTML-Untemplate)",
+              "web scraping assistant",
+              "[:arrow_upper_right:](https://metacpan.org/module/HTML::Untemplate)"
+            ],
+            [
+              "5",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**www-xkcd**](https://github.com/xsawyerx/www-xkcd)",
+              "Synchronous and asynchronous interfaces to xkcd comics",
+              ""
+            ],
+            [
+              "5",
+              "[@gugod](https://github.com/gugod)/[**patchperl-packing**](https://github.com/gugod/patchperl-packing)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@gugod](https://github.com/gugod)/[**net-redmine**](https://github.com/gugod/net-redmine)",
+              "interact with remote redmine instance",
+              ""
+            ],
+            [
+              "5",
+              "[@nperez](https://github.com/nperez)/[**reflexive-zmq**](https://github.com/nperez/reflexive-zmq)",
+              "A 0MQ socket suitable for consumption in a Reflexive app",
+              ""
+            ],
+            [
+              "5",
+              "[@gugod](https://github.com/gugod)/[**self**](https://github.com/gugod/self)",
+              "(Perl) Automatically have $self in your OO program",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/self)"
+            ],
+            [
+              "5",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**ldtp**](https://github.com/xsawyerx/ldtp)",
+              "Perl interface to LDTP (Linux Desktop Testing Project)",
+              ""
+            ],
+            [
+              "5",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**data-collector**](https://github.com/xsawyerx/data-collector)",
+              "Collect information from multiple sources - like Puppet's Facter",
+              ""
+            ],
+            [
+              "5",
+              "[@gugod](https://github.com/gugod)/[**perl6ish**](https://github.com/gugod/perl6ish)",
+              "(Perl) Some Perl6 programming in Perl5 code.",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Perl6ish)"
+            ],
+            [
+              "4",
+              "[@deepakg](https://github.com/deepakg)/[**Printer-HP-Display**](https://github.com/deepakg/Printer-HP-Display)",
+              "Change the ready message on HP laser printer",
+              "[:arrow_upper_right:](printer-hp-display)"
+            ],
+            [
+              "4",
+              "[@avar](https://github.com/avar)/[**dist-zilla-plugin-ve…**](https://github.com/avar/dist-zilla-plugin-versionfromprev)",
+              "The Dist::Zilla::Plugin::VersionFromPrev CPAN distribution",
+              ""
+            ],
+            [
+              "4",
+              "[@creaktive](https://github.com/creaktive)/[**Text-Fingerprint**](https://github.com/creaktive/Text-Fingerprint)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**pakket**](https://github.com/xsawyerx/pakket)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@avar](https://github.com/avar)/[**template-javascript**](https://github.com/avar/template-javascript)",
+              "A JavaScript templating engine",
+              ""
+            ],
+            [
+              "4",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**data-survey**](https://github.com/xsawyerx/data-survey)",
+              "A survey system",
+              ""
+            ],
+            [
+              "4",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**gup**](https://github.com/xsawyerx/gup)",
+              "(G)it Back(up) - a Git-based backup utility",
+              ""
+            ],
+            [
+              "4",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**app-genpass**](https://github.com/xsawyerx/app-genpass)",
+              "Quickly create secure passwords",
+              ""
+            ],
+            [
+              "4",
+              "[@gugod](https://github.com/gugod)/[**graph-writer-graphvi…**](https://github.com/gugod/graph-writer-graphviz)",
+              "(Perl) Use GraphViz to render Graph.",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Graph-Writer-GraphViz)"
+            ],
+            [
+              "4",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**podcast-downloaders**](https://github.com/xsawyerx/podcast-downloaders)",
+              "Scripts for downloading various podcasts",
+              ""
+            ],
+            [
+              "4",
+              "[@avar](https://github.com/avar)/[**dist-zilla-plugin-ma…**](https://github.com/avar/dist-zilla-plugin-makemaker-awesome)",
+              "Like Dist::Zilla::Plugin::MakeMaker but can be subclassed",
+              ""
+            ],
+            [
+              "4",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**cpang**](https://github.com/xsawyerx/cpang)",
+              "Gtk2-based GUI frontend to cpanm",
+              ""
+            ],
+            [
+              "4",
+              "[@nperez](https://github.com/nperez)/[**pfsh**](https://github.com/nperez/pfsh)",
+              "POE::Filter::SimpleHTTP - A simple HTTP filter suitable for client or server implementations",
+              ""
+            ],
+            [
+              "4",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**web-scraping**](https://github.com/xsawyerx/web-scraping)",
+              "Web scraping scripts",
+              ""
+            ],
+            [
+              "4",
+              "[@nperez](https://github.com/nperez)/[**poex-role-psgiserver**](https://github.com/nperez/poex-role-psgiserver)",
+              "Encapsulated PSGI server behaviors for POE",
+              ""
+            ],
+            [
+              "4",
+              "[@yko](https://github.com/yko)/[**mojolicious-plugin-n…**](https://github.com/yko/mojolicious-plugin-nginx)",
+              "Plugin that helps Mojolicious run behind nginx",
+              ""
+            ],
+            [
+              "4",
+              "[@gugod](https://github.com/gugod)/[**text-greeking-zh_tw**](https://github.com/gugod/text-greeking-zh_tw)",
+              "(Perl) A module for generating meaningless Chinese text that creates the illusion of the finished document.",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Text-Greeking-zh_TW)"
+            ],
+            [
+              "4",
+              "[@gugod](https://github.com/gugod)/[**PerlX-MethodCallWith…**](https://github.com/gugod/PerlX-MethodCallWithBlock)",
+              "A Perl extension to allow a bare block after method calls",
+              ""
+            ],
+            [
+              "4",
+              "[@gugod](https://github.com/gugod)/[**dbix-cssquery**](https://github.com/gugod/dbix-cssquery)",
+              "A Perl DBI extension module to let you fetch data with CSS query syntax.",
+              "[:arrow_upper_right:](http://blog.gugod.org/search/label/dbix-cssquery)"
+            ],
+            [
+              "4",
+              "[@gugod](https://github.com/gugod)/[**Javascript-Writer**](https://github.com/gugod/Javascript-Writer)",
+              "(Perl) JavaScript code generation from Perl.",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/JavaScript-Writer)"
+            ],
+            [
+              "3",
+              "[@damog](https://github.com/damog)/[**vitacilina**](https://github.com/damog/vitacilina)",
+              "feeds exporter",
+              ""
+            ],
+            [
+              "3",
+              "[@mbarbon](https://github.com/mbarbon)/[**perl-remote-debuggin…**](https://github.com/mbarbon/perl-remote-debugging-client)",
+              "Some custom modifications to the remote debugging client for Komodo IDE",
+              ""
+            ],
+            [
+              "3",
+              "[@mbarbon](https://github.com/mbarbon)/[**alien-protobuf**](https://github.com/mbarbon/alien-protobuf)",
+              "Alien module to find the library for Google ProtoBuf implementation",
+              ""
+            ],
+            [
+              "3",
+              "[@nperez](https://github.com/nperez)/[**pxwp**](https://github.com/nperez/pxwp)",
+              "POEx::WorkerPool",
+              ""
+            ],
+            [
+              "3",
+              "[@mbarbon](https://github.com/mbarbon)/[**audio-play-mplayer**](https://github.com/mbarbon/audio-play-mplayer)",
+              "Frontend to play audio file using an external MPlayer process",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Audio-Play-MPlayer/)"
+            ],
+            [
+              "3",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**sys-hostip**](https://github.com/xsawyerx/sys-hostip)",
+              "Sys::HostIP - Try extra hard to get ip address related info",
+              ""
+            ],
+            [
+              "3",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**dancer-logger-spinne…**](https://github.com/xsawyerx/dancer-logger-spinner)",
+              "Show a spinner in the console on Dancer log messages!",
+              ""
+            ],
+            [
+              "3",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**regtag**](https://github.com/xsawyerx/regtag)",
+              "Tag MP3s using regular expression awesomesaucehoodness",
+              ""
+            ],
+            [
+              "3",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**test-ping**](https://github.com/xsawyerx/test-ping)",
+              "A Perl module for testing pings to hosts",
+              "[:arrow_upper_right:](http://search.cpan.org/perldoc?Test::Ping)"
+            ],
+            [
+              "3",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**p5p-summaries**](https://github.com/xsawyerx/p5p-summaries)",
+              "Summary emails of p5p (Perl 5 Porters)",
+              ""
+            ],
+            [
+              "3",
+              "[@gugod](https://github.com/gugod)/[**finance-bank-scsb-tw**](https://github.com/gugod/finance-bank-scsb-tw)",
+              "(Perl) Check Taiawn SCSB bank info",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Finance-Bank-SCSB-TW)"
+            ],
+            [
+              "3",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**data-document**](https://github.com/xsawyerx/data-document)",
+              "Unified document API",
+              ""
+            ],
+            [
+              "3",
+              "[@gugod](https://github.com/gugod)/[**tgircbot**](https://github.com/gugod/tgircbot)",
+              "telegram ↔ irc robot",
+              ""
+            ],
+            [
+              "3",
+              "[@nperez](https://github.com/nperez)/[**metacpan-api-tiny**](https://github.com/nperez/metacpan-api-tiny)",
+              "A tiny version of MetaCPAN::API",
+              ""
+            ],
+            [
+              "3",
+              "[@gugod](https://github.com/gugod)/[**p5iq**](https://github.com/gugod/p5iq)",
+              "Perl 5 code index / query /search",
+              "[:arrow_upper_right:](https://perl.hackpad.com/p5iq-QZ1Dg3VRPB8)"
+            ],
+            [
+              "3",
+              "[@nperez](https://github.com/nperez)/[**poke**](https://github.com/nperez/poke)",
+              "a daemon for monitoring things",
+              ""
+            ],
+            [
+              "3",
+              "[@gugod](https://github.com/gugod)/[**youtube-download-boo…**](https://github.com/gugod/youtube-download-bookmarklet)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@nperez](https://github.com/nperez)/[**cloudpan**](https://github.com/nperez/cloudpan)",
+              "Never install (pure) Perl modules again",
+              ""
+            ],
+            [
+              "3",
+              "[@yko](https://github.com/yko)/[**mojox-cpan-uploader**](https://github.com/yko/mojox-cpan-uploader)",
+              "Mojo way uploading files to cpan",
+              ""
+            ],
+            [
+              "3",
+              "[@Htbaa](https://github.com/Htbaa)/[**DateTime-Format-HTTP**](https://github.com/Htbaa/DateTime-Format-HTTP)",
+              "Date conversion routines for Perl 5",
+              "[:arrow_upper_right:](http://search.cpan.org/~ckras/DateTime-Format-HTTP/)"
+            ],
+            [
+              "3",
+              "[@damog](https://github.com/damog)/[**apache2-embedflv**](https://github.com/damog/apache2-embedflv)",
+              "Apache2::EmbedFLV – Embed FLV videos into a templated web interface using Flowplayer.",
+              "[:arrow_upper_right:](http://axiombox.com/apache2-embedflv)"
+            ],
+            [
+              "3",
+              "[@nperez](https://github.com/nperez)/[**pxt**](https://github.com/nperez/pxt)",
+              "POEx::Types - MooseX::Types for a modern POE",
+              ""
+            ],
+            [
+              "3",
+              "[@yko](https://github.com/yko)/[**klog**](https://github.com/yko/klog)",
+              "Kiev.pm irc logger",
+              ""
+            ],
+            [
+              "3",
+              "[@nperez](https://github.com/nperez)/[**data-morph**](https://github.com/nperez/data-morph)",
+              "Morph data from one source to another source",
+              ""
+            ],
+            [
+              "3",
+              "[@yko](https://github.com/yko)/[**monitis-api**](https://github.com/yko/monitis-api)",
+              "Perl interface to Monitis.com API",
+              ""
+            ],
+            [
+              "3",
+              "[@avar](https://github.com/avar)/[**bot-training**](https://github.com/avar/bot-training)",
+              "Plain text training material for bots like Hailo and AI::MegaHAL",
+              ""
+            ],
+            [
+              "3",
+              "[@gugod](https://github.com/gugod)/[**markapl-fromhtml**](https://github.com/gugod/markapl-fromhtml)",
+              "Convert HTML to Markapl Perl code",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Markapl-FromHTML)"
+            ],
+            [
+              "3",
+              "[@avar](https://github.com/avar)/[**mediawiki-userinfo**](https://github.com/avar/mediawiki-userinfo)",
+              "Parse MediaWiki's USERINFO directory",
+              "[:arrow_upper_right:](http://svn.wikimedia.org/svnroot/mediawiki/USERINFO/)"
+            ],
+            [
+              "3",
+              "[@damog](https://github.com/damog)/[**Dancer-Template-Haml**](https://github.com/damog/Dancer-Template-Haml)",
+              "Dancer::Template::Haml",
+              ""
+            ],
+            [
+              "3",
+              "[@avar](https://github.com/avar)/[**osm-iceland-mkgmap**](https://github.com/avar/osm-iceland-mkgmap)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**poe-component-openss…**](https://github.com/xsawyerx/poe-component-openssh)",
+              "Nonblocking SSH Component for POE using Net::OpenSSH",
+              ""
+            ],
+            [
+              "3",
+              "[@avar](https://github.com/avar)/[**app-inotify-hookable**](https://github.com/avar/app-inotify-hookable)",
+              "The App::Inotify::Hookable CPAN module",
+              ""
+            ],
+            [
+              "3",
+              "[@yko](https://github.com/yko)/[**mojolicious-example-…**](https://github.com/yko/mojolicious-example-ajax)",
+              "I've been asked few times about ajax example",
+              ""
+            ],
+            [
+              "3",
+              "[@jwrdegoede](https://github.com/jwrdegoede)/[**sunxi-kernel-config**](https://github.com/jwrdegoede/sunxi-kernel-config)",
+              "Fedora's kernel .config files with a10 config added",
+              ""
+            ],
+            [
+              "2",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**dancer-session-kioku…**](https://github.com/xsawyerx/dancer-session-kiokudb)",
+              "KiokuDB Dancer session backend",
+              ""
+            ],
+            [
+              "2",
+              "[@damog](https://github.com/damog)/[**data-format-html**](https://github.com/damog/data-format-html)",
+              "Format Perl data structures into simple HTML",
+              "[:arrow_upper_right:](http://search.cpan.org/~damog/)"
+            ],
+            [
+              "2",
+              "[@damog](https://github.com/damog)/[**File-MimeInfo-Simple**](https://github.com/damog/File-MimeInfo-Simple)",
+              "Simple implementation to determine file type",
+              "[:arrow_upper_right:](http://damog.net/)"
+            ],
+            [
+              "2",
+              "[@damog](https://github.com/damog)/[**Net-Domain-ES-ccTLD**](https://github.com/damog/Net-Domain-ES-ccTLD)",
+              "Lookup for country names given the TLD code (¡en Español!)",
+              ""
+            ],
+            [
+              "2",
+              "[@yko](https://github.com/yko)/[**util-yko**](https://github.com/yko/util-yko)",
+              "yko's util",
+              ""
+            ],
+            [
+              "2",
+              "[@damog](https://github.com/damog)/[**apache2-embedmp3**](https://github.com/damog/apache2-embedmp3)",
+              "Apache2::EmbedMP3 – Embed MP3 audio files into a templated web interface using WP Audio Player",
+              "[:arrow_upper_right:](http://search.cpan.org/~damog)"
+            ],
+            [
+              "2",
+              "[@yko](https://github.com/yko)/[**module-starter-pbp**](https://github.com/yko/module-starter-pbp)",
+              "Create a module as recommended in \"Perl Best Practices\"",
+              ""
+            ],
+            [
+              "2",
+              "[@creaktive](https://github.com/creaktive)/[**CrawlerBadPractices**](https://github.com/creaktive/CrawlerBadPractices)",
+              "Como fazer um crawler ineficiente",
+              ""
+            ],
+            [
+              "2",
+              "[@creaktive](https://github.com/creaktive)/[**AnyEvent-Net-Curl-Qu…**](https://github.com/creaktive/AnyEvent-Net-Curl-Queued)",
+              "Any::Moose wrapper for queued downloads via Net::Curl & AnyEvent",
+              "[:arrow_upper_right:](https://metacpan.org/module/AnyEvent::Net::Curl::Queued)"
+            ],
+            [
+              "2",
+              "[@deepakg](https://github.com/deepakg)/[**bitbar-pomodoro**](https://github.com/deepakg/bitbar-pomodoro)",
+              "A simple Pomodoro timer plugin for BitBar.",
+              ""
+            ],
+            [
+              "2",
+              "[@mbeijen](https://github.com/mbeijen)/[**GD-Barcode**](https://github.com/mbeijen/GD-Barcode)",
+              "Release history of GD-Barcode",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/GD-Barcode/)"
+            ],
+            [
+              "2",
+              "[@damog](https://github.com/damog)/[**apache2-archive**](https://github.com/damog/apache2-archive)",
+              "Port of Apache::Archive into mod_perl 2",
+              ""
+            ],
+            [
+              "2",
+              "[@mbeijen](https://github.com/mbeijen)/[**File-MimeInfo**](https://github.com/mbeijen/File-MimeInfo)",
+              "Determine file types with various mechanisms",
+              "[:arrow_upper_right:](https://metacpan.org/module/File::MimeInfo)"
+            ],
+            [
+              "2",
+              "[@mbarbon](https://github.com/mbarbon)/[**mac-quickbundle**](https://github.com/mbarbon/mac-quickbundle)",
+              "Simple Mac OS X bundle creation",
+              ""
+            ],
+            [
+              "2",
+              "[@b10m](https://github.com/b10m)/[**p5-Business-PostNL**](https://github.com/b10m/p5-Business-PostNL)",
+              "(Perl) Calculate Dutch (TNT Post) shipping costs",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Business-TNTPost-NL)"
+            ],
+            [
+              "2",
+              "[@mbarbon](https://github.com/mbarbon)/[**wx-perl-listctrl**](https://github.com/mbarbon/wx-perl-listctrl)",
+              "A sensible API for Wx::ListCtrl",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Wx-Perl-ListCtrl/)"
+            ],
+            [
+              "2",
+              "[@b10m](https://github.com/b10m)/[**p5-Acme-Terror-NL**](https://github.com/b10m/p5-Acme-Terror-NL)",
+              "(Perl) Fetch the current NL terror alert level",
+              "[:arrow_upper_right:](http://search.cpan.org/dist/Acme-Terror-NL)"
+            ],
+            [
+              "2",
+              "[@mbarbon](https://github.com/mbarbon)/[**statistics-centralmo…**](https://github.com/mbarbon/statistics-centralmoments-online)",
+              "One-pass computation of central moments",
+              ""
+            ],
+            [
+              "2",
+              "[@rvosa](https://github.com/rvosa)/[**img-classify**](https://github.com/rvosa/img-classify)",
+              "Proof of concept demonstrating identification of specimens using an artificial neural network",
+              ""
+            ],
+            [
+              "2",
+              "[@mbarbon](https://github.com/mbarbon)/[**devel-statprofiler-c…**](https://github.com/mbarbon/devel-statprofiler-continuousaggregation)",
+              "Continuously aggregate and regenerate Devel::StatProfiler profiles",
+              ""
+            ],
+            [
+              "2",
+              "[@tonk](https://github.com/tonk)/[**markdown**](https://github.com/tonk/markdown)",
+              "A patched version of John Gruber's Markdown language",
+              ""
+            ],
+            [
+              "2",
+              "[@mbarbon](https://github.com/mbarbon)/[**dbgp-client**](https://github.com/mbarbon/dbgp-client)",
+              "Simple Perl client for the DBGp protocol (http://xdebug.org/docs-dbgp.php)",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**app-quotecc**](https://github.com/avar/app-quotecc)",
+              "Compile a quotes file (currently YAML or Fortune) to a standalone C program",
+              ""
+            ],
+            [
+              "2",
+              "[@mbarbon](https://github.com/mbarbon)/[**wx-spice**](https://github.com/mbarbon/wx-spice)",
+              "A GUI application framework for pluggable/modular applications",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**dist-zilla-pluginbun…**](https://github.com/avar/dist-zilla-pluginbundle-avar)",
+              "The Dist::Zilla::PluginBundle::AVAR CPAN distribution",
+              ""
+            ],
+            [
+              "2",
+              "[@nperez](https://github.com/nperez)/[**mongodbx-autoderef**](https://github.com/nperez/mongodbx-autoderef)",
+              "Automagically dereference DBRefs upon access ",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**App-OpenStreetMapIs-…**](https://github.com/avar/App-OpenStreetMapIs-Web)",
+              "The openstreetmap.is website",
+              "[:arrow_upper_right:](http://openstreetmap.is)"
+            ],
+            [
+              "2",
+              "[@nperez](https://github.com/nperez)/[**cpan-common-index**](https://github.com/nperez/cpan-common-index)",
+              "A common index API for CPAN",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**gps**](https://github.com/avar/gps)",
+              "My GPX tracks",
+              "[:arrow_upper_right:](http://www.openstreetmap.org/user/Ævar%20Arnfjörð%20Bjarmason/traces)"
+            ],
+            [
+              "2",
+              "[@nperez](https://github.com/nperez)/[**dfw.pm**](https://github.com/nperez/dfw.pm)",
+              "DFW Perl Mongers site generator",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**net-fcp-tiny**](https://github.com/avar/net-fcp-tiny)",
+              "Tiny interface to the Freenode Client Protocol version 2",
+              ""
+            ],
+            [
+              "2",
+              "[@nperez](https://github.com/nperez)/[**document-transform**](https://github.com/nperez/document-transform)",
+              "Fetch and transform documents from a NoSQL source.",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**osm2sqlite**](https://github.com/avar/osm2sqlite)",
+              "Fork of Jochen Plumeyer's osm2sqlite.pl from http://plumeyer.org/osm/osm2sqlite.pl",
+              "[:arrow_upper_right:](http://plumeyer.org/osm/osm2sql.pl)"
+            ],
+            [
+              "2",
+              "[@nperez](https://github.com/nperez)/[**Glob**](https://github.com/nperez/Glob)",
+              "Git Library of Backpan",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**taint-util**](https://github.com/avar/taint-util)",
+              "Test for and flip the taint flag without regex matches or eval()",
+              ""
+            ],
+            [
+              "2",
+              "[@nperez](https://github.com/nperez)/[**pfxrpc**](https://github.com/nperez/pfxrpc)",
+              "POE::Filter::XML::RPC - A XMLRPC protocal abstraction filter for POE",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**linux-smaps-tiny**](https://github.com/avar/linux-smaps-tiny)",
+              "A tiny and fast alternative to Linux::Smaps that does what booking needs",
+              ""
+            ],
+            [
+              "2",
+              "[@nperez](https://github.com/nperez)/[**pfx**](https://github.com/nperez/pfx)",
+              "POE::Filter::XML - A POE Filter for parsing XML",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**misc-scripts**](https://github.com/avar/misc-scripts)",
+              "miscellaneous unloved scripts I use",
+              ""
+            ],
+            [
+              "2",
+              "[@nperez](https://github.com/nperez)/[**pcps**](https://github.com/nperez/pcps)",
+              "POEx::PubSub - A second generation publish/subscribe module for POE::Sessions to use to communicate events.",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**www-scraper-wolframa…**](https://github.com/avar/www-scraper-wolframalpha)",
+              "A scraper for WolframAlpha",
+              ""
+            ],
+            [
+              "2",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**template-plugin-xkcd**](https://github.com/xsawyerx/template-plugin-xkcd)",
+              "A Template::Toolkit xkcd plugin using WWW::xkcd",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**flickr-upload**](https://github.com/avar/flickr-upload)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**perlbal-plugin-sessi…**](https://github.com/xsawyerx/perlbal-plugin-sessionaffinity)",
+              "Sane session affinity (sticky sessions) for Perlbal",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**re-engine-pcre**](https://github.com/avar/re-engine-pcre)",
+              "The re::engine::PCRE wrapper for using PCRE in Perl",
+              ""
+            ],
+            [
+              "2",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**dancer-template-tiny**](https://github.com/xsawyerx/dancer-template-tiny)",
+              "Template::Tiny backend to Dancer",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**data-localize-railsy**](https://github.com/avar/data-localize-railsy)",
+              "The Data::Localize::Railsy CPAN distribution",
+              ""
+            ],
+            [
+              "2",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**net-wot**](https://github.com/xsawyerx/net-wot)",
+              "Access Web of Trust (WOT) API in Perl",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**hailo-ui-web**](https://github.com/avar/hailo-ui-web)",
+              "Catalyst and jQuery powered web interface for Hailo",
+              "[:arrow_upper_right:](http://hailo.nix.is)"
+            ],
+            [
+              "2",
+              "[@xsawyerx](https://github.com/xsawyerx)/[**authorize-rule**](https://github.com/xsawyerx/authorize-rule)",
+              "Rule-based authorization mechanism",
+              ""
+            ],
+            [
+              "2",
+              "[@avar](https://github.com/avar)/[**pre-receive-reject-b…**](https://github.com/avar/pre-receive-reject-binaries)",
+              "A configurable stand-alone Git hook to reject pushes of binary data",
+              ""
+            ],
+            [
+              "2",
+              "[@yko](https://github.com/yko)/[**mojolicious-plugin-l…**](https://github.com/yko/mojolicious-plugin-linkedcontent)",
+              "Plugin to manage css and js",
               ""
             ]
           ]
