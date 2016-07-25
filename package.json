@@ -68,7 +68,8 @@
           "[Scala](#scala)",
           "[Shell](#shell)",
           "[Swift](#swift)",
-          "[TeX](#tex)"
+          "[TeX](#tex)",
+          "[VimL](#viml)"
         ]
       },
       {
@@ -11937,6 +11938,111 @@
               "21",
               "[@vtraag](https://github.com/vtraag)/[**tikz-colorbrewer**](https://github.com/vtraag/tikz-colorbrewer)",
               "Definition files providing colours as defined by the ColorBrewer project.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "VimL #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "721",
+              "[@xolox](https://github.com/xolox)/[**vim-notes**](https://github.com/xolox/vim-notes)",
+              "Easy note taking in Vim",
+              "[:arrow_upper_right:](http://peterodding.com/code/vim/notes/)"
+            ],
+            [
+              "676",
+              "[@xolox](https://github.com/xolox)/[**vim-easytags**](https://github.com/xolox/vim-easytags)",
+              "Automated tag file generation and syntax highlighting of tags in Vim",
+              "[:arrow_upper_right:](http://peterodding.com/code/vim/easytags/)"
+            ],
+            [
+              "587",
+              "[@Chiel92](https://github.com/Chiel92)/[**vim-autoformat**](https://github.com/Chiel92/vim-autoformat)",
+              "Provide easy code formatting in Vim by integrating existing code formatters.",
+              ""
+            ],
+            [
+              "566",
+              "[@xolox](https://github.com/xolox)/[**vim-session**](https://github.com/xolox/vim-session)",
+              "Extended session management for Vim (:mksession on steroids)",
+              "[:arrow_upper_right:](http://peterodding.com/code/vim/session/)"
+            ],
+            [
+              "201",
+              "[@xolox](https://github.com/xolox)/[**vim-misc**](https://github.com/xolox/vim-misc)",
+              "Miscellaneous auto-load Vim scripts",
+              "[:arrow_upper_right:](http://peterodding.com/code/vim/misc/)"
+            ],
+            [
+              "141",
+              "[@xolox](https://github.com/xolox)/[**vim-shell**](https://github.com/xolox/vim-shell)",
+              "Improved integration between Vim and its environment (fullscreen, open URL, background command execution)",
+              "[:arrow_upper_right:](http://peterodding.com/code/vim/shell/)"
+            ],
+            [
+              "114",
+              "[@xolox](https://github.com/xolox)/[**vim-lua-ftplugin**](https://github.com/xolox/vim-lua-ftplugin)",
+              "Lua file type plug-in for the Vim text editor",
+              "[:arrow_upper_right:](http://peterodding.com/code/vim/lua-ftplugin)"
+            ],
+            [
+              "55",
+              "[@xolox](https://github.com/xolox)/[**vim-reload**](https://github.com/xolox/vim-reload)",
+              "Automatic reloading of Vim scripts ((file-type) plug-ins, auto-load/syntax/indent scripts, color schemes)",
+              "[:arrow_upper_right:](http://peterodding.com/code/vim/reload/)"
+            ],
+            [
+              "51",
+              "[@xolox](https://github.com/xolox)/[**vim-colorscheme-swit…**](https://github.com/xolox/vim-colorscheme-switcher)",
+              "Makes it easy to quickly switch between color schemes in Vim",
+              "[:arrow_upper_right:](http://peterodding.com/code/vim/colorscheme-switcher/)"
+            ],
+            [
+              "49",
+              "[@dbakker](https://github.com/dbakker)/[**vim-projectroot**](https://github.com/dbakker/vim-projectroot)",
+              "Find out which project a file belongs to, easy to use in scripts/mappings",
+              ""
+            ],
+            [
+              "30",
+              "[@xolox](https://github.com/xolox)/[**vim-pyref**](https://github.com/xolox/vim-pyref)",
+              "A plug-in for the Vim text editor that provides context-sensitive documentation for Python source code.",
+              "[:arrow_upper_right:](http://peterodding.com/code/vim/pyref/)"
+            ],
+            [
+              "9",
+              "[@xolox](https://github.com/xolox)/[**vim-publish**](https://github.com/xolox/vim-publish)",
+              "A Vim plug-in that helps you publish hyperlinked, syntax highlighted source code",
+              "[:arrow_upper_right:](http://peterodding.com/code/vim/publish/)"
+            ],
+            [
+              "7",
+              "[@dbakker](https://github.com/dbakker)/[**vim-paragraph-motion**](https://github.com/dbakker/vim-paragraph-motion)",
+              "Vim replacement mappings for { and }",
+              ""
+            ],
+            [
+              "7",
+              "[@immerzeel](https://github.com/immerzeel)/[**vim-remember-the-mil…**](https://github.com/immerzeel/vim-remember-the-milk)",
+              "Vim interface to Remember the Milk (http://www.rememberthemilk.com)",
+              ""
+            ],
+            [
+              "2",
+              "[@dbakker](https://github.com/dbakker)/[**vim-adjustscroll**](https://github.com/dbakker/vim-adjustscroll)",
+              "Automatically scrolls to keep your cursor at 1/3 of the screen",
               ""
             ]
           ]
