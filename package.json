@@ -52,7 +52,8 @@
           "[CSS](#css)",
           "[C](undefined)",
           "[C++](#c-2)",
-          "[ActionScript](#actionscript)"
+          "[ActionScript](#actionscript)",
+          "[Clojure](#clojure)"
         ]
       },
       {
@@ -4655,6 +4656,213 @@
               "2",
               "[@jvanbaarsen](https://github.com/jvanbaarsen)/[**ld23**](https://github.com/jvanbaarsen/ld23)",
               "My Ludumdare 23 entry",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Clojure #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "91",
+              "[@fmw](https://github.com/fmw)/[**vix**](https://github.com/fmw/vix)",
+              "Website-management software (CMS) written in Clojure.",
+              "[:arrow_upper_right:](http://www.vixu.com)"
+            ],
+            [
+              "67",
+              "[@ams-clj](https://github.com/ams-clj)/[**clansi**](https://github.com/ams-clj/clansi)",
+              "ANSI color and style codes for Clojure.",
+              ""
+            ],
+            [
+              "35",
+              "[@fmw](https://github.com/fmw)/[**alida**](https://github.com/fmw/alida)",
+              "Crawling, scraping and indexing application written in Clojure.",
+              ""
+            ],
+            [
+              "31",
+              "[@astoeckley](https://github.com/astoeckley)/[**Eat-Static**](https://github.com/astoeckley/Eat-Static)",
+              "Easy run-time type-checking and validation of Clojure maps and functions",
+              ""
+            ],
+            [
+              "23",
+              "[@pepijndevos](https://github.com/pepijndevos)/[**Begame**](https://github.com/pepijndevos/Begame)",
+              "A Clojure 2D game engine",
+              ""
+            ],
+            [
+              "16",
+              "[@fmw](https://github.com/fmw)/[**clojure-lucene-demo**](https://github.com/fmw/clojure-lucene-demo)",
+              "Lucene demo written in Clojure",
+              ""
+            ],
+            [
+              "14",
+              "[@pepijndevos](https://github.com/pepijndevos)/[**clojure-quiz**](https://github.com/pepijndevos/clojure-quiz)",
+              "A quiz about Clojure in Clojure for Clojurians",
+              "[:arrow_upper_right:](http://pepijndevos.nl/how-much-clojure-do-you-know)"
+            ],
+            [
+              "14",
+              "[@skuro](https://github.com/skuro)/[**lambdalf**](https://github.com/skuro/lambdalf)",
+              "Alfresco module that exposes a Clojure API to access the repository.",
+              ""
+            ],
+            [
+              "13",
+              "[@pepijndevos](https://github.com/pepijndevos)/[**utterson**](https://github.com/pepijndevos/utterson)",
+              "A static site generator written in Clojure in the style of Jekyll & Hyde.",
+              "[:arrow_upper_right:](http://pepijndevos.github.com/utterson)"
+            ],
+            [
+              "10",
+              "[@neotyk](https://github.com/neotyk)/[**status-codes**](https://github.com/neotyk/status-codes)",
+              "Keyword status codes for ring and compojure.",
+              ""
+            ],
+            [
+              "10",
+              "[@pepijndevos](https://github.com/pepijndevos)/[**ArmageDOM**](https://github.com/pepijndevos/ArmageDOM)",
+              "The epic battle on the final day of XML. A Clojure DSL similar to Hiccup to generate XML.",
+              "[:arrow_upper_right:](http://pepijndevos.nl)"
+            ],
+            [
+              "9",
+              "[@ams-clj](https://github.com/ams-clj)/[**async-philosophers**](https://github.com/ams-clj/async-philosophers)",
+              "A Dining Philosphers solver to learn `core.async`",
+              ""
+            ],
+            [
+              "8",
+              "[@pepijndevos](https://github.com/pepijndevos)/[**Baard**](https://github.com/pepijndevos/Baard)",
+              "Ring router based on core.match, similar to Moustache.",
+              ""
+            ],
+            [
+              "7",
+              "[@michelvollebregt](https://github.com/michelvollebregt)/[**clojuremvc**](https://github.com/michelvollebregt/clojuremvc)",
+              "Spring MVC wrapper for Clojure",
+              "[:arrow_upper_right:](http://groovyguts.wordpress.com)"
+            ],
+            [
+              "6",
+              "[@pepijndevos](https://github.com/pepijndevos)/[**logos**](https://github.com/pepijndevos/logos)",
+              "Logic Programming for Clojure",
+              ""
+            ],
+            [
+              "6",
+              "[@skuro](https://github.com/skuro)/[**lein-misaki**](https://github.com/skuro/lein-misaki)",
+              "A leiningen plugin for Misaki, a Jekyll inspired static site generator for Clojure",
+              ""
+            ],
+            [
+              "6",
+              "[@pepijndevos](https://github.com/pepijndevos)/[**beauforth**](https://github.com/pepijndevos/beauforth)",
+              "A Forth compiler for the NXT",
+              ""
+            ],
+            [
+              "5",
+              "[@pepijndevos](https://github.com/pepijndevos)/[**fastcgi-ring**](https://github.com/pepijndevos/fastcgi-ring)",
+              "Ring middleware for JFastCGI",
+              "[:arrow_upper_right:](http://pepijndevos.nl)"
+            ],
+            [
+              "4",
+              "[@pepijndevos](https://github.com/pepijndevos)/[**irc-deploy**](https://github.com/pepijndevos/irc-deploy)",
+              "Pallet deploy scripts for teamrelaychat.nl",
+              ""
+            ],
+            [
+              "3",
+              "[@skuro](https://github.com/skuro)/[**lambdalf-samples**](https://github.com/skuro/lambdalf-samples)",
+              "Sample usages and applications on top of lambdalf -- a Clojure adapter for Alfresco",
+              ""
+            ],
+            [
+              "3",
+              "[@happyhacking-nl](https://github.com/happyhacking-nl)/[**cljsbuild-template**](https://github.com/happyhacking-nl/cljsbuild-template)",
+              "Leiningen ClojureScript template, based on lein-cljsbuild",
+              ""
+            ],
+            [
+              "3",
+              "[@ams-clj](https://github.com/ams-clj)/[**reddit-gae**](https://github.com/ams-clj/reddit-gae)",
+              "Reddit Clojure clone on Google App Engine",
+              "[:arrow_upper_right:](http://groups.google.com/group/amsterdam-clojurians)"
+            ],
+            [
+              "3",
+              "[@pepijndevos](https://github.com/pepijndevos)/[**couch-atom**](https://github.com/pepijndevos/couch-atom)",
+              "An atom interface to CouchDB using Clutch",
+              "[:arrow_upper_right:](http://pepijndevos.nl)"
+            ],
+            [
+              "3",
+              "[@fmw](https://github.com/fmw)/[**clojure-blog-search**](https://github.com/fmw/clojure-blog-search)",
+              "Example search implementation based on Alida",
+              ""
+            ],
+            [
+              "3",
+              "[@pepijndevos](https://github.com/pepijndevos)/[**Clojure-Micro-Wiki**](https://github.com/pepijndevos/Clojure-Micro-Wiki)",
+              "A small wiki written in Clojure in a gitorial style",
+              "[:arrow_upper_right:](http://microwiki.herokuapp.com/)"
+            ],
+            [
+              "3",
+              "[@vijaykiran](https://github.com/vijaykiran)/[**couch-shouter**](https://github.com/vijaykiran/couch-shouter)",
+              "The shouter application with CouchDB as Backend",
+              ""
+            ],
+            [
+              "2",
+              "[@skuro](https://github.com/skuro)/[**akismet**](https://github.com/skuro/akismet)",
+              "Clojure library to query Akismet",
+              ""
+            ],
+            [
+              "2",
+              "[@fmw](https://github.com/fmw)/[**clj-fo**](https://github.com/fmw/clj-fo)",
+              "PDF generation for Clojure with XSL-FO and Apache FOP",
+              ""
+            ],
+            [
+              "2",
+              "[@neotyk](https://github.com/neotyk)/[**hac-live**](https://github.com/neotyk/hac-live)",
+              "http.async.client live",
+              ""
+            ],
+            [
+              "2",
+              "[@meggermo](https://github.com/meggermo)/[**matomic**](https://github.com/meggermo/matomic)",
+              "My project to explore Datomic",
+              ""
+            ],
+            [
+              "2",
+              "[@pepijndevos](https://github.com/pepijndevos)/[**Wemail**](https://github.com/pepijndevos/Wemail)",
+              "social email",
+              ""
+            ],
+            [
+              "2",
+              "[@pepijndevos](https://github.com/pepijndevos)/[**Clomian**](https://github.com/pepijndevos/Clomian)",
+              "Clojure port of Mian(Minecraft Analysis)",
               ""
             ]
           ]
