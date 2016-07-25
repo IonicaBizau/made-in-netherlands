@@ -64,7 +64,8 @@
           "[PHP](#php)",
           "[Python](#python)",
           "[R](#r)",
-          "[Ruby](#ruby)"
+          "[Ruby](#ruby)",
+          "[Scala](#scala)"
         ]
       },
       {
@@ -11484,6 +11485,333 @@
               "[@mrrooijen](https://github.com/mrrooijen)/[**simple_generators**](https://github.com/mrrooijen/simple_generators)",
               "A couple of generators that supply you with some common templates to speed up the development process.",
               "[:arrow_upper_right:](http://rdoc.info/projects/meskyanichi/simple_generators)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Scala #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "296",
+              "[@RayRoestenburg](https://github.com/RayRoestenburg)/[**akka-in-action**](https://github.com/RayRoestenburg/akka-in-action)",
+              "Accompanying source code for akka in action",
+              ""
+            ],
+            [
+              "87",
+              "[@agemooij](https://github.com/agemooij)/[**riak-scala-client**](https://github.com/agemooij/riak-scala-client)",
+              "An easy to use, non-blocking, fast Scala client library for interacting with Riak.",
+              "[:arrow_upper_right:](http://riak.scalapenos.com/)"
+            ],
+            [
+              "73",
+              "[@RayRoestenburg](https://github.com/RayRoestenburg)/[**scala-io-exercise-1**](https://github.com/RayRoestenburg/scala-io-exercise-1)",
+              "",
+              ""
+            ],
+            [
+              "53",
+              "[@agemooij](https://github.com/agemooij)/[**sbt-prompt**](https://github.com/agemooij/sbt-prompt)",
+              "An SBT plugin for making your SBT prompt more awesome",
+              ""
+            ],
+            [
+              "50",
+              "[@eamelink](https://github.com/eamelink)/[**swaggerkit**](https://github.com/eamelink/swaggerkit)",
+              "A Scala Swagger toolkit with no JaxRS dependency and no magic.",
+              ""
+            ],
+            [
+              "49",
+              "[@sandermak](https://github.com/sandermak)/[**akka-eventsourcing**](https://github.com/sandermak/akka-eventsourcing)",
+              "Code that goes along with my presentation 'Event-sourced architectures with Akka' ",
+              ""
+            ],
+            [
+              "46",
+              "[@wspringer](https://github.com/wspringer)/[**monkeyman**](https://github.com/wspringer/monkeyman)",
+              "Simple static site generator for Scala and middleman lovers",
+              ""
+            ],
+            [
+              "40",
+              "[@eamelink](https://github.com/eamelink)/[**flatten**](https://github.com/eamelink/flatten)",
+              "Examples and exercises with monad transformers",
+              ""
+            ],
+            [
+              "39",
+              "[@p3t0r](https://github.com/p3t0r)/[**scala-sql-dsl**](https://github.com/p3t0r/scala-sql-dsl)",
+              "Example of an implementation of SQL as a DSL in scala",
+              ""
+            ],
+            [
+              "21",
+              "[@wspringer](https://github.com/wspringer)/[**sonofjson**](https://github.com/wspringer/sonofjson)",
+              "Better JSON support for Scala",
+              ""
+            ],
+            [
+              "15",
+              "[@EECOLOR](https://github.com/EECOLOR)/[**scala-clean-code-pat…**](https://github.com/EECOLOR/scala-clean-code-patterns)",
+              "Explore the use of different patterns to produce clean code",
+              ""
+            ],
+            [
+              "13",
+              "[@bartschuller](https://github.com/bartschuller)/[**scalaz-validation-ex…**](https://github.com/bartschuller/scalaz-validation-example)",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "[@wspringer](https://github.com/wspringer)/[**difr**](https://github.com/wspringer/difr)",
+              "Poor-man's code review tool; creates a static HTML page of a git diff with an editor for comments embedded.",
+              ""
+            ],
+            [
+              "12",
+              "[@eamelink](https://github.com/eamelink)/[**sbt-purescript**](https://github.com/eamelink/sbt-purescript)",
+              "PureScript plugin for SBT",
+              ""
+            ],
+            [
+              "10",
+              "[@RayRoestenburg](https://github.com/RayRoestenburg)/[**summerofblog**](https://github.com/RayRoestenburg/summerofblog)",
+              "summerofblog",
+              ""
+            ],
+            [
+              "10",
+              "[@ajantis](https://github.com/ajantis)/[**scala-crdt**](https://github.com/ajantis/scala-crdt)",
+              "Collection of common Conflict-free Replicated Data Types in Scala",
+              ""
+            ],
+            [
+              "7",
+              "[@jesperdj](https://github.com/jesperdj)/[**mandelactors**](https://github.com/jesperdj/mandelactors)",
+              "Mandelbrot fractal generator using actors.",
+              "[:arrow_upper_right:](http://github.com/jesperdj/mandelactors)"
+            ],
+            [
+              "7",
+              "[@eamelink](https://github.com/eamelink)/[**core-play**](https://github.com/eamelink/core-play)",
+              "Project accompanying my Core-Play presentation",
+              ""
+            ],
+            [
+              "7",
+              "[@RayRoestenburg](https://github.com/RayRoestenburg)/[**patterns**](https://github.com/RayRoestenburg/patterns)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@sandermak](https://github.com/sandermak)/[**scalabitz**](https://github.com/sandermak/scalabitz)",
+              "Contains the sourcecode for Scalabitz.com. Built with Scala/Play/ReactiveMongo.",
+              ""
+            ],
+            [
+              "6",
+              "[@RayRoestenburg](https://github.com/RayRoestenburg)/[**xebicon**](https://github.com/RayRoestenburg/xebicon)",
+              "Live Akka coding session for Xebicon conference 2013",
+              ""
+            ],
+            [
+              "6",
+              "[@bartschuller](https://github.com/bartschuller)/[**play2-scalate**](https://github.com/bartschuller/play2-scalate)",
+              "Using Scalate templates with Play2",
+              ""
+            ],
+            [
+              "6",
+              "[@EECOLOR](https://github.com/EECOLOR)/[**little-spec**](https://github.com/EECOLOR/little-spec)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@jesperdj](https://github.com/jesperdj)/[**scalaray**](https://github.com/jesperdj/scalaray)",
+              "ScalaRay - Ray tracer based on pbrt (see http://pbrt.org) written in Scala 2.8",
+              ""
+            ],
+            [
+              "6",
+              "[@bartschuller](https://github.com/bartschuller)/[**smop-markup**](https://github.com/bartschuller/smop-markup)",
+              "Scala compile-time parsing of XML literals",
+              ""
+            ],
+            [
+              "5",
+              "[@bbiletskyy](https://github.com/bbiletskyy)/[**fraud**](https://github.com/bbiletskyy/fraud)",
+              "Real Time Transaction Fraud Analytics",
+              ""
+            ],
+            [
+              "5",
+              "[@sandermak](https://github.com/sandermak)/[**ScalaMisc**](https://github.com/sandermak/ScalaMisc)",
+              "Bits and pieces, mostly in Scala",
+              ""
+            ],
+            [
+              "5",
+              "[@RayRoestenburg](https://github.com/RayRoestenburg)/[**duse12**](https://github.com/RayRoestenburg/duse12)",
+              "workshop repo for the DUSE XII meetup",
+              ""
+            ],
+            [
+              "4",
+              "[@agemooij](https://github.com/agemooij)/[**stream-experiments**](https://github.com/agemooij/stream-experiments)",
+              "Some personal experiments with akka-stream and akka-http",
+              ""
+            ],
+            [
+              "4",
+              "[@bartschuller](https://github.com/bartschuller)/[**mechanize**](https://github.com/bartschuller/mechanize)",
+              "Scala web robot inspired by WWW::Mechanize",
+              ""
+            ],
+            [
+              "4",
+              "[@bartschuller](https://github.com/bartschuller)/[**javadoc-sbt**](https://github.com/bartschuller/javadoc-sbt)",
+              "Generate java api docs from sbt with javadoc",
+              ""
+            ],
+            [
+              "4",
+              "[@wspringer](https://github.com/wspringer)/[**kmeans**](https://github.com/wspringer/kmeans)",
+              "A scala version of k-means.",
+              ""
+            ],
+            [
+              "3",
+              "[@agemooij](https://github.com/agemooij)/[**preso-scala.io-2014**](https://github.com/agemooij/preso-scala.io-2014)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@bartschuller](https://github.com/bartschuller)/[**cuc-proto-project**](https://github.com/bartschuller/cuc-proto-project)",
+              "Simple Scala + sbt 0.10 + Cucumber project",
+              ""
+            ],
+            [
+              "3",
+              "[@RayRoestenburg](https://github.com/RayRoestenburg)/[**scala-io-exercise-5**](https://github.com/RayRoestenburg/scala-io-exercise-5)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@bartschuller](https://github.com/bartschuller)/[**oai-reaper**](https://github.com/bartschuller/oai-reaper)",
+              "Scala library for harvesting Open Archives Initiative document collections",
+              ""
+            ],
+            [
+              "3",
+              "[@bartschuller](https://github.com/bartschuller)/[**bapp**](https://github.com/bartschuller/bapp)",
+              "Bart's Atom Publishing Protocol implementation",
+              ""
+            ],
+            [
+              "3",
+              "[@bartschuller](https://github.com/bartschuller)/[**cmis-scala**](https://github.com/bartschuller/cmis-scala)",
+              "Scala library for talking to CMIS-enabled CMS's like Alfresco",
+              ""
+            ],
+            [
+              "3",
+              "[@andrewstevenson](https://github.com/andrewstevenson)/[**sqoop-service**](https://github.com/andrewstevenson/sqoop-service)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@jvermeir](https://github.com/jvermeir)/[**ShoppingList**](https://github.com/jvermeir/ShoppingList)",
+              "A Scala tool to generate a shopping list for groceries",
+              ""
+            ],
+            [
+              "2",
+              "[@RayRoestenburg](https://github.com/RayRoestenburg)/[**scala-io-exercise-2**](https://github.com/RayRoestenburg/scala-io-exercise-2)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@RayRoestenburg](https://github.com/RayRoestenburg)/[**scala-io-exercise-4**](https://github.com/RayRoestenburg/scala-io-exercise-4)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@agemooij](https://github.com/agemooij)/[**preso-scala.exchange…**](https://github.com/agemooij/preso-scala.exchange-2014)",
+              "Example code for my presentation on Spray Routing at Scala Exchange 2014",
+              ""
+            ],
+            [
+              "2",
+              "[@wspringer](https://github.com/wspringer)/[**scala-rate-limiter**](https://github.com/wspringer/scala-rate-limiter)",
+              "Testing rate limitation using higher order functions.",
+              ""
+            ],
+            [
+              "2",
+              "[@eamelink](https://github.com/eamelink)/[**akkaflow**](https://github.com/eamelink/akkaflow)",
+              "BPMN 2.0 process engine built on Akka",
+              ""
+            ],
+            [
+              "2",
+              "[@sandermak](https://github.com/sandermak)/[**Lift**](https://github.com/sandermak/Lift)",
+              "Code used during presentation at Dutch Open University 26-03-'11",
+              ""
+            ],
+            [
+              "2",
+              "[@rvanrijn](https://github.com/rvanrijn)/[**spark-workshop**](https://github.com/rvanrijn/spark-workshop)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@bartschuller](https://github.com/bartschuller)/[**smop-utils**](https://github.com/bartschuller/smop-utils)",
+              "Small Scala utilities and macros",
+              ""
+            ],
+            [
+              "2",
+              "[@bartschuller](https://github.com/bartschuller)/[**libvirt-scala**](https://github.com/bartschuller/libvirt-scala)",
+              "Scala + Akka library to communicate with libvirtd",
+              ""
+            ],
+            [
+              "2",
+              "[@bartschuller](https://github.com/bartschuller)/[**Euler**](https://github.com/bartschuller/Euler)",
+              "My personal solutions in Scala to the project Euler problems",
+              ""
+            ],
+            [
+              "2",
+              "[@lispmeister](https://github.com/lispmeister)/[**psychic-octo-bear**](https://github.com/lispmeister/psychic-octo-bear)",
+              "Example of using the akka-tracing library to trace Akka calls via Twitter's Zipkin",
+              ""
+            ],
+            [
+              "2",
+              "[@bartschuller](https://github.com/bartschuller)/[**acme-delegation**](https://github.com/bartschuller/acme-delegation)",
+              "Delegation in Scala using def macros (which is the wrong way)",
+              ""
             ]
           ]
         }
