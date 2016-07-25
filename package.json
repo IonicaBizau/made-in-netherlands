@@ -57,7 +57,8 @@
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
           "[Haskell](#haskell)",
-          "[Lua](#lua)"
+          "[Lua](#lua)",
+          "[Matlab](#matlab)"
         ]
       },
       {
@@ -5954,6 +5955,45 @@
               "[@bas080](https://github.com/bas080)/[**pathogen**](https://github.com/bas080/pathogen)",
               "An infectious minetest mod",
               "[:arrow_upper_right:](https://forum.minetest.net/viewtopic.php?f=9&t=11140)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Matlab #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "7",
+              "[@robertoostenveld](https://github.com/robertoostenveld)/[**cifti-matlab**](https://github.com/robertoostenveld/cifti-matlab)",
+              "MATLAB code for reading and writing CIFTI connectivity files",
+              ""
+            ],
+            [
+              "4",
+              "[@germangh](https://github.com/germangh)/[**eeglab_plugin_aar**](https://github.com/germangh/eeglab_plugin_aar)",
+              "AAR plug-in for EEGLAB",
+              "[:arrow_upper_right:](http://www.germangh.com/eeglab_plugin_aar)"
+            ],
+            [
+              "3",
+              "[@pjbarendrecht](https://github.com/pjbarendrecht)/[**BsplineLab**](https://github.com/pjbarendrecht/BsplineLab)",
+              "An interactive MATLAB tool for B-spline curves",
+              ""
+            ],
+            [
+              "2",
+              "[@heimel](https://github.com/heimel)/[**InVivoTools**](https://github.com/heimel/InVivoTools)",
+              "InVivoTools a set of neurophysiology tools, forked from VanHooserTools, containing tools for visual stimulation and analysis of calcium imaging and extracellular electrophysiology data",
+              ""
             ]
           ]
         }
