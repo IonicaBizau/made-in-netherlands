@@ -51,7 +51,8 @@
           "[C#](#c-1)",
           "[CSS](#css)",
           "[C](undefined)",
-          "[C++](#c-2)"
+          "[C++](#c-2)",
+          "[ActionScript](#actionscript)"
         ]
       },
       {
@@ -4585,6 +4586,75 @@
               "2",
               "[@zhmu](https://github.com/zhmu)/[**tortilla**](https://github.com/zhmu/tortilla)",
               "C++ BitTorrent library and client",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "ActionScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "37",
+              "[@jankeesvw](https://github.com/jankeesvw)/[**LogMeister**](https://github.com/jankeesvw/LogMeister)",
+              "LogMeister, one Flash logger to rule them all",
+              ""
+            ],
+            [
+              "29",
+              "[@ringodotnl](https://github.com/ringodotnl)/[**jiglibflash-core-fp1…**](https://github.com/ringodotnl/jiglibflash-core-fp11)",
+              "3D physics engine open source actionscript (MIT)",
+              "[:arrow_upper_right:](http://www.jiglibflash.com/blog/)"
+            ],
+            [
+              "17",
+              "[@ringodotnl](https://github.com/ringodotnl)/[**jiglibflash-examples…**](https://github.com/ringodotnl/jiglibflash-examples-fp11)",
+              "Examples 3D physics engine open source actionscript (MIT)",
+              "[:arrow_upper_right:](http://www.jiglibflash.com/blog/)"
+            ],
+            [
+              "15",
+              "[@tversteeg](https://github.com/tversteeg)/[**Nexus**](https://github.com/tversteeg/Nexus)",
+              "Actionscript 3, GPU accelerated 2D game engine using Stage3D",
+              ""
+            ],
+            [
+              "9",
+              "[@michahell](https://github.com/michahell)/[**pinbored-AS3**](https://github.com/michahell/pinbored-AS3)",
+              "pinbored is a batch/mass Pinboard bookmark editor for easily reducing one's insane amount of bookmarks.",
+              ""
+            ],
+            [
+              "4",
+              "[@jankeesvw](https://github.com/jankeesvw)/[**Plow**](https://github.com/jankeesvw/Plow)",
+              "Project scaffolding from the future",
+              ""
+            ],
+            [
+              "2",
+              "[@dotKokott](https://github.com/dotKokott)/[**Project5000**](https://github.com/dotKokott/Project5000)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@speedok](https://github.com/speedok)/[**jiglibflash**](https://github.com/speedok/jiglibflash)",
+              "",
+              "[:arrow_upper_right:](http://www.jiglibflash.com)"
+            ],
+            [
+              "2",
+              "[@jvanbaarsen](https://github.com/jvanbaarsen)/[**ld23**](https://github.com/jvanbaarsen/ld23)",
+              "My Ludumdare 23 entry",
               ""
             ]
           ]
