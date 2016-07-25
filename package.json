@@ -47,7 +47,8 @@
       {
         "ul": [
           "[JavaScript](#javascript)",
-          "[Java](#java)"
+          "[Java](#java)",
+          "[C#](#c-1)"
         ]
       },
       {
@@ -2949,6 +2950,711 @@
               "2",
               "[@biemond](https://github.com/biemond)/[**JavaEE7**](https://github.com/biemond/JavaEE7)",
               "Java EE 7",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C# #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "1549",
+              "[@FransBouma](https://github.com/FransBouma)/[**Massive**](https://github.com/FransBouma/Massive)",
+              "A small, happy, dynamic MicroORM for .NET that will love you forever.",
+              ""
+            ],
+            [
+              "334",
+              "[@damianh](https://github.com/damianh)/[**LibLog**](https://github.com/damianh/LibLog)",
+              "LibLog is a single file for you to either copy/paste or install via nuget, into your library/framework/application to provide a logging abstraction. ",
+              ""
+            ],
+            [
+              "215",
+              "[@martijnboland](https://github.com/martijnboland)/[**MvcPaging**](https://github.com/martijnboland/MvcPaging)",
+              "ASP.NET MVC Paging HTML helper",
+              "[:arrow_upper_right:](http://blogs.taiga.nl/martijn/2008/08/27/paging-with-aspnet-mvc/)"
+            ],
+            [
+              "140",
+              "[@marklagendijk](https://github.com/marklagendijk)/[**WinLess**](https://github.com/marklagendijk/WinLess)",
+              "An awesome Windows GUI for less.js",
+              "[:arrow_upper_right:](http://winless.org)"
+            ],
+            [
+              "136",
+              "[@pvginkel](https://github.com/pvginkel)/[**PdfiumViewer**](https://github.com/pvginkel/PdfiumViewer)",
+              "PDF viewer based on Google's PDFium.",
+              ""
+            ],
+            [
+              "83",
+              "[@FransBouma](https://github.com/FransBouma)/[**DocNet**](https://github.com/FransBouma/DocNet)",
+              "Your friendly static documentation generator, using markdown files to build the content.",
+              "[:arrow_upper_right:]( http://fransbouma.github.io/DocNet/)"
+            ],
+            [
+              "79",
+              "[@Impyy](https://github.com/Impyy)/[**Toxy**](https://github.com/Impyy/Toxy)",
+              "Tox client for Windows.",
+              ""
+            ],
+            [
+              "60",
+              "[@damianh](https://github.com/damianh)/[**SqlStreamStore**](https://github.com/damianh/SqlStreamStore)",
+              ".NET Stream Store library targeting SQL based implementations.",
+              ""
+            ],
+            [
+              "57",
+              "[@martijnboland](https://github.com/martijnboland)/[**RavenDBMembership**](https://github.com/martijnboland/RavenDBMembership)",
+              "RavenDB ASP.NET membership provider with sample app",
+              ""
+            ],
+            [
+              "51",
+              "[@Pixelstudio](https://github.com/Pixelstudio)/[**Skydome**](https://github.com/Pixelstudio/Skydome)",
+              "Skydome shader based on Rayleigh/Mie for Unity3D",
+              "[:arrow_upper_right:](http://www.pixelstudio.nl)"
+            ],
+            [
+              "51",
+              "[@damianh](https://github.com/damianh)/[**LimitsMiddleware**](https://github.com/damianh/LimitsMiddleware)",
+              "OWIN middleware to apply limits to an OWIN pipeline.",
+              ""
+            ],
+            [
+              "51",
+              "[@Impyy](https://github.com/Impyy)/[**SharpTox**](https://github.com/Impyy/SharpTox)",
+              "Wrapper library for Tox core, av and dns functions",
+              ""
+            ],
+            [
+              "46",
+              "[@FransBouma](https://github.com/FransBouma)/[**RawDataAccessBencher**](https://github.com/FransBouma/RawDataAccessBencher)",
+              "Bench code which tests entity materialization speed of various .NET data access / ORM implementations",
+              ""
+            ],
+            [
+              "42",
+              "[@pvginkel](https://github.com/pvginkel)/[**NHttp**](https://github.com/pvginkel/NHttp)",
+              "Simple asynchronous .NET HTTP server",
+              ""
+            ],
+            [
+              "38",
+              "[@Mpdreamz](https://github.com/Mpdreamz)/[**shellprogressbar**](https://github.com/Mpdreamz/shellprogressbar)",
+              "ShellProgressBar - display progress in your console application",
+              ""
+            ],
+            [
+              "37",
+              "[@leonvanbokhorst](https://github.com/leonvanbokhorst)/[**RepositoryPatternEnt…**](https://github.com/leonvanbokhorst/RepositoryPatternEntityFramework)",
+              "The Repository pattern adds a separation layer between the data and domain layers of an application. It also makes the data access parts of an application better testable.",
+              "[:arrow_upper_right:](http://www.remondo.net/repository-pattern-example-csharp/)"
+            ],
+            [
+              "33",
+              "[@pvginkel](https://github.com/pvginkel)/[**NHibernate.OData**](https://github.com/pvginkel/NHibernate.OData)",
+              "OData parser for NHibernate.",
+              ""
+            ],
+            [
+              "32",
+              "[@devatwork](https://github.com/devatwork)/[**NRaft**](https://github.com/devatwork/NRaft)",
+              "A .NET implementation of the RAFT consensus algoritm",
+              ""
+            ],
+            [
+              "32",
+              "[@ikkentim](https://github.com/ikkentim)/[**SampSharp**](https://github.com/ikkentim/SampSharp)",
+              "A framework for writing game modes for SA-MP in C#. SA-MP is a free Massively Multiplayer Online game mod for the PC version of Rockstar Games Grand Theft Auto: San Andreas.",
+              "[:arrow_upper_right:](http://sampsharp.timpotze.nl)"
+            ],
+            [
+              "30",
+              "[@damianh](https://github.com/damianh)/[**Obsolete-Cedar**](https://github.com/damianh/Obsolete-Cedar)",
+              "",
+              ""
+            ],
+            [
+              "29",
+              "[@dotnetjunkie](https://github.com/dotnetjunkie)/[**solidservices**](https://github.com/dotnetjunkie/solidservices)",
+              "Reference architecture application for .NET that demonstrates how to build highly maintainable web services.",
+              ""
+            ],
+            [
+              "26",
+              "[@martijnboland](https://github.com/martijnboland)/[**MvcNotification**](https://github.com/martijnboland/MvcNotification)",
+              "Sample ASP.NET MVC project that shows multiple ways for doing notifications, including AJAX scenario's.",
+              "[:arrow_upper_right:](http://blogs.taiga.nl/martijn/2011/05/03/keep-your-users-informed-with-asp-net-mvc/)"
+            ],
+            [
+              "26",
+              "[@pvginkel](https://github.com/pvginkel)/[**Expressions**](https://github.com/pvginkel/Expressions)",
+              "Expression parser for C#, Flee and Visual Basic",
+              ""
+            ],
+            [
+              "26",
+              "[@Pixelstudio](https://github.com/Pixelstudio)/[**Octree**](https://github.com/Pixelstudio/Octree)",
+              "Unity3D Octree implementation",
+              ""
+            ],
+            [
+              "26",
+              "[@TarasOsiris](https://github.com/TarasOsiris)/[**unity3d-prefab-pool**](https://github.com/TarasOsiris/unity3d-prefab-pool)",
+              "Simple Prefab Pool for Unity3D",
+              ""
+            ],
+            [
+              "25",
+              "[@uhaciogullari](https://github.com/uhaciogullari)/[**SimpleMvcSitemap**](https://github.com/uhaciogullari/SimpleMvcSitemap)",
+              "A simple library for creating sitemap files inside ASP.NET MVC applications",
+              ""
+            ],
+            [
+              "24",
+              "[@damianh](https://github.com/damianh)/[**OwinHttpMessageHandl…**](https://github.com/damianh/OwinHttpMessageHandler)",
+              "An implementation of System.Net.Http.HttpMessageHandler that translates an HttpRequestMessage into an OWIN compatible environment dictionary",
+              ""
+            ],
+            [
+              "24",
+              "[@FransBouma](https://github.com/FransBouma)/[**LinqToSQL2**](https://github.com/FransBouma/LinqToSQL2)",
+              "Official Linq to SQL fork. A complete ORM which is backwards compatible with Linq to SQL but with new features. ",
+              ""
+            ],
+            [
+              "23",
+              "[@damianh](https://github.com/damianh)/[**Cedar.CommandHandlin…**](https://github.com/damianh/Cedar.CommandHandling)",
+              "Middleware to handling commands over HTTP; typically used in CQRS applications.",
+              ""
+            ],
+            [
+              "22",
+              "[@Pixelstudio](https://github.com/Pixelstudio)/[**TerrainPaint**](https://github.com/Pixelstudio/TerrainPaint)",
+              "a addon for Unity3d for texture painting a custom mesh and painting objects",
+              "[:arrow_upper_right:](http://www.pixelstudio.nl)"
+            ],
+            [
+              "22",
+              "[@diamondo25](https://github.com/diamondo25)/[**MapleShark**](https://github.com/diamondo25/MapleShark)",
+              "MapleShark is a MapleStory sniffer that works with SharpPcap. Sniff dem packetzz!",
+              ""
+            ],
+            [
+              "21",
+              "[@TarasOsiris](https://github.com/TarasOsiris)/[**unity-game-programmi…**](https://github.com/TarasOsiris/unity-game-programming-patterns)",
+              "Game Programming Pattern Examples in Unity3D",
+              ""
+            ],
+            [
+              "18",
+              "[@pvginkel](https://github.com/pvginkel)/[**PdfViewer**](https://github.com/pvginkel/PdfViewer)",
+              ".NET PDF viewer based on Chrome pdf.dll and xPDF",
+              ""
+            ],
+            [
+              "17",
+              "[@leonvanbokhorst](https://github.com/leonvanbokhorst)/[**RepositoryPatternLin…**](https://github.com/leonvanbokhorst/RepositoryPatternLinqToSql)",
+              "The Repository pattern adds a separation layer between the data and domain layers of an application. It also makes the data access parts of an application better testable.",
+              "[:arrow_upper_right:](http://www.remondo.net/repository-pattern-example-csharp/)"
+            ],
+            [
+              "16",
+              "[@thefringeninja](https://github.com/thefringeninja)/[**derp.inventory**](https://github.com/thefringeninja/derp.inventory)",
+              "",
+              ""
+            ],
+            [
+              "16",
+              "[@ikkentim](https://github.com/ikkentim)/[**SanMap**](https://github.com/ikkentim/SanMap)",
+              "Tools for using Google Maps with the map of Grand Theft Auto: San Andreas. The project contains a projection for the San Andreas map and a tool to generate map tiles.",
+              "[:arrow_upper_right:](http://sanmap.ikkentim.com/)"
+            ],
+            [
+              "14",
+              "[@Marlamin](https://github.com/Marlamin)/[**WoWFormatTest**](https://github.com/Marlamin/WoWFormatTest)",
+              "Messing around with WoW file formats",
+              ""
+            ],
+            [
+              "14",
+              "[@Felienne](https://github.com/Felienne)/[**Quarto**](https://github.com/Felienne/Quarto)",
+              "This repo contains code that generates minsat input to detect if the board game Quarto can end in a tie",
+              ""
+            ],
+            [
+              "12",
+              "[@pvginkel](https://github.com/pvginkel)/[**SystemEx**](https://github.com/pvginkel/SystemEx)",
+              "Collection of utilities for working with .NET and WinForms.",
+              ""
+            ],
+            [
+              "11",
+              "[@damianh](https://github.com/damianh)/[**LibOwin**](https://github.com/damianh/LibOwin)",
+              "Types that help work with an owin environment.",
+              ""
+            ],
+            [
+              "11",
+              "[@devatwork](https://github.com/devatwork)/[**LinkedINSharp**](https://github.com/devatwork/LinkedINSharp)",
+              "C# SDK for LinkedIN",
+              "[:arrow_upper_right:](http://www.linkedinsharp.com/)"
+            ],
+            [
+              "11",
+              "[@devatwork](https://github.com/devatwork)/[**Premotion-AspNet-App…**](https://github.com/devatwork/Premotion-AspNet-AppHarbor-Integration)",
+              "Provides seamless integration with AppHarbor by undoing some of the AppHarbor specific behavior.",
+              ""
+            ],
+            [
+              "10",
+              "[@uhaciogullari](https://github.com/uhaciogullari)/[**NLog.Interface**](https://github.com/uhaciogullari/NLog.Interface)",
+              "Defines an abstraction for NLog.Logger public interface",
+              ""
+            ],
+            [
+              "10",
+              "[@pvginkel](https://github.com/pvginkel)/[**ProgressEncode**](https://github.com/pvginkel/ProgressEncode)",
+              "Implementation of the Progress OpenEdge ENCODE algorithm",
+              ""
+            ],
+            [
+              "9",
+              "[@angelog](https://github.com/angelog)/[**OpenSMO**](https://github.com/angelog/OpenSMO)",
+              ":dancers: Open Stepmania Online Server",
+              ""
+            ],
+            [
+              "9",
+              "[@pvginkel](https://github.com/pvginkel)/[**CSharpSyntax**](https://github.com/pvginkel/CSharpSyntax)",
+              "C# code generator based on the Roslyn API",
+              ""
+            ],
+            [
+              "9",
+              "[@uhaciogullari](https://github.com/uhaciogullari)/[**MemoryCacheT**](https://github.com/uhaciogullari/MemoryCacheT)",
+              "A thread-safe dictionary with eviction options",
+              ""
+            ],
+            [
+              "8",
+              "[@danelkhen](https://github.com/danelkhen)/[**desktopbrowser**](https://github.com/danelkhen/desktopbrowser)",
+              "Web based file explorer, runs locally on your browser, designed for media desktops.",
+              ""
+            ],
+            [
+              "8",
+              "[@nlhans](https://github.com/nlhans)/[**SimTelemetry**](https://github.com/nlhans/SimTelemetry)",
+              "Telemetry and dashboard utility for rFactor with trackmap, Formula 1-style timing and onboard telemetry utilities.",
+              ""
+            ],
+            [
+              "7",
+              "[@Pixelstudio](https://github.com/Pixelstudio)/[**PixelRenderer**](https://github.com/Pixelstudio/PixelRenderer)",
+              "A photonrender and path tracer in Unity3D",
+              ""
+            ],
+            [
+              "7",
+              "[@FransBouma](https://github.com/FransBouma)/[**InspectCodeResultVie…**](https://github.com/FransBouma/InspectCodeResultViewer)",
+              "Viewer for Jetbrains' InspectCode result files",
+              ""
+            ],
+            [
+              "7",
+              "[@Pixelstudio](https://github.com/Pixelstudio)/[**StateMachine**](https://github.com/Pixelstudio/StateMachine)",
+              "A simple to use State Machine for unity3D",
+              ""
+            ],
+            [
+              "7",
+              "[@damianh](https://github.com/damianh)/[**FakeReverseProxyHost**](https://github.com/damianh/FakeReverseProxyHost)",
+              "OWIN middleware that simulates reverse proxy behaviour by changing request URL and adding headers",
+              ""
+            ],
+            [
+              "7",
+              "[@pvginkel](https://github.com/pvginkel)/[**ChromePdfViewer**](https://github.com/pvginkel/ChromePdfViewer)",
+              ".NET PDF viewer based on Chrome pdf.dll",
+              ""
+            ],
+            [
+              "7",
+              "[@leonvanbokhorst](https://github.com/leonvanbokhorst)/[**FactoryPattern**](https://github.com/leonvanbokhorst/FactoryPattern)",
+              "A Simple Factory Pattern example in c#",
+              "[:arrow_upper_right:](http://www.remondo.net/simple-factory-pattern-example-csharp/)"
+            ],
+            [
+              "7",
+              "[@angelog](https://github.com/angelog)/[**ClipUpload**](https://github.com/angelog/ClipUpload)",
+              ":arrow_up: This innovating application adds a new icon to your system tray. Upon right-clicking it, you will get a menu to upload whatever is in your clipboard to where you chose it to be. For example, you can quickly upload a screenshot of something to an FTP server, Dropbox public folder, Imgur or Pastebin, and immediately put the link to it in your clipboard, so you can paste the link in an IM or IRC window!",
+              "[:arrow_upper_right:](http://clipupload.net/)"
+            ],
+            [
+              "6",
+              "[@damianh](https://github.com/damianh)/[**SiteMappingMiddlewar…**](https://github.com/damianh/SiteMappingMiddleware)",
+              "Owin middleware that provides IIS Site Bindings like functionality",
+              ""
+            ],
+            [
+              "6",
+              "[@damianh](https://github.com/damianh)/[**KatanaProject**](https://github.com/damianh/KatanaProject)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@damianh](https://github.com/damianh)/[**RavenDB.Client.Conte…**](https://github.com/damianh/RavenDB.Client.ContextualListeners)",
+              "A RavenDB client extension that passing of contextual information into client listeners.",
+              ""
+            ],
+            [
+              "6",
+              "[@damianh](https://github.com/damianh)/[**Nancy.SimpleRpc**](https://github.com/damianh/Nancy.SimpleRpc)",
+              "A simple message based RPC over HTTP library",
+              ""
+            ],
+            [
+              "6",
+              "[@Impyy](https://github.com/Impyy)/[**ToxTool**](https://github.com/Impyy/ToxTool)",
+              "Displays helpful information about a Tox profile",
+              ""
+            ],
+            [
+              "6",
+              "[@eteeselink](https://github.com/eteeselink)/[**YieldMachine**](https://github.com/eteeselink/YieldMachine)",
+              "Inline state machines in C#",
+              ""
+            ],
+            [
+              "5",
+              "[@damianh](https://github.com/damianh)/[**RavenDB.Bundles.Revi…**](https://github.com/damianh/RavenDB.Bundles.Revisions)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@TarasOsiris](https://github.com/TarasOsiris)/[**Better-Defines**](https://github.com/TarasOsiris/Better-Defines)",
+              "An easy and elegant way to manage your preprocessor directives in Unity3D",
+              ""
+            ],
+            [
+              "5",
+              "[@damianh](https://github.com/damianh)/[**Nancy.Authentication…**](https://github.com/damianh/Nancy.Authentication.Forms.Owin)",
+              "Sample OWIN middleware that deciphers a Nancy forms auth cookie and puts a ClaimsPrincipal in the OWIN environment.",
+              ""
+            ],
+            [
+              "5",
+              "[@aistrate](https://github.com/aistrate)/[**TypingPractice**](https://github.com/aistrate/TypingPractice)",
+              "Program for practicing typing skills such as speed, and typing code (programming language source code).",
+              ""
+            ],
+            [
+              "5",
+              "[@eteeselink](https://github.com/eteeselink)/[**fakethat**](https://github.com/eteeselink/fakethat)",
+              "Fake That, ridiculously simple mocking for .Net",
+              ""
+            ],
+            [
+              "5",
+              "[@damianh](https://github.com/damianh)/[**CapturingLogOutputWi…**](https://github.com/damianh/CapturingLogOutputWithXunit2AndParallelTests)",
+              "Example way to capture log output when using parallel testing.",
+              ""
+            ],
+            [
+              "5",
+              "[@pvginkel](https://github.com/pvginkel)/[**CustomChrome**](https://github.com/pvginkel/CustomChrome)",
+              "Library to ease adding custom chrome to a form with an implementation for the Visual Studio 2012 chrome",
+              ""
+            ],
+            [
+              "5",
+              "[@thefringeninja](https://github.com/thefringeninja)/[**RestaurantExample**](https://github.com/thefringeninja/RestaurantExample)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@devatwork](https://github.com/devatwork)/[**Premotion-Mansion**](https://github.com/devatwork/Premotion-Mansion)",
+              "Developement project for the Premotion Mansion Framework",
+              ""
+            ],
+            [
+              "4",
+              "[@damianh](https://github.com/damianh)/[**WebSocketsMiddleware**](https://github.com/damianh/WebSocketsMiddleware)",
+              "Middleware that provides wraps OWIN's websocket functionality in an easy to use context",
+              ""
+            ],
+            [
+              "4",
+              "[@danelkhen](https://github.com/danelkhen)/[**corex**](https://github.com/danelkhen/corex)",
+              "A set of power APIs and extensions to the core .NET framework for better productivity",
+              ""
+            ],
+            [
+              "4",
+              "[@aistrate](https://github.com/aistrate)/[**RegexParser**](https://github.com/aistrate/RegexParser)",
+              "Regular Expression parser (loosely mimicking .NET Framework's System.Text.RegularExpressions namespace).",
+              ""
+            ],
+            [
+              "4",
+              "[@FransBouma](https://github.com/FransBouma)/[**CSRotoZoomer**](https://github.com/FransBouma/CSRotoZoomer)",
+              "Old RotoZoomer Demoscene effect in C#",
+              ""
+            ],
+            [
+              "3",
+              "[@leonvanbokhorst](https://github.com/leonvanbokhorst)/[**ChainOfResponsibilit…**](https://github.com/leonvanbokhorst/ChainOfResponsibilityPattern)",
+              "The Chain of Responsibility pattern takes a request and flows through a chain of handlers. Each handler checks if it can handle the request according to some business rules. If the handler can’t handle the request it gets passed to the next handler in the chain. The client doesn’t know which handler eventually handles the request.",
+              "[:arrow_upper_right:](http://www.remondo.net/chain-of-responsibility-pattern-example-in-c/)"
+            ],
+            [
+              "3",
+              "[@damianh](https://github.com/damianh)/[**EventStorePerf**](https://github.com/damianh/EventStorePerf)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@ikkentim](https://github.com/ikkentim)/[**GBEmmy**](https://github.com/ikkentim/GBEmmy)",
+              "A failed attempt at creating a gameboy emulator in C#. (unlisted)",
+              ""
+            ],
+            [
+              "3",
+              "[@ikkentim](https://github.com/ikkentim)/[**LogiFrame**](https://github.com/ikkentim/LogiFrame)",
+              "A framework for monochrome Logitech gaming keyboard LCDs.",
+              "[:arrow_upper_right:](https://www.nuget.org/packages/LogiFrame/)"
+            ],
+            [
+              "3",
+              "[@lieuwex](https://github.com/lieuwex)/[**GEPRO_OSIsharp**](https://github.com/lieuwex/GEPRO_OSIsharp)",
+              "C# Library voor Gepro-OSI roosters.",
+              ""
+            ],
+            [
+              "3",
+              "[@ikkentim](https://github.com/ikkentim)/[**Spotify**](https://github.com/ikkentim/Spotify)",
+              "A spotify \"currently playing\" API for the windows version of Spotify.",
+              "[:arrow_upper_right:](https://www.nuget.org/packages/SpotifyAPI/)"
+            ],
+            [
+              "3",
+              "[@Impyy](https://github.com/Impyy)/[**SharpTox.Av.Filter**](https://github.com/Impyy/SharpTox.Av.Filter)",
+              "An extension for SharpTox, containing bindings for the filter_audio library",
+              ""
+            ],
+            [
+              "3",
+              "[@pvginkel](https://github.com/pvginkel)/[**CrashReporter.NET**](https://github.com/pvginkel/CrashReporter.NET)",
+              "CrashCollector .NET library",
+              ""
+            ],
+            [
+              "3",
+              "[@pvginkel](https://github.com/pvginkel)/[**VisualGit**](https://github.com/pvginkel/VisualGit)",
+              "Visual Studio source control extensions for Git",
+              ""
+            ],
+            [
+              "3",
+              "[@pvginkel](https://github.com/pvginkel)/[**ApplicationHost**](https://github.com/pvginkel/ApplicationHost)",
+              "WinForms control for hosting .NET applications inside another .NET application",
+              ""
+            ],
+            [
+              "3",
+              "[@damianh](https://github.com/damianh)/[**SignalR.Backplane.Ne…**](https://github.com/damianh/SignalR.Backplane.NetMQ)",
+              "A NetMQ (ZeroMQ) brokerless backplane for SignalR",
+              ""
+            ],
+            [
+              "3",
+              "[@nlhans](https://github.com/nlhans)/[**SimShift**](https://github.com/nlhans/SimShift)",
+              "Driver utilities for various open roaming simulators, like ETS2.",
+              ""
+            ],
+            [
+              "3",
+              "[@uhaciogullari](https://github.com/uhaciogullari)/[**WcfClientBase**](https://github.com/uhaciogullari/WcfClientBase)",
+              "A simple base class that encapsulates WCF service calls",
+              ""
+            ],
+            [
+              "3",
+              "[@thefringeninja](https://github.com/thefringeninja)/[**Nancy.Extras.Cassett…**](https://github.com/thefringeninja/Nancy.Extras.Cassette)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@damianh](https://github.com/damianh)/[**NancyAAD**](https://github.com/damianh/NancyAAD)",
+              "Nancy self host API and active client secured with Azure Active Directoy",
+              ""
+            ],
+            [
+              "3",
+              "[@Marlamin](https://github.com/Marlamin)/[**VROverlayTest**](https://github.com/Marlamin/VROverlayTest)",
+              "Messing around with OpenVR overlay stuff",
+              ""
+            ],
+            [
+              "3",
+              "[@nlhans](https://github.com/nlhans)/[**MAS2Extract**](https://github.com/nlhans/MAS2Extract)",
+              "Extract unencrypted .MAS files of rFactor2",
+              ""
+            ],
+            [
+              "3",
+              "[@thefringeninja](https://github.com/thefringeninja)/[**NEventStore.Persiste…**](https://github.com/thefringeninja/NEventStore.Persistence.GetEventStore)",
+              "GetEventStore Persistence Engine for NEventStore ",
+              ""
+            ],
+            [
+              "3",
+              "[@diamondo25](https://github.com/diamondo25)/[**STREDIT**](https://github.com/diamondo25/STREDIT)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@waldekmastykarz](https://github.com/waldekmastykarz)/[**lab-officegraph-tren…**](https://github.com/waldekmastykarz/lab-officegraph-trendinginthissite)",
+              "Lab illustrating how to leverage the Office Graph in SharePoint Add-ins",
+              ""
+            ],
+            [
+              "2",
+              "[@thefringeninja](https://github.com/thefringeninja)/[**alarmclock**](https://github.com/thefringeninja/alarmclock)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@thefringeninja](https://github.com/thefringeninja)/[**Simple.Aras**](https://github.com/thefringeninja/Simple.Aras)",
+              "Super simple adapter for Aras Innovator inspired by Simple.Data",
+              ""
+            ],
+            [
+              "2",
+              "[@thefringeninja](https://github.com/thefringeninja)/[**rhino-esb-topshelf**](https://github.com/thefringeninja/rhino-esb-topshelf)",
+              "Host rhino esb inside topshelf and ease the configuration burden!",
+              ""
+            ],
+            [
+              "2",
+              "[@leonvanbokhorst](https://github.com/leonvanbokhorst)/[**IocContainer**](https://github.com/leonvanbokhorst/IocContainer)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@angelog](https://github.com/angelog)/[**Coral**](https://github.com/angelog/Coral)",
+              ":game_die: Coral Engine",
+              ""
+            ],
+            [
+              "2",
+              "[@martijnboland](https://github.com/martijnboland)/[**AuthenticatedOwinInt…**](https://github.com/martijnboland/AuthenticatedOwinIntegrationTests)",
+              "Example Visual Studio 2015 solution for Owin Web API authenticated integration tests without authorization server",
+              ""
+            ],
+            [
+              "2",
+              "[@aistrate](https://github.com/aistrate)/[**ForthInterpreter**](https://github.com/aistrate/ForthInterpreter)",
+              "Forth interpreter written in .NET (C#).",
+              ""
+            ],
+            [
+              "2",
+              "[@aistrate](https://github.com/aistrate)/[**B4F**](https://github.com/aistrate/B4F)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@TarasOsiris](https://github.com/TarasOsiris)/[**unity-editor-gui-ele…**](https://github.com/TarasOsiris/unity-editor-gui-elements)",
+              "Reference project for Unity Editor UI Elements",
+              ""
+            ],
+            [
+              "2",
+              "[@leonvanbokhorst](https://github.com/leonvanbokhorst)/[**EightPuzzleProblem**](https://github.com/leonvanbokhorst/EightPuzzleProblem)",
+              "The 8-Puzzle Problem is a thing they throw at you when you study Artificial Intelligence. It’s a great little problem for learning to understand search trees and shortest path algorithms with heuristics. Traveling via Breadth-First Search, via Depth First Search we mostly end up with the A* Algorithm using a Manhattan Distance Heuristic for effectively solving this problem. This article shows a way how to do this in C#.",
+              "[:arrow_upper_right:](http://www.remondo.net/solving-8-puzzle-problem-a-star-algorithm-csharp/)"
+            ],
+            [
+              "2",
+              "[@Mpdreamz](https://github.com/Mpdreamz)/[**tabalt**](https://github.com/Mpdreamz/tabalt)",
+              "Sticky Alt+Tab replacement for Windows that allows to be filtered",
+              ""
+            ],
+            [
+              "2",
+              "[@leonvanbokhorst](https://github.com/leonvanbokhorst)/[**SortAlgoBot**](https://github.com/leonvanbokhorst/SortAlgoBot)",
+              "SortAlgoBot performs a classic Quicksort sorting algorithm on an array of twelve colored Lego balls. It detects all colors in the first round. Then the sorting starts and all 'swaps' the algorithm makes are executed. Programmed in C# with VisualStudio 2010 and the excellent Mindsqualls Lego Mindstroms Nxt library. It fires of commands to Motorcontrol, a great third party application for better controlling motor movements on the Nxt brick.",
+              "[:arrow_upper_right:](http://www.remondo.net/mindstorms-nxt-robot-performing-quicksort-algorithm/)"
+            ],
+            [
+              "2",
+              "[@damianh](https://github.com/damianh)/[**Harley**](https://github.com/damianh/Harley)",
+              "Create custom desktop applications using Chromium embedded framework.",
+              ""
+            ],
+            [
+              "2",
+              "[@danelkhen](https://github.com/danelkhen)/[**fsync**](https://github.com/danelkhen/fsync)",
+              "File watcher and synchronizer between local windows file system and remote ssh linux path",
+              ""
+            ],
+            [
+              "2",
+              "[@damianh](https://github.com/damianh)/[**TestingWebApiWithOwi…**](https://github.com/damianh/TestingWebApiWithOwinTesting)",
+              "Simple example of doing in-memory acceptance testing of WebAPI controllers with Owin.Testing",
+              ""
+            ],
+            [
+              "2",
+              "[@pvginkel](https://github.com/pvginkel)/[**ProtoVariant**](https://github.com/pvginkel/ProtoVariant)",
+              "VARIANT implementation in protobuf-net",
+              ""
+            ],
+            [
+              "2",
+              "[@damianh](https://github.com/damianh)/[**HtmlMinifyMiddleware**](https://github.com/damianh/HtmlMinifyMiddleware)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ikkentim](https://github.com/ikkentim)/[**SampSharp-streamer**](https://github.com/ikkentim/SampSharp-streamer)",
+              "A wrapper of the popular SA-MP streamer plugin for SampSharp.",
+              ""
+            ],
+            [
+              "2",
+              "[@damianh](https://github.com/damianh)/[**Cedar.Domain**](https://github.com/damianh/Cedar.Domain)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@thefringeninja](https://github.com/thefringeninja)/[**CopyAndPasteMe**](https://github.com/thefringeninja/CopyAndPasteMe)",
+              "",
               ""
             ]
           ]
