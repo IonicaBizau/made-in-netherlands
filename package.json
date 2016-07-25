@@ -58,7 +58,8 @@
           "[Go](#go)",
           "[Haskell](#haskell)",
           "[Lua](#lua)",
-          "[Matlab](#matlab)"
+          "[Matlab](#matlab)",
+          "[Objective-C](#objective-c)"
         ]
       },
       {
@@ -5993,6 +5994,315 @@
               "2",
               "[@heimel](https://github.com/heimel)/[**InVivoTools**](https://github.com/heimel/InVivoTools)",
               "InVivoTools a set of neurophysiology tools, forked from VanHooserTools, containing tools for visual stimulation and analysis of calcium imaging and extracellular electrophysiology data",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Objective-C #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "2020",
+              "[@ioscreator](https://github.com/ioscreator)/[**ioscreator**](https://github.com/ioscreator/ioscreator)",
+              "Tutorials from ioscreator.com",
+              "[:arrow_upper_right:](ioscreator.com)"
+            ],
+            [
+              "719",
+              "[@kluivers](https://github.com/kluivers)/[**qc-mobile**](https://github.com/kluivers/qc-mobile)",
+              "A Quartz Composer implementation for iOS.",
+              "[:arrow_upper_right:](http://joris.kluivers.nl)"
+            ],
+            [
+              "521",
+              "[@hollance](https://github.com/hollance)/[**MHTabBarController**](https://github.com/hollance/MHTabBarController)",
+              "A custom tab bar controller for iOS 5",
+              ""
+            ],
+            [
+              "357",
+              "[@angelolloqui](https://github.com/angelolloqui)/[**AGi18n**](https://github.com/angelolloqui/AGi18n)",
+              "Utility to easily localize your iOS apps by automatically extracting texts from code and XIB files into a Localizable strings",
+              ""
+            ],
+            [
+              "201",
+              "[@angelolloqui](https://github.com/angelolloqui)/[**AGImageChecker**](https://github.com/angelolloqui/AGImageChecker)",
+              "",
+              ""
+            ],
+            [
+              "194",
+              "[@hollance](https://github.com/hollance)/[**MHRotaryKnob**](https://github.com/hollance/MHRotaryKnob)",
+              "UIControl for iOS that acts like a rotary knob",
+              ""
+            ],
+            [
+              "169",
+              "[@hollance](https://github.com/hollance)/[**MHLazyTableImages**](https://github.com/hollance/MHLazyTableImages)",
+              "This project is now deprecated.",
+              ""
+            ],
+            [
+              "152",
+              "[@kluivers](https://github.com/kluivers)/[**jbw-builders**](https://github.com/kluivers/jbw-builders)",
+              "Builder categories for some foundation classes",
+              ""
+            ],
+            [
+              "147",
+              "[@hollance](https://github.com/hollance)/[**MHPagingScrollView**](https://github.com/hollance/MHPagingScrollView)",
+              "A UIScrollView subclass that shows previews of the pages on the left and right.",
+              ""
+            ],
+            [
+              "129",
+              "[@hollance](https://github.com/hollance)/[**SoundBankPlayer**](https://github.com/hollance/SoundBankPlayer)",
+              "Sample-based audio player for iOS that uses OpenAL.",
+              ""
+            ],
+            [
+              "118",
+              "[@misato](https://github.com/misato)/[**SQLiteManager4iOS**](https://github.com/misato/SQLiteManager4iOS)",
+              "SQLite Manager for iOS: an Obj-C wrapper for SQLite3",
+              ""
+            ],
+            [
+              "90",
+              "[@hollance](https://github.com/hollance)/[**MHNibTableViewCell**](https://github.com/hollance/MHNibTableViewCell)",
+              "This code is now deprecated.",
+              ""
+            ],
+            [
+              "85",
+              "[@angelolloqui](https://github.com/angelolloqui)/[**AGBlurTransition**](https://github.com/angelolloqui/AGBlurTransition)",
+              "Custom transition delegate for presenting modal views with a blur background",
+              ""
+            ],
+            [
+              "81",
+              "[@raspu](https://github.com/raspu)/[**RPRadarChart**](https://github.com/raspu/RPRadarChart)",
+              "Simple Radar Chart (or Spider Web) Generator for iOS",
+              ""
+            ],
+            [
+              "77",
+              "[@hollance](https://github.com/hollance)/[**AudioBufferPlayer**](https://github.com/hollance/AudioBufferPlayer)",
+              "Class for doing simple iOS sound synthesis using Audio Queues.",
+              ""
+            ],
+            [
+              "52",
+              "[@terwanerik](https://github.com/terwanerik)/[**Retini**](https://github.com/terwanerik/Retini)",
+              "A super simple retina (2x, 3x) image converter.",
+              "[:arrow_upper_right:](http://terwanerik.github.io/Retini/)"
+            ],
+            [
+              "50",
+              "[@nodemaker](https://github.com/nodemaker)/[**Additions**](https://github.com/nodemaker/Additions)",
+              "Useful objective C categories and a cpl useful classes.",
+              ""
+            ],
+            [
+              "49",
+              "[@hollance](https://github.com/hollance)/[**TransparentJPEG**](https://github.com/hollance/TransparentJPEG)",
+              "Allows you to combine a JPEG with a second image to give it transparency.",
+              "[:arrow_upper_right:](http://www.hollance.com/2011/11/transparent-jpeg-images/)"
+            ],
+            [
+              "32",
+              "[@hollance](https://github.com/hollance)/[**MHSemiModal**](https://github.com/hollance/MHSemiModal)",
+              "Category on UIViewController that makes it easy to present modal view controllers that only partially cover the screen.",
+              "[:arrow_upper_right:](http://www.hollance.com)"
+            ],
+            [
+              "28",
+              "[@kluivers](https://github.com/kluivers)/[**storyboard-constants**](https://github.com/kluivers/storyboard-constants)",
+              "Example project that demonstrates how to generate NSString constants for Storyboard identifiers.",
+              ""
+            ],
+            [
+              "23",
+              "[@leonardvandriel](https://github.com/leonardvandriel)/[**Tosti**](https://github.com/leonardvandriel/Tosti)",
+              "An Objective-C interpreter without C support.",
+              ""
+            ],
+            [
+              "22",
+              "[@hollance](https://github.com/hollance)/[**MHPopoverManager**](https://github.com/hollance/MHPopoverManager)",
+              "A simple class for managing the lifecycle of your UIPopoverControllers",
+              "[:arrow_upper_right:](http://www.hollance.com)"
+            ],
+            [
+              "16",
+              "[@hollance](https://github.com/hollance)/[**AVBufferPlayer**](https://github.com/hollance/AVBufferPlayer)",
+              "Shows how to use AVAudioPlayer to play a buffer of waveform data that you give it.",
+              ""
+            ],
+            [
+              "14",
+              "[@raspu](https://github.com/raspu)/[**RPTileScroller**](https://github.com/raspu/RPTileScroller)",
+              "SpriteKit Infinite Tile Scroller",
+              ""
+            ],
+            [
+              "14",
+              "[@hollance](https://github.com/hollance)/[**MHTintHelper**](https://github.com/hollance/MHTintHelper)",
+              "Tool that quickly lets you pick tint colors for navigation bars etc.",
+              ""
+            ],
+            [
+              "11",
+              "[@hollance](https://github.com/hollance)/[**ShrinkPng**](https://github.com/hollance/ShrinkPng)",
+              "Simple tool for shrinking images 50% by averaging the color (and alpha) of each 2x2 pixel block.",
+              "[:arrow_upper_right:](http://www.hollance.com/2011/04/drawing-retina-graphics/)"
+            ],
+            [
+              "11",
+              "[@hollance](https://github.com/hollance)/[**MHDatabase**](https://github.com/hollance/MHDatabase)",
+              "A simple Objective-C wrapper around the sqlite3 functions.",
+              ""
+            ],
+            [
+              "10",
+              "[@Thomvis](https://github.com/Thomvis)/[**icloud-indicator**](https://github.com/Thomvis/icloud-indicator)",
+              "A UI element that enables users to resume or remove games from the iCloud",
+              ""
+            ],
+            [
+              "10",
+              "[@marlonandrade](https://github.com/marlonandrade)/[**malazykit**](https://github.com/marlonandrade/malazykit)",
+              "Collection of extensions for easier object instantiation",
+              ""
+            ],
+            [
+              "9",
+              "[@raspu](https://github.com/raspu)/[**RPCGSandbox**](https://github.com/raspu/RPCGSandbox)",
+              "Some tests I made while teaching myself core graphics.",
+              ""
+            ],
+            [
+              "7",
+              "[@hollance](https://github.com/hollance)/[**MHOverride**](https://github.com/hollance/MHOverride)",
+              "Category on NSObject that lets you override methods on existing objects using blocks, without having to make a subclass.",
+              ""
+            ],
+            [
+              "7",
+              "[@tscheepers](https://github.com/tscheepers)/[**Starry-v1**](https://github.com/tscheepers/Starry-v1)",
+              "Astronomy iOS app. The universe is a big place, and we’ve brought it to your fingertips. Discover and explore the night sky with your iPhone in hand. The app is clutter free, feature rich, and is everything you could wish for in a stargazing app. Starry v2 has ben released, a complete rewrite, faster with new features.",
+              "[:arrow_upper_right:](http://itunes.apple.com/en/app/starry/id465445586)"
+            ],
+            [
+              "6",
+              "[@kluivers](https://github.com/kluivers)/[**stills2life**](https://github.com/kluivers/stills2life)",
+              "Create a movie from a sequence of image stills",
+              ""
+            ],
+            [
+              "5",
+              "[@marlonandrade](https://github.com/marlonandrade)/[**MASimplestSemiModalV…**](https://github.com/marlonandrade/MASimplestSemiModalViewController)",
+              "The simplest Semi Modal implementation possible",
+              ""
+            ],
+            [
+              "5",
+              "[@xnyhps](https://github.com/xnyhps)/[**NickColor**](https://github.com/xnyhps/NickColor)",
+              "Plugin for Adium which colors nicknames used in group chats with their sender's color.",
+              ""
+            ],
+            [
+              "5",
+              "[@kluivers](https://github.com/kluivers)/[**progress-example**](https://github.com/kluivers/progress-example)",
+              "An example on how to use NSProgress functionality",
+              ""
+            ],
+            [
+              "5",
+              "[@hollance](https://github.com/hollance)/[**MHOverlayWindow**](https://github.com/hollance/MHOverlayWindow)",
+              "A simple example of how to make a UIWindow that appears on top of everything else, including the status bar. ",
+              ""
+            ],
+            [
+              "4",
+              "[@sanekgusev](https://github.com/sanekgusev)/[**SGVBackgroundRunloop**](https://github.com/sanekgusev/SGVBackgroundRunloop)",
+              "A gcd-like API for dispatching blocks onto a full-fledged runloop running on a background thread.",
+              ""
+            ],
+            [
+              "3",
+              "[@sanekgusev](https://github.com/sanekgusev)/[**SGVReachability**](https://github.com/sanekgusev/SGVReachability)",
+              "Simple reachability wrapper for iOS.",
+              ""
+            ],
+            [
+              "3",
+              "[@sanekgusev](https://github.com/sanekgusev)/[**SGProxyingURLProtoco…**](https://github.com/sanekgusev/SGProxyingURLProtocol)",
+              "An NSURLProtocol subclass for easy creation of pass-through URL protocols.",
+              ""
+            ],
+            [
+              "3",
+              "[@AvdLee](https://github.com/AvdLee)/[**ImageCollectionViewe…**](https://github.com/AvdLee/ImageCollectionViewer)",
+              "Get FB Albums and show them in a gallery",
+              ""
+            ],
+            [
+              "3",
+              "[@leonardvandriel](https://github.com/leonardvandriel)/[**Spati**](https://github.com/leonardvandriel/Spati)",
+              "A caching layer for Objective-C.",
+              ""
+            ],
+            [
+              "2",
+              "[@tscheepers](https://github.com/tscheepers)/[**Bubblesweeper**](https://github.com/tscheepers/Bubblesweeper)",
+              "Minesweeper game for iOS that uses the bubblewrap pattern.",
+              ""
+            ],
+            [
+              "2",
+              "[@sanekgusev](https://github.com/sanekgusev)/[**SGVAppearanceProxy**](https://github.com/sanekgusev/SGVAppearanceProxy)",
+              "An UIAppearance proxy wrapper to work around UIAppearance performance issues on iOS7.",
+              ""
+            ],
+            [
+              "2",
+              "[@AvdLee](https://github.com/AvdLee)/[**UIControl-Blocks**](https://github.com/AvdLee/UIControl-Blocks)",
+              "Use blocks with UIControls",
+              ""
+            ],
+            [
+              "2",
+              "[@0xPr0xy](https://github.com/0xPr0xy)/[**iBeacon-Demo**](https://github.com/0xPr0xy/iBeacon-Demo)",
+              "iBeacon Demo application",
+              ""
+            ],
+            [
+              "2",
+              "[@mac-cain13](https://github.com/mac-cain13)/[**ios-kenteken-formatt…**](https://github.com/mac-cain13/ios-kenteken-formatter)",
+              "Nederlandse kentekens formatten en valideren in je iOS project.",
+              ""
+            ],
+            [
+              "2",
+              "[@hollance](https://github.com/hollance)/[**MHMetaColors**](https://github.com/hollance/MHMetaColors)",
+              "Category that allows you to write, for example, [UIColor xFF3399] to make a new UIColor object with values #FF3399. ",
+              ""
+            ],
+            [
+              "2",
+              "[@misato](https://github.com/misato)/[**DCIntrospectARC**](https://github.com/misato/DCIntrospectARC)",
+              "The DCIntrospect ARC & iOS6 compatible",
               ""
             ]
           ]
