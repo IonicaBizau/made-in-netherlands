@@ -61,7 +61,8 @@
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
-          "[PHP](#php)"
+          "[PHP](#php)",
+          "[Python](#python)"
         ]
       },
       {
@@ -8772,6 +8773,1029 @@
               "[@markoheijnen](https://github.com/markoheijnen)/[**BuddyPress-Meetup**](https://github.com/markoheijnen/BuddyPress-Meetup)",
               "",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Python #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "8838",
+              "[@faif](https://github.com/faif)/[**python-patterns**](https://github.com/faif/python-patterns)",
+              "A collection of design patterns/idioms in Python",
+              ""
+            ],
+            [
+              "3115",
+              "[@nvie](https://github.com/nvie)/[**rq**](https://github.com/nvie/rq)",
+              "Simple job queues for Python",
+              "[:arrow_upper_right:](http://python-rq.org)"
+            ],
+            [
+              "2474",
+              "[@pennersr](https://github.com/pennersr)/[**django-allauth**](https://github.com/pennersr/django-allauth)",
+              "Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.",
+              "[:arrow_upper_right:](http://www.intenct.nl/projects/django-allauth/)"
+            ],
+            [
+              "1674",
+              "[@nvie](https://github.com/nvie)/[**pip-tools**](https://github.com/nvie/pip-tools)",
+              "A set of tools to keep your pinned Python dependencies fresh.",
+              ""
+            ],
+            [
+              "398",
+              "[@nvie](https://github.com/nvie)/[**times**](https://github.com/nvie/times)",
+              "Times and time zones in Python with a focus on best practices.",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/times)"
+            ],
+            [
+              "313",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-newsletter**](https://github.com/dokterbob/django-newsletter)",
+              "An email newsletter application for the Django web application framework, including an extended admin interface, web (un)subscription, dynamic e-mail templates, an archive and HTML email support.",
+              ""
+            ],
+            [
+              "306",
+              "[@FSX](https://github.com/FSX)/[**momoko**](https://github.com/FSX/momoko)",
+              "Wraps (asynchronous) Psycopg2 for Tornado.",
+              "[:arrow_upper_right:](http://momoko.61924.nl/)"
+            ],
+            [
+              "192",
+              "[@proycon](https://github.com/proycon)/[**pynlpl**](https://github.com/proycon/pynlpl)",
+              "PyNLPl, pronounced as 'pineapple', is a Python library for Natural Language Processing. It contains various modules useful for common, and less common, NLP tasks. PyNLPl can be used for basic tasks such as the extraction of n-grams and frequency lists, and to build simple language model. There are also more complex data types and algorithms. Moreover, there are parsers for file formats common in NLP (e.g. FoLiA/Giza/Moses/ARPA/Timbl/CQL). There are also clients to interface with various NLP specific servers. PyNLPl most notably features a very extensive library for working with FoLiA XML (Format for Linguistic Annotation).",
+              "[:arrow_upper_right:](https://pypi.python.org/pypi/PyNLPl)"
+            ],
+            [
+              "154",
+              "[@joepie91](https://github.com/joepie91)/[**python-whois**](https://github.com/joepie91/python-whois)",
+              "A python module for retrieving and parsing WHOIS data",
+              ""
+            ],
+            [
+              "142",
+              "[@bcambel](https://github.com/bcambel)/[**pythonhackers**](https://github.com/bcambel/pythonhackers)",
+              "http://pythonhackers.com",
+              ""
+            ],
+            [
+              "124",
+              "[@alonsovidales](https://github.com/alonsovidales)/[**facebook-programming…**](https://github.com/alonsovidales/facebook-programming-challenges)",
+              "This is a compilation of possible questions to be solved in order to be hired by Facebook ",
+              ""
+            ],
+            [
+              "121",
+              "[@ralphm](https://github.com/ralphm)/[**wokkel**](https://github.com/ralphm/wokkel)",
+              "Wokkel is collection of enhancements on top of the Twisted networking framework, written in Python. It mostly provides a testing ground for enhancements to the Jabber/XMPP protocol implementation as found in Twisted Words, that are meant to eventually move there.",
+              "[:arrow_upper_right:](http://wokkel.ik.nu/)"
+            ],
+            [
+              "114",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-agenda**](https://github.com/dokterbob/django-agenda)",
+              "An event agenda application for Django 1.0+.",
+              ""
+            ],
+            [
+              "101",
+              "[@nvie](https://github.com/nvie)/[**vim-rst-tables**](https://github.com/nvie/vim-rst-tables)",
+              "Easily create and reformat your RST (reStructuredText) tables as you change cell content.",
+              ""
+            ],
+            [
+              "86",
+              "[@pennersr](https://github.com/pennersr)/[**django-jhouston**](https://github.com/pennersr/django-jhouston)",
+              "Houston, we have a Javascript problem",
+              ""
+            ],
+            [
+              "78",
+              "[@nvie](https://github.com/nvie)/[**cookiecutter-python-…**](https://github.com/nvie/cookiecutter-python-cli)",
+              "",
+              ""
+            ],
+            [
+              "56",
+              "[@ttsiodras](https://github.com/ttsiodras)/[**utils**](https://github.com/ttsiodras/utils)",
+              "Short shell/perl/python utils I wrote that I use every day.",
+              ""
+            ],
+            [
+              "53",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-popularity**](https://github.com/dokterbob/django-popularity)",
+              "A generic view- and popularity tracking pluggable for Django.",
+              ""
+            ],
+            [
+              "51",
+              "[@nvie](https://github.com/nvie)/[**vim-pyunit**](https://github.com/nvie/vim-pyunit)",
+              "Plugin enabling advanced unit test support inside your favorite editor.",
+              ""
+            ],
+            [
+              "48",
+              "[@faassen](https://github.com/faassen)/[**bowerstatic**](https://github.com/faassen/bowerstatic)",
+              "Serve Bower-managed static resources using WSGI",
+              ""
+            ],
+            [
+              "46",
+              "[@bow](https://github.com/bow)/[**volt**](https://github.com/bow/volt)",
+              "Versatile static website generator",
+              "[:arrow_upper_right:](http://github.com/bow/volt)"
+            ],
+            [
+              "45",
+              "[@laanwj](https://github.com/laanwj)/[**decuda**](https://github.com/laanwj/decuda)",
+              "Decuda and cudasm, the CUDA binary utilities package",
+              "[:arrow_upper_right:](http://wiki.github.com/laanwj/decuda)"
+            ],
+            [
+              "45",
+              "[@nvie](https://github.com/nvie)/[**SimpleAES**](https://github.com/nvie/SimpleAES)",
+              "AES-256 encryption and decryption in Python for mere mortals.",
+              ""
+            ],
+            [
+              "43",
+              "[@nvie](https://github.com/nvie)/[**django-gravatar**](https://github.com/nvie/django-gravatar)",
+              "Fork of http://code.google.com/p/django-gravatar (2010/10/22)",
+              ""
+            ],
+            [
+              "43",
+              "[@nvie](https://github.com/nvie)/[**python-fu**](https://github.com/nvie/python-fu)",
+              "Python command line tools, for increased fu.",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/python-fu)"
+            ],
+            [
+              "40",
+              "[@pennersr](https://github.com/pennersr)/[**django-pagemore**](https://github.com/pennersr/django-pagemore)",
+              "KISS approach to a \"Load more\" style AJAX paginator",
+              ""
+            ],
+            [
+              "36",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-multilingual-…**](https://github.com/dokterbob/django-multilingual-model)",
+              "Django Simple Multilingual Support for Models.",
+              ""
+            ],
+            [
+              "33",
+              "[@proycon](https://github.com/proycon)/[**clam**](https://github.com/proycon/clam)",
+              "Quickly turn command-line applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.",
+              "[:arrow_upper_right:](https://proycon.github.io/clam)"
+            ],
+            [
+              "32",
+              "[@gr33ndata](https://github.com/gr33ndata)/[**irlib**](https://github.com/gr33ndata/irlib)",
+              "Information Retrieval Library (in Python)",
+              "[:arrow_upper_right:](https://github.com/gr33ndata/irlib)"
+            ],
+            [
+              "32",
+              "[@pennersr](https://github.com/pennersr)/[**django-trackstats**](https://github.com/pennersr/django-trackstats)",
+              "Keep track of your statistics",
+              ""
+            ],
+            [
+              "32",
+              "[@pennersr](https://github.com/pennersr)/[**netwell**](https://github.com/pennersr/netwell)",
+              "Checker to determine if all is well",
+              ""
+            ],
+            [
+              "30",
+              "[@specialunderwear](https://github.com/specialunderwear)/[**django-easymode**](https://github.com/specialunderwear/django-easymode)",
+              "Quickly build backends for flash/flex websites with Django.",
+              ""
+            ],
+            [
+              "27",
+              "[@jimmykane](https://github.com/jimmykane)/[**SiriServerCorePlugin…**](https://github.com/jimmykane/SiriServerCorePlugins)",
+              "SiriServerCore - Plugins Contributed by community",
+              "[:arrow_upper_right:](http://hack.silentspark.net/phpbb/index.php)"
+            ],
+            [
+              "26",
+              "[@faassen](https://github.com/faassen)/[**graphql-wsgi**](https://github.com/faassen/graphql-wsgi)",
+              "Python WSGI based GraphQL server",
+              ""
+            ],
+            [
+              "24",
+              "[@brocaar](https://github.com/brocaar)/[**flask-views**](https://github.com/brocaar/flask-views)",
+              "Class-based views for Flask",
+              "[:arrow_upper_right:](http://brocaar.com/)"
+            ],
+            [
+              "24",
+              "[@proycon](https://github.com/proycon)/[**folia**](https://github.com/proycon/folia)",
+              "FoLiA: Format for Linguistic Annotation - FoLiA is a rich XML-based annotation format for the representation of language resources (including corpora) with linguistic annotations. A wide variety of linguistic annotations are support, making FoLiA a useful format for NLP tasks and data interchange. Note that the actual Python library for processing FoLiA is implemented as part of PyNLPl, this contains higher-level tools that use the library as well as the full documentation, validation schemas, and set definitions",
+              "[:arrow_upper_right:](http://proycon.github.io/folia/)"
+            ],
+            [
+              "20",
+              "[@bow](https://github.com/bow)/[**abifpy**](https://github.com/bow/abifpy)",
+              "Module for reading ABI Sanger sequencing trace files",
+              ""
+            ],
+            [
+              "19",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-portfolio**](https://github.com/dokterbob/django-portfolio)",
+              "An artist's portfolio as a pluggable Django app.",
+              ""
+            ],
+            [
+              "18",
+              "[@dokterbob](https://github.com/dokterbob)/[**satchmo**](https://github.com/dokterbob/satchmo)",
+              "Satchmo is an ecommerce framework built on the Django framework. (BitBucket mirror)",
+              "[:arrow_upper_right:](http://bitbucket.org/chris1610/satchmo/wiki/Home)"
+            ],
+            [
+              "18",
+              "[@fbkarsdorp](https://github.com/fbkarsdorp)/[**diachronic-text-anal…**](https://github.com/fbkarsdorp/diachronic-text-analysis)",
+              "Diachronic text analysis in Python",
+              ""
+            ],
+            [
+              "18",
+              "[@nvie](https://github.com/nvie)/[**vim_bridge**](https://github.com/nvie/vim_bridge)",
+              "A Python-to-Vim bridge decorator that allows transparent calls to Python functions in native Vim scripts.",
+              ""
+            ],
+            [
+              "17",
+              "[@jimmykane](https://github.com/jimmykane)/[**gae-voting-ajax-exam…**](https://github.com/jimmykane/gae-voting-ajax-example)",
+              "An example on how to use AJAX with Google App Engine",
+              ""
+            ],
+            [
+              "16",
+              "[@nvie](https://github.com/nvie)/[**pluck**](https://github.com/nvie/pluck)",
+              "General-purpose function to pluck fields from an iterable's values.",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/pluck)"
+            ],
+            [
+              "14",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-project-base**](https://github.com/dokterbob/django-project-base)",
+              "A project base template for personal use. Features include djangologging and a smart settings.py file.",
+              ""
+            ],
+            [
+              "14",
+              "[@nvie](https://github.com/nvie)/[**dictmerge**](https://github.com/nvie/dictmerge)",
+              "Merge dicts without mutating them.",
+              ""
+            ],
+            [
+              "14",
+              "[@brocaar](https://github.com/brocaar)/[**django-i18nurls**](https://github.com/brocaar/django-i18nurls)",
+              "Translate URL patterns and prefix URLs with language-code.",
+              "[:arrow_upper_right:](http://brocaar.com/)"
+            ],
+            [
+              "14",
+              "[@Habbie](https://github.com/Habbie)/[**ip6-arpa-scan**](https://github.com/Habbie/ip6-arpa-scan)",
+              "ip6.arpa scanner",
+              ""
+            ],
+            [
+              "13",
+              "[@Mechazawa](https://github.com/Mechazawa)/[**Nimdok**](https://github.com/Mechazawa/Nimdok)",
+              "A fully featured modular IRC bot",
+              ""
+            ],
+            [
+              "12",
+              "[@nvie](https://github.com/nvie)/[**new_workers**](https://github.com/nvie/new_workers)",
+              "",
+              ""
+            ],
+            [
+              "12",
+              "[@nvie](https://github.com/nvie)/[**git-it**](https://github.com/nvie/git-it)",
+              "Git issue tracker",
+              ""
+            ],
+            [
+              "12",
+              "[@FSX](https://github.com/FSX)/[**akane**](https://github.com/FSX/akane)",
+              "An(other) asynchronous Redis client for Tornado.",
+              ""
+            ],
+            [
+              "12",
+              "[@ralphm](https://github.com/ralphm)/[**idavoll**](https://github.com/ralphm/idavoll)",
+              "Idavoll is an implementation of a generic publish-subscribe service component for Jabber servers, as described in  XEP-0060, written in Python using the Twisted networking framework. ",
+              "[:arrow_upper_right:](http://idavoll.ik.nu/)"
+            ],
+            [
+              "12",
+              "[@nvie](https://github.com/nvie)/[**python-drainers**](https://github.com/nvie/python-drainers)",
+              "Event-based draining of process output",
+              "[:arrow_upper_right:](http://pypi.python.org/pypi/drainers)"
+            ],
+            [
+              "12",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-simplesite**](https://github.com/dokterbob/django-simplesite)",
+              "A simple pseudo-static site app with menu, submenu and pages.",
+              ""
+            ],
+            [
+              "11",
+              "[@bow](https://github.com/bow)/[**crimson**](https://github.com/bow/crimson)",
+              "Bioinformatics tool outputs converter to JSON or YAML",
+              ""
+            ],
+            [
+              "11",
+              "[@proycon](https://github.com/proycon)/[**python-ucto**](https://github.com/proycon/python-ucto)",
+              "This is a Python binding to the tokenizer Ucto. Tokenisation is one of the first step in almost any Natural Language Processing task, yet it is not always as trivial a task as it appears to be. This binding makes the power of the ucto tokeniser available to Python. Ucto itself is regular-expression based, extensible, and advanced tokeniser written in C++ (http://ilk.uvt.nl/ucto).",
+              ""
+            ],
+            [
+              "10",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-guestbook**](https://github.com/dokterbob/django-guestbook)",
+              "A simple guestbook application for Django, based largely on the contributed comments application",
+              "[:arrow_upper_right:](http://cooking.visualspace.nl/)"
+            ],
+            [
+              "10",
+              "[@specialunderwear](https://github.com/specialunderwear)/[**django-finegrained-p…**](https://github.com/specialunderwear/django-finegrained-permissions)",
+              "Permissions per field instead of per model for django",
+              ""
+            ],
+            [
+              "10",
+              "[@gr33ndata](https://github.com/gr33ndata)/[**NLP_GDGCairo2013**](https://github.com/gr33ndata/NLP_GDGCairo2013)",
+              "Code used in my presentation in GDG Cairo about Natural Language Processing in Python",
+              ""
+            ],
+            [
+              "10",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-shopkit**](https://github.com/dokterbob/django-shopkit)",
+              "A toolkit for building customized webshop applications, for 'perfectionists with deadlines'.",
+              "[:arrow_upper_right:](http://django-shopkit.readthedocs.org/en/latest/)"
+            ],
+            [
+              "10",
+              "[@pennersr](https://github.com/pennersr)/[**django-cooki18n**](https://github.com/pennersr/django-cooki18n)",
+              "Django's builtin i18n support stores the selected language in the session, cooki18n uses cookies instead.",
+              ""
+            ],
+            [
+              "9",
+              "[@laanwj](https://github.com/laanwj)/[**urbit-tools**](https://github.com/laanwj/urbit-tools)",
+              "Various urbit tools and libraries",
+              ""
+            ],
+            [
+              "9",
+              "[@pennersr](https://github.com/pennersr)/[**pulsus**](https://github.com/pennersr/pulsus)",
+              "A Push Notification Service, written in Python, handling Apple APNS, and Google GCM.",
+              ""
+            ],
+            [
+              "8",
+              "[@goossaert](https://github.com/goossaert)/[**prince**](https://github.com/goossaert/prince)",
+              "Extra-light API for using Hadoop with Python",
+              ""
+            ],
+            [
+              "8",
+              "[@ttsiodras](https://github.com/ttsiodras)/[**Youtube-Video-Annota…**](https://github.com/ttsiodras/Youtube-Video-Annotations-Player)",
+              "Youtube Video Annotations Player",
+              "[:arrow_upper_right:](http://ttsiodras.github.com/youtube.html)"
+            ],
+            [
+              "8",
+              "[@bow](https://github.com/bow)/[**pytest-pipeline**](https://github.com/bow/pytest-pipeline)",
+              "Pytest plugin for functional testing of data analysis pipelines",
+              ""
+            ],
+            [
+              "8",
+              "[@proycon](https://github.com/proycon)/[**python-frog**](https://github.com/proycon/python-frog)",
+              "Python bindings to the dutch NLP tool Frog (pos tagger, lemmatiser, NER tagger, morphological analysis, shallow parser, dependency parser)",
+              ""
+            ],
+            [
+              "8",
+              "[@nl5887](https://github.com/nl5887)/[**python-haproxy**](https://github.com/nl5887/python-haproxy)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@jimmykane](https://github.com/jimmykane)/[**Roque-Dns-Server**](https://github.com/jimmykane/Roque-Dns-Server)",
+              "A python Roque Dns server with DNS resolving on running host",
+              ""
+            ],
+            [
+              "7",
+              "[@laanwj](https://github.com/laanwj)/[**bitcoin-submittx**](https://github.com/laanwj/bitcoin-submittx)",
+              "Stand-alone Bitcoin transaction submission tool",
+              ""
+            ],
+            [
+              "7",
+              "[@sander1](https://github.com/sander1)/[**YifySubtitles.bundle**](https://github.com/sander1/YifySubtitles.bundle)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@sander1](https://github.com/sander1)/[**EyeTV.bundle**](https://github.com/sander1/EyeTV.bundle)",
+              "",
+              "[:arrow_upper_right:](http://forums.plexapp.com/index.php/topic/24602-eyetv-for-plex-for-ios)"
+            ],
+            [
+              "6",
+              "[@Mechazawa](https://github.com/Mechazawa)/[**whatbetter-crawler**](https://github.com/Mechazawa/whatbetter-crawler)",
+              "A fork of whatbetter that can run autonomously",
+              ""
+            ],
+            [
+              "6",
+              "[@laanwj](https://github.com/laanwj)/[**hw2view**](https://github.com/laanwj/hw2view)",
+              "Viewer for Relic Entertainment Homeworld 2 backgrounds",
+              ""
+            ],
+            [
+              "6",
+              "[@nvie](https://github.com/nvie)/[**BKrypt**](https://github.com/nvie/BKrypt)",
+              "Thin wrapper around the bcrypt library.",
+              ""
+            ],
+            [
+              "6",
+              "[@joepie91](https://github.com/joepie91)/[**image-disc**](https://github.com/joepie91/image-disc)",
+              "A small utility to batch-create archived images of CDs/DVDs on Linux.",
+              ""
+            ],
+            [
+              "6",
+              "[@FSX](https://github.com/FSX)/[**animelist**](https://github.com/FSX/animelist)",
+              "(not maintained) AnimeList is an desktop application for MynimeList.net written in Python (and PyGTK). It includes (anime) list management and a search function.",
+              ""
+            ],
+            [
+              "6",
+              "[@sander1](https://github.com/sander1)/[**Dreambox.bundle**](https://github.com/sander1/Dreambox.bundle)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@proycon](https://github.com/proycon)/[**pbmbmt**](https://github.com/proycon/pbmbmt)",
+              "Phrase-based Memory-based Machine Translation",
+              "[:arrow_upper_right:](http://ilk.uvt.nl/mbmt/pbmbmt)"
+            ],
+            [
+              "6",
+              "[@laanwj](https://github.com/laanwj)/[**gecko-zenoss**](https://github.com/laanwj/gecko-zenoss)",
+              "Zenoss Events Geckoboard Widget",
+              ""
+            ],
+            [
+              "6",
+              "[@fbkarsdorp](https://github.com/fbkarsdorp)/[**mbmp**](https://github.com/fbkarsdorp/mbmp)",
+              "Memory-based Morphological Parsing",
+              ""
+            ],
+            [
+              "5",
+              "[@goossaert](https://github.com/goossaert)/[**algorithms**](https://github.com/goossaert/algorithms)",
+              "Various algorithms and code samples",
+              ""
+            ],
+            [
+              "5",
+              "[@joepie91](https://github.com/joepie91)/[**pytahoe**](https://github.com/joepie91/pytahoe)",
+              "Python module for working with the Tahoe-LAFS filesystem.",
+              ""
+            ],
+            [
+              "5",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-accesscontrol**](https://github.com/dokterbob/django-accesscontrol)",
+              "Generic IP, host and rate-based access control midware for Django.",
+              ""
+            ],
+            [
+              "5",
+              "[@Mechazawa](https://github.com/Mechazawa)/[**Illuminati-detector**](https://github.com/Mechazawa/Illuminati-detector)",
+              "",
+              "[:arrow_upper_right:](https://illuminati.gaben.sexy)"
+            ],
+            [
+              "5",
+              "[@compleatang](https://github.com/compleatang)/[**Legal-Snippets-Subli…**](https://github.com/compleatang/Legal-Snippets-Sublime)",
+              "Snippets for Creating Legal Documents within Sublime Text Editor.",
+              ""
+            ],
+            [
+              "5",
+              "[@joepie91](https://github.com/joepie91)/[**emailparser**](https://github.com/joepie91/emailparser)",
+              "Parser and HTML renderer for .eml files.",
+              ""
+            ],
+            [
+              "5",
+              "[@proycon](https://github.com/proycon)/[**python-timbl**](https://github.com/proycon/python-timbl)",
+              "python-timbl, originally developed by Sander Canisius, is a Python extension module wrapping the full TiMBL C++ programming interface. With this module, all functionality exposed through the C++ interface is also available to Python scripts. Being able to access the API from Python greatly facilitates prototyping TiMBL-based applications.",
+              ""
+            ],
+            [
+              "5",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-metadata**](https://github.com/dokterbob/django-metadata)",
+              "Generic model metadata for the Django web framework.",
+              ""
+            ],
+            [
+              "5",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-metaphore**](https://github.com/dokterbob/django-metaphore)",
+              "Omniscient publication in Django.",
+              ""
+            ],
+            [
+              "5",
+              "[@specialunderwear](https://github.com/specialunderwear)/[**pm.recipe.debianize**](https://github.com/specialunderwear/pm.recipe.debianize)",
+              "Buildout recipe to create debian packages from python packages.",
+              ""
+            ],
+            [
+              "5",
+              "[@proycon](https://github.com/proycon)/[**gecco**](https://github.com/proycon/gecco)",
+              "Generic Environment for Context-Aware Correction of Orthography",
+              ""
+            ],
+            [
+              "5",
+              "[@brocaar](https://github.com/brocaar)/[**wtfmongoengine**](https://github.com/brocaar/wtfmongoengine)",
+              "WTForms for Mongoengine documents",
+              "[:arrow_upper_right:](http://brocaar.com/)"
+            ],
+            [
+              "4",
+              "[@nvie](https://github.com/nvie)/[**even-more-itertools**](https://github.com/nvie/even-more-itertools)",
+              "Even more itertools than the stdlib and the more-itertools project provide.",
+              ""
+            ],
+            [
+              "4",
+              "[@faassen](https://github.com/faassen)/[**more.jsonld**](https://github.com/faassen/more.jsonld)",
+              "JSON-LD support for Morepath.",
+              ""
+            ],
+            [
+              "4",
+              "[@sander1](https://github.com/sander1)/[**YouTube-Agent.bundle**](https://github.com/sander1/YouTube-Agent.bundle)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@fbkarsdorp](https://github.com/fbkarsdorp)/[**alignment**](https://github.com/fbkarsdorp/alignment)",
+              "Simple Python library for doing (multiple) sequence alignment",
+              ""
+            ],
+            [
+              "4",
+              "[@compleatang](https://github.com/compleatang)/[**sublimetext-pastepdf**](https://github.com/compleatang/sublimetext-pastepdf)",
+              "Paste PDF text block to Sublime after stripping new lines.",
+              ""
+            ],
+            [
+              "4",
+              "[@faassen](https://github.com/faassen)/[**crom**](https://github.com/faassen/crom)",
+              "Components",
+              ""
+            ],
+            [
+              "4",
+              "[@specialunderwear](https://github.com/specialunderwear)/[**django-polymorphic-e…**](https://github.com/specialunderwear/django-polymorphic-easymode)",
+              "Infinite power with django_polymorphic and django-easymode",
+              ""
+            ],
+            [
+              "3",
+              "[@joepie91](https://github.com/joepie91)/[**lighttpdparse**](https://github.com/joepie91/lighttpdparse)",
+              "A simple script for getting the top statistics from one or more lighttpd access log files.",
+              ""
+            ],
+            [
+              "3",
+              "[@vdboor](https://github.com/vdboor)/[**django-any-htmlfield**](https://github.com/vdboor/django-any-htmlfield)",
+              "(a proposal) a A WYSIWYG HTML editor field for Django, allowing to select between WYSIWYG editors easily (for example CKEditor or TinyMCE).",
+              ""
+            ],
+            [
+              "3",
+              "[@joepie91](https://github.com/joepie91)/[**tahoe-tools**](https://github.com/joepie91/tahoe-tools)",
+              "Assorted tools for Tahoe-LAFS.",
+              ""
+            ],
+            [
+              "3",
+              "[@fbkarsdorp](https://github.com/fbkarsdorp)/[**storypy**](https://github.com/fbkarsdorp/storypy)",
+              "A collection of scripts in Python to deal with stories (mainly folktales) ",
+              ""
+            ],
+            [
+              "3",
+              "[@faassen](https://github.com/faassen)/[**grokker**](https://github.com/faassen/grokker)",
+              "Defining grokkers using venusian.",
+              ""
+            ],
+            [
+              "3",
+              "[@dokterbob](https://github.com/dokterbob)/[**hansenpaul**](https://github.com/dokterbob/hansenpaul)",
+              "Hans en Paul 120 jaar Django YouTube front-end",
+              ""
+            ],
+            [
+              "3",
+              "[@dokterbob](https://github.com/dokterbob)/[**python-oembed**](https://github.com/dokterbob/python-oembed)",
+              "A Python library that implements an OEmbed consumer to use with OEmbed providers.\nFork of Google Code project at: http://code.google.com/p/python-oembed/",
+              ""
+            ],
+            [
+              "3",
+              "[@Mechazawa](https://github.com/Mechazawa)/[**Pushover-client-prot…**](https://github.com/Mechazawa/Pushover-client-protocol)",
+              "The missing PushOver client api documentation",
+              ""
+            ],
+            [
+              "3",
+              "[@jimmykane](https://github.com/jimmykane)/[**dns-spoofer**](https://github.com/jimmykane/dns-spoofer)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@alonsovidales](https://github.com/alonsovidales)/[**interview_questions**](https://github.com/alonsovidales/interview_questions)",
+              "Just a bunch of answers to common interview questions",
+              ""
+            ],
+            [
+              "3",
+              "[@laanwj](https://github.com/laanwj)/[**ast_pickler**](https://github.com/laanwj/ast_pickler)",
+              "Proof of concept serialization library that generates the Python code to construct objects.",
+              ""
+            ],
+            [
+              "3",
+              "[@jimmykane](https://github.com/jimmykane)/[**facebook-id-finder**](https://github.com/jimmykane/facebook-id-finder)",
+              "Finds the numerical ID by providing a Facebook page url or name",
+              ""
+            ],
+            [
+              "3",
+              "[@specialunderwear](https://github.com/specialunderwear)/[**django-sortedsetting…**](https://github.com/specialunderwear/django-sortedsettings)",
+              "Sort the django settings module's entries alphabetically",
+              ""
+            ],
+            [
+              "3",
+              "[@joepie91](https://github.com/joepie91)/[**catarc**](https://github.com/joepie91/catarc)",
+              "Commandline tool for extracting various types of archive to stdout, for example to grep through them.",
+              ""
+            ],
+            [
+              "3",
+              "[@fbkarsdorp](https://github.com/fbkarsdorp)/[**pdfbrowser**](https://github.com/fbkarsdorp/pdfbrowser)",
+              "Simple Flask webservice to search through your PDF collection using Whoosh",
+              ""
+            ],
+            [
+              "2",
+              "[@joepie91](https://github.com/joepie91)/[**nzbspider**](https://github.com/joepie91/nzbspider)",
+              "A simple tool to automatically download NZBs for given releases",
+              ""
+            ],
+            [
+              "2",
+              "[@gvx](https://github.com/gvx)/[**platformplanet**](https://github.com/gvx/platformplanet)",
+              "A small platform game, based on the concept and code of SpaceFlight2D",
+              ""
+            ],
+            [
+              "2",
+              "[@gvx](https://github.com/gvx)/[**lith**](https://github.com/gvx/lith)",
+              "A minimal data description language",
+              "[:arrow_upper_right:](http://gvxdev.wordpress.com/2011/04/10/lith-revisited/)"
+            ],
+            [
+              "2",
+              "[@gvx](https://github.com/gvx)/[**adv-menu**](https://github.com/gvx/adv-menu)",
+              "A more advanced in-game menu for PyGame",
+              ""
+            ],
+            [
+              "2",
+              "[@gvx](https://github.com/gvx)/[**altworld**](https://github.com/gvx/altworld)",
+              "A semi-Wiki system.",
+              ""
+            ],
+            [
+              "2",
+              "[@gvx](https://github.com/gvx)/[**openlife**](https://github.com/gvx/openlife)",
+              "An extensible people simulation game. This project isn't dead, but this name is.",
+              "[:arrow_upper_right:](gvx.github.com/openlife/)"
+            ],
+            [
+              "2",
+              "[@gvx](https://github.com/gvx)/[**loveify**](https://github.com/gvx/loveify)",
+              "Changes .zip or .tar.gz files as downloaded from GitHub to .love files",
+              ""
+            ],
+            [
+              "2",
+              "[@gvx](https://github.com/gvx)/[**base116676**](https://github.com/gvx/base116676)",
+              "Cram data in a small number of code points",
+              ""
+            ],
+            [
+              "2",
+              "[@sander1](https://github.com/sander1)/[**Syfy.bundle**](https://github.com/sander1/Syfy.bundle)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@sander1](https://github.com/sander1)/[**OFDB.bundle**](https://github.com/sander1/OFDB.bundle)",
+              "OFDB metadata agent for Plex (German movie plots), based on \"someone\"'s script",
+              "[:arrow_upper_right:](http://forums.plexapp.com/index.php/topic/22170-ofdb-plot/)"
+            ],
+            [
+              "2",
+              "[@gvx](https://github.com/gvx)/[**suzy**](https://github.com/gvx/suzy)",
+              "A three-dimensional esoteric programming language",
+              ""
+            ],
+            [
+              "2",
+              "[@FSX](https://github.com/FSX)/[**mitto**](https://github.com/FSX/mitto)",
+              "(dead) Thrift client for Tornado. Work in progress.",
+              ""
+            ],
+            [
+              "2",
+              "[@gvx](https://github.com/gvx)/[**sanity**](https://github.com/gvx/sanity)",
+              "Pre- and postcondition checker for Python 3",
+              ""
+            ],
+            [
+              "2",
+              "[@FSX](https://github.com/FSX)/[**elyse**](https://github.com/FSX/elyse)",
+              "A simple static website generator.",
+              ""
+            ],
+            [
+              "2",
+              "[@sander1](https://github.com/sander1)/[**Metacritic.bundle**](https://github.com/sander1/Metacritic.bundle)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@FSX](https://github.com/FSX)/[**nene**](https://github.com/FSX/nene)",
+              "A simple IRC-bot made in Python. Just for fun.",
+              "[:arrow_upper_right:](http://61924.nl/projects#h-nene)"
+            ],
+            [
+              "2",
+              "[@laanwj](https://github.com/laanwj)/[**dwarf_to_c**](https://github.com/laanwj/dwarf_to_c)",
+              "Tool to recover C headers (types, function signatures) from DWARF debug data",
+              ""
+            ],
+            [
+              "2",
+              "[@ttsiodras](https://github.com/ttsiodras)/[**PrimeSpirals**](https://github.com/ttsiodras/PrimeSpirals)",
+              "Playing with the Ulam spiral in python",
+              ""
+            ],
+            [
+              "2",
+              "[@laanwj](https://github.com/laanwj)/[**qfilesizer**](https://github.com/laanwj/qfilesizer)",
+              "PyQ4 treeview/model example",
+              ""
+            ],
+            [
+              "2",
+              "[@ttsiodras](https://github.com/ttsiodras)/[**binomialProbabilitie…**](https://github.com/ttsiodras/binomialProbabilities)",
+              "A fixup for \"Why you only need to test with five users\"",
+              ""
+            ],
+            [
+              "2",
+              "[@ralphm](https://github.com/ralphm)/[**mimir**](https://github.com/ralphm/mimir)",
+              "Mimír news aggregator and bot services",
+              ""
+            ],
+            [
+              "2",
+              "[@alonsovidales](https://github.com/alonsovidales)/[**Spotify-Puzzles**](https://github.com/alonsovidales/Spotify-Puzzles)",
+              "Solutions for the \"Best Before\", \"Ticket Lottery\" and \"Bilateral\" puzzles",
+              ""
+            ],
+            [
+              "2",
+              "[@specialunderwear](https://github.com/specialunderwear)/[**python-rfc5424-loggi…**](https://github.com/specialunderwear/python-rfc5424-logging-formatter)",
+              "A Logging Formatter for Python's logging module to properly handle Syslog RFC5424 messages",
+              ""
+            ],
+            [
+              "2",
+              "[@Habbie](https://github.com/Habbie)/[**pkgindexer**](https://github.com/Habbie/pkgindexer)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@proycon](https://github.com/proycon)/[**foliadocserve**](https://github.com/proycon/foliadocserve)",
+              "FoLiA Document Server - HTTP webservice backend for serving and annotating FoLiA documents using the FoLiA Query Language (FQL). Used by FLAT.",
+              ""
+            ],
+            [
+              "2",
+              "[@goossaert](https://github.com/goossaert)/[**doge**](https://github.com/goossaert/doge)",
+              "Python docstring generator",
+              ""
+            ],
+            [
+              "2",
+              "[@proycon](https://github.com/proycon)/[**nlpsandbox**](https://github.com/proycon/nlpsandbox)",
+              "Natural Language Processing Sandbox - An experimental playground for all kinds of NLP tasks",
+              ""
+            ],
+            [
+              "2",
+              "[@goossaert](https://github.com/goossaert)/[**tomatwo**](https://github.com/goossaert/tomatwo)",
+              "The Mean Twitting Machine",
+              ""
+            ],
+            [
+              "2",
+              "[@fbkarsdorp](https://github.com/fbkarsdorp)/[**pevo**](https://github.com/fbkarsdorp/pevo)",
+              "Implementations of various models of Cultural Evolution in Python.",
+              ""
+            ],
+            [
+              "2",
+              "[@goossaert](https://github.com/goossaert)/[**npy**](https://github.com/goossaert/npy)",
+              "Neural network library in Python",
+              ""
+            ],
+            [
+              "2",
+              "[@fbkarsdorp](https://github.com/fbkarsdorp)/[**PLM**](https://github.com/fbkarsdorp/PLM)",
+              "Parsimonious Language Models in Python",
+              ""
+            ],
+            [
+              "2",
+              "[@gr33ndata](https://github.com/gr33ndata)/[**pyuptodate**](https://github.com/gr33ndata/pyuptodate)",
+              "Check all installed Python modules and update them",
+              ""
+            ],
+            [
+              "2",
+              "[@fbkarsdorp](https://github.com/fbkarsdorp)/[**roodkapje**](https://github.com/fbkarsdorp/roodkapje)",
+              "Annotation web app in Flask for project about Little Red Riding Hood",
+              "[:arrow_upper_right:](http://fobaka.pythonanywhere.com)"
+            ],
+            [
+              "2",
+              "[@Mechazawa](https://github.com/Mechazawa)/[**whatmanager-autosnat…**](https://github.com/Mechazawa/whatmanager-autosnatch)",
+              "An dead-simple autosnatcher for whatmanager",
+              ""
+            ],
+            [
+              "2",
+              "[@fbkarsdorp](https://github.com/fbkarsdorp)/[**animacy-detection**](https://github.com/fbkarsdorp/animacy-detection)",
+              "Some experiments with animacy detection in Dutch Folktales",
+              "[:arrow_upper_right:](http://fbkarsdorp.github.io/animacy-detection/)"
+            ],
+            [
+              "2",
+              "[@Mechazawa](https://github.com/Mechazawa)/[**Pushjet-Gnome-Ghetto**](https://github.com/Mechazawa/Pushjet-Gnome-Ghetto)",
+              "A ghetto client that forwards notifications to Gnome 3",
+              ""
+            ],
+            [
+              "2",
+              "[@fbkarsdorp](https://github.com/fbkarsdorp)/[**python-for-lunch**](https://github.com/fbkarsdorp/python-for-lunch)",
+              "Brief tutorial on Python for the Humanities",
+              ""
+            ],
+            [
+              "2",
+              "[@dokterbob](https://github.com/dokterbob)/[**satchmo-slash2-store…**](https://github.com/dokterbob/satchmo-slash2-storecontrl)",
+              "Satchmo synchronisation module for StoreContrl.",
+              ""
+            ],
+            [
+              "2",
+              "[@jimmykane](https://github.com/jimmykane)/[**PyGitUpAll**](https://github.com/jimmykane/PyGitUpAll)",
+              "Git-Up all your projects",
+              ""
+            ],
+            [
+              "2",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-representatio…**](https://github.com/dokterbob/django-representations)",
+              "A set of template tags that helps in displaying models various ways, fork from the original version by Eric Moritz.",
+              ""
+            ],
+            [
+              "2",
+              "[@jimmykane](https://github.com/jimmykane)/[**gae-image-upload-exa…**](https://github.com/jimmykane/gae-image-upload-example)",
+              "A Boilerplate app for image form demo",
+              ""
+            ],
+            [
+              "2",
+              "[@dokterbob](https://github.com/dokterbob)/[**satchmo-payment-ogon…**](https://github.com/dokterbob/satchmo-payment-ogone)",
+              "Satchmo payment module for Ogone.",
+              ""
+            ],
+            [
+              "2",
+              "[@joepie91](https://github.com/joepie91)/[**4chandownloader**](https://github.com/joepie91/4chandownloader)",
+              "[unmaintained] Simple tool to download a 4chan thread.",
+              ""
+            ],
+            [
+              "2",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-adyen**](https://github.com/dokterbob/django-adyen)",
+              "Python/Django interface to the Adyen payment gateway.",
+              ""
+            ],
+            [
+              "2",
+              "[@joepie91](https://github.com/joepie91)/[**scantools**](https://github.com/joepie91/scantools)",
+              "An assortment of tools for scanning books.",
+              ""
+            ],
+            [
+              "2",
+              "[@dokterbob](https://github.com/dokterbob)/[**basic-webshop**](https://github.com/dokterbob/basic-webshop)",
+              "An 'example' webshop project using django-shopkit.",
+              ""
+            ],
+            [
+              "2",
+              "[@joepie91](https://github.com/joepie91)/[**circd**](https://github.com/joepie91/circd)",
+              "[unmaintained] Simple IRCd in Python.",
+              ""
+            ],
+            [
+              "2",
+              "[@dokterbob](https://github.com/dokterbob)/[**filesorter**](https://github.com/dokterbob/filesorter)",
+              "Simple command-line script for sorting all files in a directory structure as /<date>/<mine_type>/<orig_subdir>/.",
+              ""
+            ],
+            [
+              "2",
+              "[@joepie91](https://github.com/joepie91)/[**filething**](https://github.com/joepie91/filething)",
+              "A thin light-weight wrapper library, to make filesystem operations in Python suck less.",
+              ""
+            ],
+            [
+              "2",
+              "[@dokterbob](https://github.com/dokterbob)/[**woningnet**](https://github.com/dokterbob/woningnet)",
+              "Django scraper for Woningnet",
+              ""
+            ],
+            [
+              "2",
+              "[@joepie91](https://github.com/joepie91)/[**multiloggy**](https://github.com/joepie91/multiloggy)",
+              "A fork of Sean B. Palmer's public IRC logging bot 'loggy', implementing multi-channel support.",
+              ""
+            ],
+            [
+              "2",
+              "[@dokterbob](https://github.com/dokterbob)/[**django-ga-tracking**](https://github.com/dokterbob/django-ga-tracking)",
+              "TIny Django template tag library for generating Google Analytics tracking URL's",
+              ""
+            ],
+            [
+              "2",
+              "[@gvx](https://github.com/gvx)/[**tutorialsource**](https://github.com/gvx/tutorialsource)",
+              "Several Python tutorials, pretending to be source code.",
+              "[:arrow_upper_right:](http://gyvox.webs.com/tutorials.htm)"
             ]
           ]
         }
