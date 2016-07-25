@@ -56,7 +56,8 @@
           "[Clojure](#clojure)",
           "[CoffeeScript](#coffeescript)",
           "[Go](#go)",
-          "[Haskell](#haskell)"
+          "[Haskell](#haskell)",
+          "[Lua](#lua)"
         ]
       },
       {
@@ -5788,6 +5789,171 @@
               "[@roelvandijk](https://github.com/roelvandijk)/[**transfinite**](https://github.com/roelvandijk/transfinite)",
               "A data type for transfinite numbers",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Lua #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "73",
+              "[@Tieske](https://github.com/Tieske)/[**date**](https://github.com/Tieske/date)",
+              "Date & Time module for Lua 5.x",
+              "[:arrow_upper_right:](http://tieske.github.io/date/)"
+            ],
+            [
+              "72",
+              "[@Dysoch](https://github.com/Dysoch)/[**DyTech**](https://github.com/Dysoch/DyTech)",
+              "DyTech, A mod for Factorio. Making the game much more complex!",
+              "[:arrow_upper_right:](http://www.factorioforums.com/forum/viewforum.php?f=43)"
+            ],
+            [
+              "51",
+              "[@Tieske](https://github.com/Tieske)/[**uuid**](https://github.com/Tieske/uuid)",
+              "A pure Lua uuid generator (modified from a Rackspace module)",
+              "[:arrow_upper_right:](http://tieske.github.io/uuid/)"
+            ],
+            [
+              "17",
+              "[@DraconisBoL](https://github.com/DraconisBoL)/[**BoL**](https://github.com/DraconisBoL/BoL)",
+              "Collection of scripts for BoL by Draconis.",
+              ""
+            ],
+            [
+              "16",
+              "[@Tieske](https://github.com/Tieske)/[**pe-parser**](https://github.com/Tieske/pe-parser)",
+              "Lua module to parse a Portable Executable (.exe , .dll, etc.) file and extract metadata",
+              ""
+            ],
+            [
+              "11",
+              "[@Tieske](https://github.com/Tieske)/[**binaryheap.lua**](https://github.com/Tieske/binaryheap.lua)",
+              "Binary heap implementation in Lua",
+              "[:arrow_upper_right:](http://tieske.github.io/binaryheap.lua/)"
+            ],
+            [
+              "8",
+              "[@Tieske](https://github.com/Tieske)/[**CopasTimer**](https://github.com/Tieske/CopasTimer)",
+              "An addon facility for the Copas scheduler that adds timers, backgroundworkers, and (optional) event capabilities to Copas.",
+              "[:arrow_upper_right:](http://tieske.github.com/CopasTimer/)"
+            ],
+            [
+              "8",
+              "[@Tieske](https://github.com/Tieske)/[**corowatch**](https://github.com/Tieske/corowatch)",
+              "Lua module to watch coroutine usage and kill a coroutine if it fails to yield in a timely manner.",
+              ""
+            ],
+            [
+              "5",
+              "[@Tieske](https://github.com/Tieske)/[**LuaxPL**](https://github.com/Tieske/LuaxPL)",
+              "xPL framework for Lua. xPL is an open protocol intended to permit the control and monitoring of home automation devices. The protocol includes complete discovery and auto-configuration capabilities which support a fully “plug-n-play” architecture.",
+              "[:arrow_upper_right:](http://tieske.github.com/LuaxPL/)"
+            ],
+            [
+              "5",
+              "[@bas080](https://github.com/bas080)/[**vines**](https://github.com/bas080/vines)",
+              "Vines mod for minetest. Also adds ropes.",
+              "[:arrow_upper_right:](https://forum.minetest.net/viewtopic.php?id=2344)"
+            ],
+            [
+              "4",
+              "[@bas080](https://github.com/bas080)/[**civilization**](https://github.com/bas080/civilization)",
+              "Minetest game which focuses on highly collaborative gameplay",
+              "[:arrow_upper_right:](http://forum.minetest.net/viewtopic.php?pid=81851)"
+            ],
+            [
+              "4",
+              "[@bas080](https://github.com/bas080)/[**simple**](https://github.com/bas080/simple)",
+              "A collection of minetest mods and mods of mods. Focus on gamplay and immertion",
+              ""
+            ],
+            [
+              "4",
+              "[@bas080](https://github.com/bas080)/[**inbox**](https://github.com/bas080/inbox)",
+              "Minetest mod that adds mailboxes to minetest",
+              "[:arrow_upper_right:](https://forum.minetest.net/viewtopic.php?id=7040)"
+            ],
+            [
+              "3",
+              "[@bas080](https://github.com/bas080)/[**bees**](https://github.com/bas080/bees)",
+              "Adds bees and hives to minetest",
+              "[:arrow_upper_right:](https://forum.minetest.net/viewtopic.php?pid=102905)"
+            ],
+            [
+              "3",
+              "[@Tieske](https://github.com/Tieske)/[**netcheck**](https://github.com/Tieske/netcheck)",
+              "Simple functions to detect changes in network connection status (using luasocket)",
+              ""
+            ],
+            [
+              "3",
+              "[@Tieske](https://github.com/Tieske)/[**LuaUPnP**](https://github.com/Tieske/LuaUPnP)",
+              "A pupnp library binding for Lua",
+              ""
+            ],
+            [
+              "2",
+              "[@Tieske](https://github.com/Tieske)/[**girder-xpl-component**](https://github.com/Tieske/girder-xpl-component)",
+              "A Girder component to connect Girder to the xPL homeautomation network",
+              "[:arrow_upper_right:](http://www.thijsschreijer.nl/blog/?page_id=507)"
+            ],
+            [
+              "2",
+              "[@Tieske](https://github.com/Tieske)/[**registry**](https://github.com/Tieske/registry)",
+              "Pure Lua library to fiddle with the Windows registry",
+              ""
+            ],
+            [
+              "2",
+              "[@nreijmersdal](https://github.com/nreijmersdal)/[**gidTest**](https://github.com/nreijmersdal/gidTest)",
+              "simplistic test framework for Gideros Mobile",
+              ""
+            ],
+            [
+              "2",
+              "[@bas080](https://github.com/bas080)/[**chess**](https://github.com/bas080/chess)",
+              "Chess mod for minetest",
+              "[:arrow_upper_right:](http://minetest.net/forum/viewtopic.php?id=2784)"
+            ],
+            [
+              "2",
+              "[@bas080](https://github.com/bas080)/[**chemistry**](https://github.com/bas080/chemistry)",
+              "Chemistry mod for minetest",
+              "[:arrow_upper_right:](http://forum.minetest.net/viewtopic.php?pid=69829)"
+            ],
+            [
+              "2",
+              "[@bas080](https://github.com/bas080)/[**smooth**](https://github.com/bas080/smooth)",
+              "Minetest mod which adds smooth transitioning nodes. WIP",
+              ""
+            ],
+            [
+              "2",
+              "[@InputUsername](https://github.com/InputUsername)/[**Euler**](https://github.com/InputUsername/Euler)",
+              "Project Euler solutions in as many languages as possible",
+              ""
+            ],
+            [
+              "2",
+              "[@Deltanic](https://github.com/Deltanic)/[**ModLoader**](https://github.com/Deltanic/ModLoader)",
+              "Loads any mod without coding anything.",
+              ""
+            ],
+            [
+              "2",
+              "[@bas080](https://github.com/bas080)/[**pathogen**](https://github.com/bas080/pathogen)",
+              "An infectious minetest mod",
+              "[:arrow_upper_right:](https://forum.minetest.net/viewtopic.php?f=9&t=11140)"
             ]
           ]
         }
