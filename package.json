@@ -48,7 +48,8 @@
         "ul": [
           "[JavaScript](#javascript)",
           "[Java](#java)",
-          "[C#](#c-1)"
+          "[C#](#c-1)",
+          "[CSS](#css)"
         ]
       },
       {
@@ -3655,6 +3656,45 @@
               "2",
               "[@thefringeninja](https://github.com/thefringeninja)/[**CopyAndPasteMe**](https://github.com/thefringeninja/CopyAndPasteMe)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CSS #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "17",
+              "[@RoelN](https://github.com/RoelN)/[**Compyx**](https://github.com/RoelN/Compyx)",
+              "Multicolor OpenType font \"Compyx\"",
+              ""
+            ],
+            [
+              "12",
+              "[@jeroenoomsNL](https://github.com/jeroenoomsNL)/[**initialize-css**](https://github.com/jeroenoomsNL/initialize-css)",
+              "Initialize your base CSS styling with cross browser best practices. Available in CSS and configurable SASS (SCSS) format.",
+              "[:arrow_upper_right:](http://jeroenoomsnl.github.io/initialize-css/)"
+            ],
+            [
+              "6",
+              "[@tmnlsthrn](https://github.com/tmnlsthrn)/[**Lotus**](https://github.com/tmnlsthrn/Lotus)",
+              "An iOS 7-ish look and feel for your Cydia repository or website.",
+              "[:arrow_upper_right:](http://tmnlsthrn.com/lotus/)"
+            ],
+            [
+              "2",
+              "[@code0wl](https://github.com/code0wl)/[**flexy-grid**](https://github.com/code0wl/flexy-grid)",
+              "A flex-box grid that is simple to extend and maintain. Simplicity is the key.",
               ""
             ]
           ]
