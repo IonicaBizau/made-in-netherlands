@@ -67,7 +67,8 @@
           "[Ruby](#ruby)",
           "[Scala](#scala)",
           "[Shell](#shell)",
-          "[Swift](#swift)"
+          "[Swift](#swift)",
+          "[TeX](#tex)"
         ]
       },
       {
@@ -11916,6 +11917,27 @@
               "[@Swiftrien](https://github.com/Swiftrien)/[**SwifterJSON**](https://github.com/Swiftrien/SwifterJSON)",
               "A single class framework in Swift to read/write & parse the JSON Format.",
               "[:arrow_upper_right:](http://swiftfire.nl/pages/projects/swifterjson/)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "TeX #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "21",
+              "[@vtraag](https://github.com/vtraag)/[**tikz-colorbrewer**](https://github.com/vtraag/tikz-colorbrewer)",
+              "Definition files providing colours as defined by the ColorBrewer project.",
+              ""
             ]
           ]
         }
