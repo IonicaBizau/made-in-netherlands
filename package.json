@@ -50,7 +50,8 @@
           "[Java](#java)",
           "[C#](#c-1)",
           "[CSS](#css)",
-          "[C](undefined)"
+          "[C](undefined)",
+          "[C++](#c-2)"
         ]
       },
       {
@@ -4143,6 +4144,447 @@
               "2",
               "[@TripNRaVeR](https://github.com/TripNRaVeR)/[**tripndroid-m7-unleas…**](https://github.com/TripNRaVeR/tripndroid-m7-unleashed-3.4)",
               "",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "C++ #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "553",
+              "[@tomlooman](https://github.com/tomlooman)/[**EpicSurvivalGameSeri…**](https://github.com/tomlooman/EpicSurvivalGameSeries)",
+              "Third person survival game (tutorial) series for Unreal Engine 4.",
+              ""
+            ],
+            [
+              "464",
+              "[@RobTillaart](https://github.com/RobTillaart)/[**Arduino**](https://github.com/RobTillaart/Arduino)",
+              "libs and code",
+              ""
+            ],
+            [
+              "359",
+              "[@rcaelers](https://github.com/rcaelers)/[**workrave**](https://github.com/rcaelers/workrave)",
+              "Workrave is a program that assists in the recovery and prevention of Repetitive Strain Injury (RSI). The program frequently alerts you to take micro-pauses, rest breaks and restricts you to your daily limit.",
+              "[:arrow_upper_right:](www.workrave.org)"
+            ],
+            [
+              "151",
+              "[@repaper](https://github.com/repaper)/[**gratis**](https://github.com/repaper/gratis)",
+              "EPD Source codes and Documentation",
+              ""
+            ],
+            [
+              "140",
+              "[@tomlooman](https://github.com/tomlooman)/[**ue4-tutorials**](https://github.com/tomlooman/ue4-tutorials)",
+              "Collection of Unreal 4 Tutorials & Experiments by Tom Looman",
+              ""
+            ],
+            [
+              "139",
+              "[@martinmoene](https://github.com/martinmoene)/[**lest**](https://github.com/martinmoene/lest)",
+              "A modern, C++11-native, single-file header-only, tiny framework for unit-tests, TDD and BDD",
+              ""
+            ],
+            [
+              "85",
+              "[@martinmoene](https://github.com/martinmoene)/[**gsl-lite**](https://github.com/martinmoene/gsl-lite)",
+              "A single-file header-only version of ISO C++ Guidelines Support Library (GSL) for C++98, C++03 and later",
+              ""
+            ],
+            [
+              "73",
+              "[@tomlooman](https://github.com/tomlooman)/[**VRTemplates**](https://github.com/tomlooman/VRTemplates)",
+              "VR Templates for Unreal Engine 4.11 and above",
+              ""
+            ],
+            [
+              "37",
+              "[@zhmu](https://github.com/zhmu)/[**openrom**](https://github.com/zhmu/openrom)",
+              "Runes of Magic protocol analysis tools",
+              ""
+            ],
+            [
+              "34",
+              "[@ruuda](https://github.com/ruuda)/[**luculentus**](https://github.com/ruuda/luculentus)",
+              "Proof of concept spectral path tracer",
+              ""
+            ],
+            [
+              "24",
+              "[@paulhoux](https://github.com/paulhoux)/[**Cinder-FFmpeg**](https://github.com/paulhoux/Cinder-FFmpeg)",
+              "Cinder block for rendering digital video on Windows using the libavcodec library.",
+              ""
+            ],
+            [
+              "22",
+              "[@ahupowerdns](https://github.com/ahupowerdns)/[**metronome**](https://github.com/ahupowerdns/metronome)",
+              "",
+              ""
+            ],
+            [
+              "21",
+              "[@martinmoene](https://github.com/martinmoene)/[**clue**](https://github.com/martinmoene/clue)",
+              "A tiny single-file header-only C++ logging framework",
+              ""
+            ],
+            [
+              "20",
+              "[@mrexodia](https://github.com/mrexodia)/[**akt**](https://github.com/mrexodia/akt)",
+              "Armadillo Key Tool",
+              ""
+            ],
+            [
+              "19",
+              "[@paulhoux](https://github.com/paulhoux)/[**Cinder-Warping**](https://github.com/paulhoux/Cinder-Warping)",
+              "A Cinder block that enables you to easily create editable bi-linear and perspective warps, or a combination of the two.  ",
+              ""
+            ],
+            [
+              "18",
+              "[@martinmoene](https://github.com/martinmoene)/[**martin-moene.blogspo…**](https://github.com/martinmoene/martin-moene.blogspot.com)",
+              "Code from my Blog",
+              ""
+            ],
+            [
+              "17",
+              "[@martinmoene](https://github.com/martinmoene)/[**optional-lite**](https://github.com/martinmoene/optional-lite)",
+              "Optional (nullable) objects for C++98 and later",
+              ""
+            ],
+            [
+              "14",
+              "[@SodaqMoja](https://github.com/SodaqMoja)/[**SodaqOne-UniversalTr…**](https://github.com/SodaqMoja/SodaqOne-UniversalTracker)",
+              "",
+              ""
+            ],
+            [
+              "13",
+              "[@companje](https://github.com/companje)/[**ofxExtras**](https://github.com/companje/ofxExtras)",
+              "openFrameworks addon adding some usefull functions to OF",
+              ""
+            ],
+            [
+              "11",
+              "[@mrexodia](https://github.com/mrexodia)/[**ArmaG3ddon**](https://github.com/mrexodia/ArmaG3ddon)",
+              "ArmaG3ddon by CondZero/ARTeam",
+              ""
+            ],
+            [
+              "11",
+              "[@SodaqMoja](https://github.com/SodaqMoja)/[**Sodaq_RN2483**](https://github.com/SodaqMoja/Sodaq_RN2483)",
+              "",
+              ""
+            ],
+            [
+              "11",
+              "[@JoSchaap](https://github.com/JoSchaap)/[**GoT_Wasteland_V2.Str…**](https://github.com/JoSchaap/GoT_Wasteland_V2.Stratis)",
+              "WARNING! This repo is no longer updated, find the updated version on the A3Wasteland git! -",
+              "[:arrow_upper_right:](http://www.a3wasteland.com)"
+            ],
+            [
+              "11",
+              "[@martinmoene](https://github.com/martinmoene)/[**PhysUnits-CT-Cpp11**](https://github.com/martinmoene/PhysUnits-CT-Cpp11)",
+              "A small C++11, C++14 header-only library for compile-time dimensional analysis and unit/quantity manipulation and conversion",
+              ""
+            ],
+            [
+              "10",
+              "[@companje](https://github.com/companje)/[**ofxBlurShader**](https://github.com/companje/ofxBlurShader)",
+              "openFrameworks addon to blur stuff using a shader",
+              ""
+            ],
+            [
+              "9",
+              "[@companje](https://github.com/companje)/[**ofxSpriteManager**](https://github.com/companje/ofxSpriteManager)",
+              "openFrameworks addon for working with animated sprites / image sequences and loading each file only once by making use of ofxAssets",
+              "[:arrow_upper_right:](www.companje.nl)"
+            ],
+            [
+              "9",
+              "[@fuzzie](https://github.com/fuzzie)/[**unity**](https://github.com/fuzzie/unity)",
+              "Final Unity engine for scummvm (not working!)",
+              ""
+            ],
+            [
+              "8",
+              "[@m-ou-se](https://github.com/m-ou-se)/[**picp**](https://github.com/m-ou-se/picp)",
+              "A PIC16F145x based PIC16F145x USB programmer.",
+              ""
+            ],
+            [
+              "8",
+              "[@fieldOfView](https://github.com/fieldOfView)/[**uv-mapper**](https://github.com/fieldOfView/uv-mapper)",
+              "A suite of tools for uv-mapping video content, applied to projection mapping and lens correction and other purposes.",
+              "[:arrow_upper_right:](http://fieldofview.com/projects/uv-mapper)"
+            ],
+            [
+              "7",
+              "[@canboat](https://github.com/canboat)/[**BR24radar_pi**](https://github.com/canboat/BR24radar_pi)",
+              "OpenCPN radar plugin for Navico Broadband Radars (BR24, 3G, 4G models)",
+              ""
+            ],
+            [
+              "7",
+              "[@iglesias](https://github.com/iglesias)/[**coding-challenges**](https://github.com/iglesias/coding-challenges)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@companje](https://github.com/companje)/[**ofxGCode**](https://github.com/companje/ofxGCode)",
+              "openFrameworks addon for creating GCode files (early stage)",
+              ""
+            ],
+            [
+              "6",
+              "[@fieldOfView](https://github.com/fieldOfView)/[**CinderDirectShow**](https://github.com/fieldOfView/CinderDirectShow)",
+              "Video playback for libCinder using DirectShow",
+              "[:arrow_upper_right:](http://forum.libcinder.org/#Topic/23286000001136063)"
+            ],
+            [
+              "6",
+              "[@companje](https://github.com/companje)/[**ofxFontExtruder**](https://github.com/companje/ofxFontExtruder)",
+              "openFrameworks addon to extrude an ofTrueType font into 3D with the ability to export to STL and GCODE",
+              ""
+            ],
+            [
+              "6",
+              "[@m-ou-se](https://github.com/m-ou-se)/[**moggle**](https://github.com/m-ou-se/moggle)",
+              "A sexy C++11 OpenGL library.",
+              ""
+            ],
+            [
+              "6",
+              "[@companje](https://github.com/companje)/[**ofxArcText**](https://github.com/companje/ofxArcText)",
+              "openFrameworks addon for displaying an ofTrueType font on a circular path",
+              ""
+            ],
+            [
+              "5",
+              "[@martinmoene](https://github.com/martinmoene)/[**PhysUnits-CT**](https://github.com/martinmoene/PhysUnits-CT)",
+              "A C++ header-only library for compile-time dimensional analysis and unit/quantity manipulation and conversion",
+              ""
+            ],
+            [
+              "5",
+              "[@Ignotus](https://github.com/Ignotus)/[**kdots**](https://github.com/Ignotus/kdots)",
+              "A prototype of the game of dots. It's a mirror of https://projects.kde.org/kdots",
+              ""
+            ],
+            [
+              "5",
+              "[@companje](https://github.com/companje)/[**ofxFTGL**](https://github.com/companje/ofxFTGL)",
+              "openFrameworks addon for text rendering using FTGL",
+              ""
+            ],
+            [
+              "5",
+              "[@companje](https://github.com/companje)/[**ofxLightning**](https://github.com/companje/ofxLightning)",
+              "openFrameworks addon adding for creating lightning bolds",
+              "[:arrow_upper_right:](www.rockabit.com)"
+            ],
+            [
+              "4",
+              "[@ruuda](https://github.com/ruuda)/[**deadlock**](https://github.com/ruuda/deadlock)",
+              "Fast search-based password manager",
+              ""
+            ],
+            [
+              "4",
+              "[@oschaaf](https://github.com/oschaaf)/[**ats**](https://github.com/oschaaf/ats)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@ruuda](https://github.com/ruuda)/[**fibint**](https://github.com/ruuda/fibint)",
+              "Compute Fibonacci numbers efficiently using finite fields",
+              ""
+            ],
+            [
+              "4",
+              "[@SodaqMoja](https://github.com/SodaqMoja)/[**Sodaq_DS3231**](https://github.com/SodaqMoja/Sodaq_DS3231)",
+              "Arduino library for DS3231",
+              ""
+            ],
+            [
+              "4",
+              "[@Borf](https://github.com/Borf)/[**playallthegames**](https://github.com/Borf/playallthegames)",
+              "A collection of minigames",
+              "[:arrow_upper_right:](http://playallthegames.borf.info)"
+            ],
+            [
+              "4",
+              "[@companje](https://github.com/companje)/[**ofxAssets**](https://github.com/companje/ofxAssets)",
+              "openFrameworks addon for loading and caching videofiles",
+              ""
+            ],
+            [
+              "4",
+              "[@mrexodia](https://github.com/mrexodia)/[**LivecodingTwitch**](https://github.com/mrexodia/LivecodingTwitch)",
+              "Bot to synchronize Livecoding and Twitch chats.",
+              ""
+            ],
+            [
+              "4",
+              "[@martinmoene](https://github.com/martinmoene)/[**observer-ptr**](https://github.com/martinmoene/observer-ptr)",
+              "A single-file header-only C++98, C++03, C++11, C++14 version of ISO C++17 std::observer_ptr",
+              ""
+            ],
+            [
+              "4",
+              "[@ahupowerdns](https://github.com/ahupowerdns)/[**cplusplus2011-tour**](https://github.com/ahupowerdns/cplusplus2011-tour)",
+              "Small tour of some notable C++2011 features",
+              ""
+            ],
+            [
+              "3",
+              "[@ahupowerdns](https://github.com/ahupowerdns)/[**secfilter**](https://github.com/ahupowerdns/secfilter)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@companje](https://github.com/companje)/[**ofxMesh**](https://github.com/companje/ofxMesh)",
+              "openFrameworks addon adding some extra functions to ofMesh",
+              ""
+            ],
+            [
+              "3",
+              "[@martinmoene](https://github.com/martinmoene)/[**WholeValue**](https://github.com/martinmoene/WholeValue)",
+              "Whole value idiom made easy in C++",
+              ""
+            ],
+            [
+              "3",
+              "[@companje](https://github.com/companje)/[**ofxArcBall**](https://github.com/companje/ofxArcBall)",
+              "openFrameworks addon creating an ArcBall camera, similar to ofEasyCam",
+              ""
+            ],
+            [
+              "3",
+              "[@companje](https://github.com/companje)/[**ofxIniSettings**](https://github.com/companje/ofxIniSettings)",
+              "openFrameworks addon for reading and writing .ini / .conf files",
+              ""
+            ],
+            [
+              "3",
+              "[@companje](https://github.com/companje)/[**ofProjects**](https://github.com/companje/ofProjects)",
+              "Some of my openFrameworks",
+              ""
+            ],
+            [
+              "3",
+              "[@m-ou-se](https://github.com/m-ou-se)/[**units**](https://github.com/m-ou-se/units)",
+              "Compile time unit checking with C++11 template magic.",
+              "[:arrow_upper_right:](http://blog.m-ou.se/2013/09/29/compile-time-unit-arithmetic.html)"
+            ],
+            [
+              "3",
+              "[@ahupowerdns](https://github.com/ahupowerdns)/[**ahutils**](https://github.com/ahupowerdns/ahutils)",
+              "attempt to create a library of code snippets I use a lot",
+              ""
+            ],
+            [
+              "3",
+              "[@rdb](https://github.com/rdb)/[**bpb**](https://github.com/rdb/bpb)",
+              "Experimental prototype of Blender-Panda3D Bridge",
+              ""
+            ],
+            [
+              "3",
+              "[@m-ou-se](https://github.com/m-ou-se)/[**tek**](https://github.com/m-ou-se/tek)",
+              "Truly Ergonomic Keyoard Firmware Upgrade Tool",
+              ""
+            ],
+            [
+              "3",
+              "[@companje](https://github.com/companje)/[**ofxGeometry**](https://github.com/companje/ofxGeometry)",
+              "openFrameworks addon for converting between coordinate systems: lat/lon, axis/angle, quaternion, cartesian (may have errors)",
+              ""
+            ],
+            [
+              "3",
+              "[@SodaqMoja](https://github.com/SodaqMoja)/[**RTCTimer**](https://github.com/SodaqMoja/RTCTimer)",
+              "An Arduino library to schedule tasks using RTC as the clock",
+              ""
+            ],
+            [
+              "2",
+              "[@SodaqMoja](https://github.com/SodaqMoja)/[**Sodaq_TPH**](https://github.com/SodaqMoja/Sodaq_TPH)",
+              "A library for the TPH board",
+              ""
+            ],
+            [
+              "2",
+              "[@iglesias](https://github.com/iglesias)/[**lmnn-gsoc2013-review**](https://github.com/iglesias/lmnn-gsoc2013-review)",
+              "GSoC 2013 code for the LMNN -- metric learning -- project in Shogun ",
+              ""
+            ],
+            [
+              "2",
+              "[@iglesias](https://github.com/iglesias)/[**aichallenge-ants**](https://github.com/iglesias/aichallenge-ants)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@zhmu](https://github.com/zhmu)/[**musixbox**](https://github.com/zhmu/musixbox)",
+              "Music player library and frontends",
+              ""
+            ],
+            [
+              "2",
+              "[@iglesias](https://github.com/iglesias)/[**cgr_localization**](https://github.com/iglesias/cgr_localization)",
+              "My CGR Localization fork from http://www.cs.cmu.edu/~coral/projects/lo…",
+              ""
+            ],
+            [
+              "2",
+              "[@mrexodia](https://github.com/mrexodia)/[**Utf8Ini**](https://github.com/mrexodia/Utf8Ini)",
+              "Small C++ INI Parser.",
+              ""
+            ],
+            [
+              "2",
+              "[@companje](https://github.com/companje)/[**ofxOrthoCam**](https://github.com/companje/ofxOrthoCam)",
+              "openFrameworks addon for using a orthographic camera ",
+              ""
+            ],
+            [
+              "2",
+              "[@companje](https://github.com/companje)/[**STL-export**](https://github.com/companje/STL-export)",
+              "Doodle3D experiment for tracing contours and exporting to STL using openFrameworks, OpenCV and ofxSTL",
+              ""
+            ],
+            [
+              "2",
+              "[@companje](https://github.com/companje)/[**ofxDateTime**](https://github.com/companje/ofxDateTime)",
+              "openFrameworks addon doing calculations with dates and times (needs some polishing)",
+              ""
+            ],
+            [
+              "2",
+              "[@companje](https://github.com/companje)/[**ofxKeyMap**](https://github.com/companje/ofxKeyMap)",
+              "openFrameworks addon for keeping track of pressed keys",
+              ""
+            ],
+            [
+              "2",
+              "[@zhmu](https://github.com/zhmu)/[**tortilla**](https://github.com/zhmu/tortilla)",
+              "C++ BitTorrent library and client",
               ""
             ]
           ]
