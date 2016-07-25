@@ -54,7 +54,8 @@
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
           "[Clojure](#clojure)",
-          "[CoffeeScript](#coffeescript)"
+          "[CoffeeScript](#coffeescript)",
+          "[Go](#go)"
         ]
       },
       {
@@ -4933,6 +4934,249 @@
               "2",
               "[@myrne](https://github.com/myrne)/[**f-throttle**](https://github.com/myrne/f-throttle)",
               "Limit concurrency of a function returning a promise.",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Go #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "131",
+              "[@tpjg](https://github.com/tpjg)/[**goriakpbc**](https://github.com/tpjg/goriakpbc)",
+              "A golang riak client inspired by the Ruby riak-client from Basho and riakpbc from mrb",
+              ""
+            ],
+            [
+              "123",
+              "[@dgryski](https://github.com/dgryski)/[**trifles**](https://github.com/dgryski/trifles)",
+              "A playground for things that aren't interesting enough to have their own repo.",
+              ""
+            ],
+            [
+              "118",
+              "[@dgryski](https://github.com/dgryski)/[**dgoogauth**](https://github.com/dgryski/dgoogauth)",
+              "Google Authenticator for Go",
+              ""
+            ],
+            [
+              "96",
+              "[@dgryski](https://github.com/dgryski)/[**dkeyczar**](https://github.com/dgryski/dkeyczar)",
+              "Port of Google's Keyczar cryptography library to Go",
+              ""
+            ],
+            [
+              "92",
+              "[@dgryski](https://github.com/dgryski)/[**go-tsz**](https://github.com/dgryski/go-tsz)",
+              "Time series compression algorithm from Facebook's Gorilla paper",
+              ""
+            ],
+            [
+              "90",
+              "[@dgryski](https://github.com/dgryski)/[**dmrgo**](https://github.com/dgryski/dmrgo)",
+              "Go library for writing standalone Map/Reduce jobs or for use with Hadoop's streaming protocol",
+              ""
+            ],
+            [
+              "76",
+              "[@dgryski](https://github.com/dgryski)/[**go-jump**](https://github.com/dgryski/go-jump)",
+              "go-jump: Jump consistent hashing",
+              ""
+            ],
+            [
+              "60",
+              "[@dgryski](https://github.com/dgryski)/[**hokusai**](https://github.com/dgryski/hokusai)",
+              "hokusai -- sketching streams in real-time",
+              ""
+            ],
+            [
+              "59",
+              "[@dgryski](https://github.com/dgryski)/[**go-simstore**](https://github.com/dgryski/go-simstore)",
+              "simhash storage and searching",
+              ""
+            ],
+            [
+              "58",
+              "[@dgryski](https://github.com/dgryski)/[**carbonapi**](https://github.com/dgryski/carbonapi)",
+              "API server for github.com/dgryski/carbonzipper",
+              ""
+            ],
+            [
+              "44",
+              "[@dgryski](https://github.com/dgryski)/[**carbonzipper**](https://github.com/dgryski/carbonzipper)",
+              "proxy to transparently merge graphite carbon backends",
+              ""
+            ],
+            [
+              "43",
+              "[@dgryski](https://github.com/dgryski)/[**go-failure**](https://github.com/dgryski/go-failure)",
+              "Phi Accrual Failure Detection",
+              ""
+            ],
+            [
+              "42",
+              "[@dgryski](https://github.com/dgryski)/[**dgohash**](https://github.com/dgryski/dgohash)",
+              "A collection of well-known string hash functions, implemented in Go",
+              ""
+            ],
+            [
+              "39",
+              "[@dgryski](https://github.com/dgryski)/[**go-identicon**](https://github.com/dgryski/go-identicon)",
+              "Create simple visual hashes of data, similar to github's identicons.",
+              ""
+            ],
+            [
+              "35",
+              "[@dgryski](https://github.com/dgryski)/[**gttp**](https://github.com/dgryski/gttp)",
+              "gttp: http for gophers",
+              ""
+            ],
+            [
+              "34",
+              "[@dgryski](https://github.com/dgryski)/[**go-farm**](https://github.com/dgryski/go-farm)",
+              "go-farm: a pure-Go farmhash implementation",
+              ""
+            ],
+            [
+              "32",
+              "[@dgryski](https://github.com/dgryski)/[**go-tinylfu**](https://github.com/dgryski/go-tinylfu)",
+              "TinyLFU cache admission policy",
+              ""
+            ],
+            [
+              "31",
+              "[@dgryski](https://github.com/dgryski)/[**go-topk**](https://github.com/dgryski/go-topk)",
+              "Streaming TopK estimates",
+              ""
+            ],
+            [
+              "29",
+              "[@dgryski](https://github.com/dgryski)/[**go-change**](https://github.com/dgryski/go-change)",
+              "Online Change Detection Algorithm",
+              ""
+            ],
+            [
+              "27",
+              "[@dgryski](https://github.com/dgryski)/[**go-gk**](https://github.com/dgryski/go-gk)",
+              "gk: streaming quantiles ",
+              ""
+            ],
+            [
+              "27",
+              "[@dgryski](https://github.com/dgryski)/[**go-fastquantiles**](https://github.com/dgryski/go-fastquantiles)",
+              "approximate streaming quantiles",
+              ""
+            ],
+            [
+              "26",
+              "[@dgryski](https://github.com/dgryski)/[**rgip**](https://github.com/dgryski/rgip)",
+              "rgip: restful geoip service",
+              ""
+            ],
+            [
+              "26",
+              "[@dgryski](https://github.com/dgryski)/[**go-onlinestats**](https://github.com/dgryski/go-onlinestats)",
+              "One-pass running statistics",
+              ""
+            ],
+            [
+              "24",
+              "[@dgryski](https://github.com/dgryski)/[**go-maglev**](https://github.com/dgryski/go-maglev)",
+              "Go implementation of maglev hashing",
+              ""
+            ],
+            [
+              "20",
+              "[@dgryski](https://github.com/dgryski)/[**go-ketama**](https://github.com/dgryski/go-ketama)",
+              "Ketama implementation compatible with Algorithm::ConsistentHash::Ketama",
+              ""
+            ],
+            [
+              "19",
+              "[@dgryski](https://github.com/dgryski)/[**go-arc**](https://github.com/dgryski/go-arc)",
+              "adaptive replacement cache",
+              ""
+            ],
+            [
+              "19",
+              "[@dgryski](https://github.com/dgryski)/[**go-cuckoof**](https://github.com/dgryski/go-cuckoof)",
+              "Go implemetation of cuckoo filters",
+              ""
+            ],
+            [
+              "18",
+              "[@dgryski](https://github.com/dgryski)/[**go-highway**](https://github.com/dgryski/go-highway)",
+              "Go implementation of Google's HighwayHash",
+              ""
+            ],
+            [
+              "17",
+              "[@dgryski](https://github.com/dgryski)/[**carbonmem**](https://github.com/dgryski/carbonmem)",
+              "in-memory carbon-like store",
+              ""
+            ],
+            [
+              "16",
+              "[@dgryski](https://github.com/dgryski)/[**go-yubiauth**](https://github.com/dgryski/go-yubiauth)",
+              "Yubikey Authorization Server",
+              ""
+            ],
+            [
+              "16",
+              "[@dgryski](https://github.com/dgryski)/[**go-duoweb**](https://github.com/dgryski/go-duoweb)",
+              "Duo Security two-factor authentication for Go web applications",
+              ""
+            ],
+            [
+              "8",
+              "[@medvednikov](https://github.com/medvednikov)/[**vitess-mysql-proxy**](https://github.com/medvednikov/vitess-mysql-proxy)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@serge-hulne](https://github.com/serge-hulne)/[**go-maps**](https://github.com/serge-hulne/go-maps)",
+              "Go maps generalized to interfaces which implement Int() or String methods",
+              ""
+            ],
+            [
+              "4",
+              "[@krpors](https://github.com/krpors)/[**wasp**](https://github.com/krpors/wasp)",
+              "Web based 'remote control' for Mplayer.",
+              ""
+            ],
+            [
+              "4",
+              "[@medvednikov](https://github.com/medvednikov)/[**gomvc**](https://github.com/medvednikov/gomvc)",
+              "A tiny MVC web framework for Go",
+              ""
+            ],
+            [
+              "3",
+              "[@krpors](https://github.com/krpors)/[**hmon**](https://github.com/krpors/hmon)",
+              "Simplistic HTTP monitoring using content assertions.",
+              ""
+            ],
+            [
+              "2",
+              "[@Luit](https://github.com/Luit)/[**dogebot**](https://github.com/Luit/dogebot)",
+              "Slack bot placing :doge: reactions",
+              ""
+            ],
+            [
+              "2",
+              "[@Luit](https://github.com/Luit)/[**resp**](https://github.com/Luit/resp)",
+              "resp is a package to read and interpret Redis Serialization Protocol data.",
               ""
             ]
           ]
