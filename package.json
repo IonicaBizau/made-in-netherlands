@@ -62,7 +62,8 @@
           "[Objective-C](#objective-c)",
           "[Perl](#perl)",
           "[PHP](#php)",
-          "[Python](#python)"
+          "[Python](#python)",
+          "[R](#r)"
         ]
       },
       {
@@ -9796,6 +9797,261 @@
               "[@gvx](https://github.com/gvx)/[**tutorialsource**](https://github.com/gvx/tutorialsource)",
               "Several Python tutorials, pretending to be source code.",
               "[:arrow_upper_right:](http://gyvox.webs.com/tutorials.htm)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "R #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "269",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**opencpu**](https://github.com/jeroenooms/opencpu)",
+              "OpenCPU system for embedded scientific computation and reproducible research",
+              "[:arrow_upper_right:](opencpu.org)"
+            ],
+            [
+              "42",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**opencpu-legacy**](https://github.com/jeroenooms/opencpu-legacy)",
+              "This version is no longer maintained. Switch to \"opencpu\" repository.",
+              ""
+            ],
+            [
+              "27",
+              "[@MicheleNuijten](https://github.com/MicheleNuijten)/[**statcheck**](https://github.com/MicheleNuijten/statcheck)",
+              "",
+              ""
+            ],
+            [
+              "25",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**RAppArmor**](https://github.com/jeroenooms/RAppArmor)",
+              "R interfaces to Linux and AppArmor security methods",
+              "[:arrow_upper_right:](cran.r-project.org/package=RAppArmor)"
+            ],
+            [
+              "23",
+              "[@dutri001](https://github.com/dutri001)/[**bfastSpatial**](https://github.com/dutri001/bfastSpatial)",
+              "Set of utilities and wrappers to perform change detection on satellite image time-series (Landsat and MODIS). Includes pre-processing steps and functions for spatial implementation of bfastmonitor change detection and post processing of the results.",
+              ""
+            ],
+            [
+              "21",
+              "[@mjkallen](https://github.com/mjkallen)/[**rlogging**](https://github.com/mjkallen/rlogging)",
+              "An R package for simple logging",
+              ""
+            ],
+            [
+              "20",
+              "[@MarcoDVisser](https://github.com/MarcoDVisser)/[**aprof**](https://github.com/MarcoDVisser/aprof)",
+              " Amdahl's profiler, directed optimization.",
+              ""
+            ],
+            [
+              "14",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**js**](https://github.com/jeroenooms/js)",
+              "Tools for Working with JavaScript in R",
+              ""
+            ],
+            [
+              "13",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**opencpu.demo-legacy**](https://github.com/jeroenooms/opencpu.demo-legacy)",
+              "opencpu.demo",
+              "[:arrow_upper_right:](www.opencpu.org)"
+            ],
+            [
+              "11",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**webutils**](https://github.com/jeroenooms/webutils)",
+              "Utility functions for web applications",
+              "[:arrow_upper_right:](http://cran.r-project.org/web/packages/webutils/)"
+            ],
+            [
+              "11",
+              "[@wviechtb](https://github.com/wviechtb)/[**metafor**](https://github.com/wviechtb/metafor)",
+              "A Meta-Analysis Package for R",
+              "[:arrow_upper_right:](http://www.metafor-project.org)"
+            ],
+            [
+              "10",
+              "[@RMHogervorst](https://github.com/RMHogervorst)/[**badgecreatr**](https://github.com/RMHogervorst/badgecreatr)",
+              "Quickly place relevant badges at the top of your readme",
+              ""
+            ],
+            [
+              "7",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**opencpu.encode**](https://github.com/jeroenooms/opencpu.encode)",
+              "opencpu R object encoder",
+              "[:arrow_upper_right:](www.opencpu.org)"
+            ],
+            [
+              "6",
+              "[@dutri001](https://github.com/dutri001)/[**paperProject**](https://github.com/dutri001/paperProject)",
+              "My project structure and management when working on scientific papers. To spend my time more efficiently.",
+              ""
+            ],
+            [
+              "6",
+              "[@MarcoDVisser](https://github.com/MarcoDVisser)/[**SpeedUpR**](https://github.com/MarcoDVisser/SpeedUpR)",
+              "Tutorial Code from PLOS Computation Biology Educational Piece on Efficiency in R",
+              ""
+            ],
+            [
+              "5",
+              "[@MarcoDVisser](https://github.com/MarcoDVisser)/[**MarkdownMS**](https://github.com/MarcoDVisser/MarkdownMS)",
+              "A skeleton academic manuscript in markdown  ",
+              ""
+            ],
+            [
+              "5",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**opencpu.tools**](https://github.com/jeroenooms/opencpu.tools)",
+              "some tools for the opencpu project",
+              "[:arrow_upper_right:](www.opencpu.org)"
+            ],
+            [
+              "5",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**Ohmage**](https://github.com/jeroenooms/Ohmage)",
+              "Ohmage R package",
+              ""
+            ],
+            [
+              "5",
+              "[@MarcoDVisser](https://github.com/MarcoDVisser)/[**choosecolor**](https://github.com/MarcoDVisser/choosecolor)",
+              "A quick and easy way to choose colors in R",
+              ""
+            ],
+            [
+              "5",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**jose**](https://github.com/jeroenooms/jose)",
+              " Javascript Object Signing and Encryption for R",
+              ""
+            ],
+            [
+              "4",
+              "[@MarcoDVisser](https://github.com/MarcoDVisser)/[**AskR**](https://github.com/MarcoDVisser/AskR)",
+              "Ask R all those important life decisions ",
+              ""
+            ],
+            [
+              "4",
+              "[@rwehrens](https://github.com/rwehrens)/[**kohonen**](https://github.com/rwehrens/kohonen)",
+              "Supervised and unsupervised self-organising maps",
+              ""
+            ],
+            [
+              "4",
+              "[@dutri001](https://github.com/dutri001)/[**VCF**](https://github.com/dutri001/VCF)",
+              "Utilities for working with the Landsat based tree cover data",
+              ""
+            ],
+            [
+              "3",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**rjade**](https://github.com/jeroenooms/rjade)",
+              "R Bindings to the Jade Templating Engine",
+              ""
+            ],
+            [
+              "3",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**webp**](https://github.com/jeroenooms/webp)",
+              "R bindings for libwebp",
+              ""
+            ],
+            [
+              "3",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**markdownit**](https://github.com/jeroenooms/markdownit)",
+              "Bindings to markdown-it JavaScript library",
+              ""
+            ],
+            [
+              "2",
+              "[@rwehrens](https://github.com/rwehrens)/[**ptw**](https://github.com/rwehrens/ptw)",
+              "Parametric Time Warping",
+              ""
+            ],
+            [
+              "2",
+              "[@rwehrens](https://github.com/rwehrens)/[**BatchCorrMetabolomic…**](https://github.com/rwehrens/BatchCorrMetabolomics)",
+              "Supplementary material for the paper \"Improved batch correction in untargeted MS-based metabolomics\" by R. Wehrens, et al. To appear in Metabolomics, 2016.",
+              ""
+            ],
+            [
+              "2",
+              "[@rwehrens](https://github.com/rwehrens)/[**metaMS**](https://github.com/rwehrens/metaMS)",
+              "data processing for MS-based metabolomics",
+              ""
+            ],
+            [
+              "2",
+              "[@thomaskelder](https://github.com/thomaskelder)/[**ModelCraft**](https://github.com/thomaskelder/ModelCraft)",
+              "Code repository for Team ModelCraft in the Sage / DREAM Breast Cancer Prognosis Challenge",
+              ""
+            ],
+            [
+              "2",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**ipyr**](https://github.com/jeroenooms/ipyr)",
+              "Debian package for ipyr",
+              ""
+            ],
+            [
+              "2",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**Mobilize**](https://github.com/jeroenooms/Mobilize)",
+              "Mobilize R package",
+              ""
+            ],
+            [
+              "2",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**base64**](https://github.com/jeroenooms/base64)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@thomaskelder](https://github.com/thomaskelder)/[**myRScripts**](https://github.com/thomaskelder/myRScripts)",
+              "Collection of R functions I often use for biological network analysis",
+              ""
+            ],
+            [
+              "2",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**lmergm**](https://github.com/jeroenooms/lmergm)",
+              "lmergm R package",
+              ""
+            ],
+            [
+              "2",
+              "[@dutri001](https://github.com/dutri001)/[**segmentInterpreter**](https://github.com/dutri001/segmentInterpreter)",
+              ":mag_right: :deciduous_tree: R shiny application to aid visual interpretation of partitioned time-series",
+              ""
+            ],
+            [
+              "2",
+              "[@dutri001](https://github.com/dutri001)/[**bfastApp**](https://github.com/dutri001/bfastApp)",
+              "Interactive tool to investigate effects of changing bfast parameters on the temporal segmentation of single time-series inputs",
+              ""
+            ],
+            [
+              "2",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**travis**](https://github.com/jeroenooms/travis)",
+              "Travis CI Client for R",
+              ""
+            ],
+            [
+              "2",
+              "[@jeroenooms](https://github.com/jeroenooms)/[**minimist**](https://github.com/jeroenooms/minimist)",
+              "R binding to minimist JavaScript library",
+              ""
+            ],
+            [
+              "2",
+              "[@MicheleNuijten](https://github.com/MicheleNuijten)/[**BayesMed**](https://github.com/MicheleNuijten/BayesMed)",
+              "Default Bayesian hypothesis tests for correlation, partial correlation, and mediation",
+              ""
             ]
           ]
         }
