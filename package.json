@@ -66,7 +66,8 @@
           "[R](#r)",
           "[Ruby](#ruby)",
           "[Scala](#scala)",
-          "[Shell](#shell)"
+          "[Shell](#shell)",
+          "[Swift](#swift)"
         ]
       },
       {
@@ -11876,6 +11877,45 @@
               "[@remibergsma](https://github.com/remibergsma)/[**screen-ssh-agent-upd…**](https://github.com/remibergsma/screen-ssh-agent-updater)",
               "Little script to always use the most recent ssh-agent socket. Useful when using GNU screen.",
               ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Swift #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "46",
+              "[@Swiftrien](https://github.com/Swiftrien)/[**SwifterSockets**](https://github.com/Swiftrien/SwifterSockets)",
+              "A collection of socket utilities in Swift for OS-X and iOS",
+              "[:arrow_upper_right:](http://swiftfire.nl/pages/projects/swiftersockets/)"
+            ],
+            [
+              "5",
+              "[@Swiftrien](https://github.com/Swiftrien)/[**Swiftfire**](https://github.com/Swiftrien/Swiftfire)",
+              "A personal web server in Swift for static websites",
+              "[:arrow_upper_right:](http://swiftfire.nl/)"
+            ],
+            [
+              "4",
+              "[@Swiftrien](https://github.com/Swiftrien)/[**SwifterLog**](https://github.com/Swiftrien/SwifterLog)",
+              "A single class framework in Swift to create log entries in up to 5 destinations.",
+              "[:arrow_upper_right:](http://swiftfire.nl/pages/projects/swifterlog/)"
+            ],
+            [
+              "3",
+              "[@Swiftrien](https://github.com/Swiftrien)/[**SwifterJSON**](https://github.com/Swiftrien/SwifterJSON)",
+              "A single class framework in Swift to read/write & parse the JSON Format.",
+              "[:arrow_upper_right:](http://swiftfire.nl/pages/projects/swifterjson/)"
             ]
           ]
         }
