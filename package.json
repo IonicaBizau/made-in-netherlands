@@ -46,7 +46,8 @@
       },
       {
         "ul": [
-          "[JavaScript](#javascript)"
+          "[JavaScript](#javascript)",
+          "[Java](#java)"
         ]
       },
       {
@@ -2034,6 +2035,921 @@
               "[@hay](https://github.com/hay)/[**photocommons**](https://github.com/hay/photocommons)",
               "WordPress plugin to include photos from Wikimedia Commons on your blog",
               "[:arrow_upper_right:](http://github.com/hay/photocommon)"
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "Java #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "5138",
+              "[@nhaarman](https://github.com/nhaarman)/[**ListViewAnimations**](https://github.com/nhaarman/ListViewAnimations)",
+              "An Android library which allows developers to easily add animations to ListView items",
+              ""
+            ],
+            [
+              "2859",
+              "[@rzwitserloot](https://github.com/rzwitserloot)/[**lombok**](https://github.com/rzwitserloot/lombok)",
+              "Very spicy additions to the Java programming language.",
+              "[:arrow_upper_right:](http://projectlombok.org/)"
+            ],
+            [
+              "1505",
+              "[@elevenetc](https://github.com/elevenetc)/[**TextSurface**](https://github.com/elevenetc/TextSurface)",
+              "A little animation framework which could help you to show message in a nice looking way",
+              ""
+            ],
+            [
+              "1363",
+              "[@M66B](https://github.com/M66B)/[**XPrivacy**](https://github.com/M66B/XPrivacy)",
+              "XPrivacy - The ultimate, yet easy to use, privacy manager",
+              "[:arrow_upper_right:](http://forum.xda-developers.com/xposed/modules/xprivacy-ultimate-android-privacy-app-t2320783)"
+            ],
+            [
+              "1194",
+              "[@konmik](https://github.com/konmik)/[**nucleus**](https://github.com/konmik/nucleus)",
+              "Nucleus is a simple Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.",
+              ""
+            ],
+            [
+              "974",
+              "[@LarsWerkman](https://github.com/LarsWerkman)/[**HoloColorPicker**](https://github.com/LarsWerkman/HoloColorPicker)",
+              "An Android Holo themed colorpicker designed by Marie Schweiz",
+              ""
+            ],
+            [
+              "763",
+              "[@nhaarman](https://github.com/nhaarman)/[**supertooltips**](https://github.com/nhaarman/supertooltips)",
+              "SuperToolTips",
+              ""
+            ],
+            [
+              "738",
+              "[@LarsWerkman](https://github.com/LarsWerkman)/[**QuickReturnListView**](https://github.com/LarsWerkman/QuickReturnListView)",
+              "A implementation of Roman Nurik's and Nick Butcher's Quick Return UI patern for a listview.",
+              ""
+            ],
+            [
+              "636",
+              "[@M66B](https://github.com/M66B)/[**NetGuard**](https://github.com/M66B/NetGuard)",
+              "A simple way to block access to the internet per application",
+              "[:arrow_upper_right:](http://www.netguard.me/)"
+            ],
+            [
+              "531",
+              "[@LarsWerkman](https://github.com/LarsWerkman)/[**Lobsterpicker**](https://github.com/LarsWerkman/Lobsterpicker)",
+              "A great material designed colorpicker by Marie Schweiz",
+              ""
+            ],
+            [
+              "459",
+              "[@elevenetc](https://github.com/elevenetc)/[**DraggableView**](https://github.com/elevenetc/DraggableView)",
+              "Draggable views with rotation and skew/scale effects",
+              ""
+            ],
+            [
+              "357",
+              "[@NightWhistler](https://github.com/NightWhistler)/[**PageTurner**](https://github.com/NightWhistler/PageTurner)",
+              "Android e-book reader with cloud synchronization",
+              "[:arrow_upper_right:](pageturner-reader.org)"
+            ],
+            [
+              "333",
+              "[@elevenetc](https://github.com/elevenetc)/[**InteractiveCanvas**](https://github.com/elevenetc/InteractiveCanvas)",
+              "Library for distribution canvas animation over set of devices",
+              ""
+            ],
+            [
+              "286",
+              "[@elevenetc](https://github.com/elevenetc)/[**BadgeView**](https://github.com/elevenetc/BadgeView)",
+              "Badge view with animated effect which shows a bitmap or a text",
+              ""
+            ],
+            [
+              "258",
+              "[@NightWhistler](https://github.com/NightWhistler)/[**HtmlSpanner**](https://github.com/NightWhistler/HtmlSpanner)",
+              "Android HTML rendering library with CSS support",
+              "[:arrow_upper_right:](http://nightwhistler.github.io/HtmlSpanner/)"
+            ],
+            [
+              "230",
+              "[@konmik](https://github.com/konmik)/[**solid**](https://github.com/konmik/solid)",
+              "Lightweight data streams and immutable collections for Android",
+              ""
+            ],
+            [
+              "163",
+              "[@pmlopes](https://github.com/pmlopes)/[**yoke**](https://github.com/pmlopes/yoke)",
+              "Yoke is a middleware framework for Vert.x",
+              "[:arrow_upper_right:](http://pmlopes.github.io/yoke/)"
+            ],
+            [
+              "119",
+              "[@jreijn](https://github.com/jreijn)/[**spring-comparing-tem…**](https://github.com/jreijn/spring-comparing-template-engines)",
+              "Demo project to show different Java templating engines in combination with Spring MVC",
+              ""
+            ],
+            [
+              "107",
+              "[@OskarVeerhoek](https://github.com/OskarVeerhoek)/[**YouTube-tutorials**](https://github.com/OskarVeerhoek/YouTube-tutorials)",
+              "The source code for my LWJGL tutorials on YouTube.",
+              "[:arrow_upper_right:](http://www.youtube.com/playlist?list=PL19F2453814E0E315)"
+            ],
+            [
+              "95",
+              "[@dashorst](https://github.com/dashorst)/[**dashboard**](https://github.com/dashorst/dashboard)",
+              "Dashboard for the coffee corner based on HTML5/CSS3",
+              ""
+            ],
+            [
+              "91",
+              "[@LarsWerkman](https://github.com/LarsWerkman)/[**LicenseView**](https://github.com/LarsWerkman/LicenseView)",
+              "A simple library to show licenses in your android application.",
+              ""
+            ],
+            [
+              "85",
+              "[@MineMaarten](https://github.com/MineMaarten)/[**PneumaticCraft**](https://github.com/MineMaarten/PneumaticCraft)",
+              "PneumaticCraft source",
+              ""
+            ],
+            [
+              "70",
+              "[@konmik](https://github.com/konmik)/[**Dagger2Example**](https://github.com/konmik/Dagger2Example)",
+              "This example is for \"Snorkeling with Dagger 2\" article",
+              "[:arrow_upper_right:](http://konmik.github.io/snorkeling-with-dagger-2.html)"
+            ],
+            [
+              "62",
+              "[@nhaarman](https://github.com/nhaarman)/[**Triad**](https://github.com/nhaarman/Triad)",
+              "Custom view based screen navigation in Android",
+              ""
+            ],
+            [
+              "61",
+              "[@nhaarman](https://github.com/nhaarman)/[**SQLiteBuilder**](https://github.com/nhaarman/SQLiteBuilder)",
+              "A SQLite statement builder for Java",
+              ""
+            ],
+            [
+              "59",
+              "[@konmik](https://github.com/konmik)/[**Phlux**](https://github.com/konmik/Phlux)",
+              "Phlux is an Android library which helps to architect applications in a functional way.",
+              ""
+            ],
+            [
+              "51",
+              "[@konmik](https://github.com/konmik)/[**satellite**](https://github.com/konmik/satellite)",
+              "Satellite is an Android library which allows to properly connect background tasks with visual parts of an application.",
+              ""
+            ],
+            [
+              "48",
+              "[@egonw](https://github.com/egonw)/[**cdk-old**](https://github.com/egonw/cdk-old)",
+              "The Chemistry Development Kit",
+              "[:arrow_upper_right:](http://cdk.sf.net/)"
+            ],
+            [
+              "38",
+              "[@M66B](https://github.com/M66B)/[**element53**](https://github.com/M66B/element53)",
+              "DNS tunnel",
+              ""
+            ],
+            [
+              "36",
+              "[@mdeinum](https://github.com/mdeinum)/[**pro-spring-mvc-code**](https://github.com/mdeinum/pro-spring-mvc-code)",
+              "Source code for the sample application in Pro Spring MVC.",
+              ""
+            ],
+            [
+              "36",
+              "[@rzwitserloot](https://github.com/rzwitserloot)/[**lombok.ast**](https://github.com/rzwitserloot/lombok.ast)",
+              "Robust parser + AST for the java language.",
+              "[:arrow_upper_right:](http://projectlombok.org/)"
+            ],
+            [
+              "29",
+              "[@konmik](https://github.com/konmik)/[**StackLayout**](https://github.com/konmik/StackLayout)",
+              "Building a user interface with plain old views only.",
+              ""
+            ],
+            [
+              "29",
+              "[@biemond](https://github.com/biemond)/[**soa11g_examples**](https://github.com/biemond/soa11g_examples)",
+              "Oracle SOA Suite 11g Examples",
+              ""
+            ],
+            [
+              "26",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**TypeScript**](https://github.com/GeertjanWielenga/TypeScript)",
+              "",
+              ""
+            ],
+            [
+              "25",
+              "[@MineMaarten](https://github.com/MineMaarten)/[**AdvancedMod**](https://github.com/MineMaarten/AdvancedMod)",
+              "A repository that holds the Advanced Mod. This is a tutorial mod which progresses further than the basic modding tutorials out there. You can follow the series here: https://www.youtube.com/playlist?list=PL…",
+              ""
+            ],
+            [
+              "25",
+              "[@konmik](https://github.com/konmik)/[**MicroBus**](https://github.com/konmik/MicroBus)",
+              "The smallest solution for organizing event bus in Java (and Android) application.",
+              ""
+            ],
+            [
+              "23",
+              "[@mdeinum](https://github.com/mdeinum)/[**spring-utils**](https://github.com/mdeinum/spring-utils)",
+              "",
+              ""
+            ],
+            [
+              "22",
+              "[@M66B](https://github.com/M66B)/[**BackPackTrackII**](https://github.com/M66B/BackPackTrackII)",
+              "BackPackTrack II",
+              ""
+            ],
+            [
+              "21",
+              "[@pmlopes](https://github.com/pmlopes)/[**vertx-bson-codec**](https://github.com/pmlopes/vertx-bson-codec)",
+              "BSON EventBus for Vert.x",
+              ""
+            ],
+            [
+              "19",
+              "[@jreijn](https://github.com/jreijn)/[**spring-mongo-demo**](https://github.com/jreijn/spring-mongo-demo)",
+              "This is a small demo project Using MongoDB and Spring Data",
+              ""
+            ],
+            [
+              "19",
+              "[@dashorst](https://github.com/dashorst)/[**wicket-stuff-markup-…**](https://github.com/dashorst/wicket-stuff-markup-validator)",
+              "Wicket response filter that validates XHTML markup",
+              "[:arrow_upper_right:](http://dashorst.github.com/wicket-stuff-markup-validator)"
+            ],
+            [
+              "19",
+              "[@biemond](https://github.com/biemond)/[**jdev11g_examples**](https://github.com/biemond/jdev11g_examples)",
+              "Oracle JDeveloper 11g Examples",
+              ""
+            ],
+            [
+              "18",
+              "[@fabianm](https://github.com/fabianm)/[**brainfuck-java**](https://github.com/fabianm/brainfuck-java)",
+              "Interpreter for the original Brainfuck language and its derivatives written in Java.",
+              ""
+            ],
+            [
+              "18",
+              "[@konmik](https://github.com/konmik)/[**dint**](https://github.com/konmik/dint)",
+              "A Java library for handling dates in a human-readable integer format.",
+              ""
+            ],
+            [
+              "17",
+              "[@paulbakker](https://github.com/paulbakker)/[**ducttape**](https://github.com/paulbakker/ducttape)",
+              "Devoxx duct tape demo applications",
+              ""
+            ],
+            [
+              "16",
+              "[@konmik](https://github.com/konmik)/[**testable-activity-ex…**](https://github.com/konmik/testable-activity-example)",
+              "This is an example of how to create an activity class that can be unit-tested without Instrumentation and PowerMock",
+              ""
+            ],
+            [
+              "16",
+              "[@vy](https://github.com/vy)/[**fiber-test**](https://github.com/vy/fiber-test)",
+              "Performance comparison of a multitude of thread/fiber implementations for JVM.",
+              ""
+            ],
+            [
+              "16",
+              "[@mauricioaniche](https://github.com/mauricioaniche)/[**metricminer2**](https://github.com/mauricioaniche/metricminer2)",
+              "a tool to support researchers on mining software repositories studies",
+              "[:arrow_upper_right:](http://www.metricminer.org.br)"
+            ],
+            [
+              "15",
+              "[@pmlopes](https://github.com/pmlopes)/[**mod-stomp-io**](https://github.com/pmlopes/mod-stomp-io)",
+              "Vert.x STOMP Protocol Module",
+              ""
+            ],
+            [
+              "15",
+              "[@konmik](https://github.com/konmik)/[**animated-color**](https://github.com/konmik/animated-color)",
+              "",
+              ""
+            ],
+            [
+              "15",
+              "[@LarsWerkman](https://github.com/LarsWerkman)/[**Boxer**](https://github.com/LarsWerkman/Boxer)",
+              "Annotation based serialization for Java and Android",
+              ""
+            ],
+            [
+              "14",
+              "[@rzwitserloot](https://github.com/rzwitserloot)/[**lombok.patcher**](https://github.com/rzwitserloot/lombok.patcher)",
+              "A framework for easily patching JVM programs. Part of Project Lombok.",
+              "[:arrow_upper_right:](http://projectlombok.org/patcher.html)"
+            ],
+            [
+              "12",
+              "[@konmik](https://github.com/konmik)/[**RxQuery**](https://github.com/konmik/RxQuery)",
+              "An Android library for database access with RxJava",
+              ""
+            ],
+            [
+              "12",
+              "[@paulbakker](https://github.com/paulbakker)/[**migrating-spring-to-…**](https://github.com/paulbakker/migrating-spring-to-javaee)",
+              "",
+              ""
+            ],
+            [
+              "12",
+              "[@konmik](https://github.com/konmik)/[**proxypref**](https://github.com/konmik/proxypref)",
+              "ProxyPref is a simple Android library, which allows to easily access SharedPreferences.",
+              ""
+            ],
+            [
+              "12",
+              "[@nhaarman](https://github.com/nhaarman)/[**trinity**](https://github.com/nhaarman/trinity)",
+              "A database library for Android based on code generation.",
+              ""
+            ],
+            [
+              "12",
+              "[@nhaarman](https://github.com/nhaarman)/[**Ergo**](https://github.com/nhaarman/Ergo)",
+              "A library for easily executing asynchronous tasks using IntentServices",
+              "[:arrow_upper_right:](http://nhaarman.github.io/Ergo)"
+            ],
+            [
+              "12",
+              "[@egonw](https://github.com/egonw)/[**gtd**](https://github.com/egonw/gtd)",
+              "Git-based ToDo tool.",
+              ""
+            ],
+            [
+              "11",
+              "[@MineMaarten](https://github.com/MineMaarten)/[**IGW-mod**](https://github.com/MineMaarten/IGW-mod)",
+              "ModJam 3 mod, In-Game Wiki Mod",
+              ""
+            ],
+            [
+              "11",
+              "[@mauricioaniche](https://github.com/mauricioaniche)/[**change-metrics**](https://github.com/mauricioaniche/change-metrics)",
+              "calculates change metrics in a Git repository",
+              ""
+            ],
+            [
+              "10",
+              "[@biemond](https://github.com/biemond)/[**osb11g_examples**](https://github.com/biemond/osb11g_examples)",
+              "Oracle OSB 11g Examples",
+              ""
+            ],
+            [
+              "10",
+              "[@egonw](https://github.com/egonw)/[**cheminfbenchmark**](https://github.com/egonw/cheminfbenchmark)",
+              "Cheminformatics Benchmark Toolkit",
+              ""
+            ],
+            [
+              "10",
+              "[@iwein](https://github.com/iwein)/[**Spring-Integration-S…**](https://github.com/iwein/Spring-Integration-Sandbox)",
+              "quick samples around Spring Integration",
+              "[:arrow_upper_right:](http://iweinfuld.posterous.com/)"
+            ],
+            [
+              "10",
+              "[@konmik](https://github.com/konmik)/[**MVPExamples**](https://github.com/konmik/MVPExamples)",
+              "",
+              ""
+            ],
+            [
+              "9",
+              "[@egonw](https://github.com/egonw)/[**jqudt**](https://github.com/egonw/jqudt)",
+              "Java library for working with the QUDT ontology and data using it.",
+              ""
+            ],
+            [
+              "9",
+              "[@mdeinum](https://github.com/mdeinum)/[**spring-batch-excel**](https://github.com/mdeinum/spring-batch-excel)",
+              "Spring Batch extension which contains ItemReader implementations for Excel. Support for both JExcel and Apache POI is available.",
+              ""
+            ],
+            [
+              "9",
+              "[@M66B](https://github.com/M66B)/[**BackPackTrack**](https://github.com/M66B/BackPackTrack)",
+              "Track your journey",
+              "[:arrow_upper_right:](http://blog.bokhorst.biz/)"
+            ],
+            [
+              "9",
+              "[@dashorst](https://github.com/dashorst)/[**cucumber-wicket**](https://github.com/dashorst/cucumber-wicket)",
+              "Cucumber support for Apache Wicket",
+              "[:arrow_upper_right:](http://github.com/dashorst/cucumber-wicket)"
+            ],
+            [
+              "9",
+              "[@jettro](https://github.com/jettro)/[**SpringOAuthLinkedinI…**](https://github.com/jettro/SpringOAuthLinkedinIntegrationSample)",
+              "Creating a sample application using Spring OAuth to connect to linkedin",
+              ""
+            ],
+            [
+              "8",
+              "[@OskarVeerhoek](https://github.com/OskarVeerhoek)/[**LWJGL3-Tutorials**](https://github.com/OskarVeerhoek/LWJGL3-Tutorials)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@M66B](https://github.com/M66B)/[**XPrivacyInstaller**](https://github.com/M66B/XPrivacyInstaller)",
+              "XPrivacy - The ultimate, yet easy to use, privacy manager",
+              "[:arrow_upper_right:](http://www.xprivacy.eu/)"
+            ],
+            [
+              "8",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**CheatSheets**](https://github.com/GeertjanWielenga/CheatSheets)",
+              "New windows are provided for viewing code templates and keybindings while coding in the NetBeans editor. ",
+              ""
+            ],
+            [
+              "8",
+              "[@mauricioaniche](https://github.com/mauricioaniche)/[**rEvolution**](https://github.com/mauricioaniche/rEvolution)",
+              "a simple mining software repository tool",
+              ""
+            ],
+            [
+              "8",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**YoNetBeans**](https://github.com/GeertjanWielenga/YoNetBeans)",
+              "NetBeans tools for Yeoman.",
+              ""
+            ],
+            [
+              "7",
+              "[@M66B](https://github.com/M66B)/[**FineGeotag**](https://github.com/M66B/FineGeotag)",
+              "Fine Geotag",
+              ""
+            ],
+            [
+              "7",
+              "[@paulbakker](https://github.com/paulbakker)/[**petclinic**](https://github.com/paulbakker/petclinic)",
+              "Sprint to Java EE migration example",
+              ""
+            ],
+            [
+              "7",
+              "[@egonw](https://github.com/egonw)/[**bioclipse.ons**](https://github.com/egonw/bioclipse.ons)",
+              "Open Notebook Science Solubility Project",
+              ""
+            ],
+            [
+              "7",
+              "[@mauricioaniche](https://github.com/mauricioaniche)/[**mtd2014-tool**](https://github.com/mauricioaniche/mtd2014-tool)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@dashorst](https://github.com/dashorst)/[**heroku-wicket-quicks…**](https://github.com/dashorst/heroku-wicket-quickstart)",
+              "Wicket Quickstart that runs on a single Heroku dyno.",
+              "[:arrow_upper_right:](http://wicketinaction.com/2011/09/git-wicket-running-on-heroku/)"
+            ],
+            [
+              "7",
+              "[@MineMaarten](https://github.com/MineMaarten)/[**Signals**](https://github.com/MineMaarten/Signals)",
+              "Minecraft mod that adds OpenTTD style signaling and more!",
+              ""
+            ],
+            [
+              "6",
+              "[@konmik](https://github.com/konmik)/[**viewstack**](https://github.com/konmik/viewstack)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**React.js**](https://github.com/GeertjanWielenga/React.js)",
+              "React support for NetBeans IDE",
+              ""
+            ],
+            [
+              "6",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**Gulp**](https://github.com/GeertjanWielenga/Gulp)",
+              "Support for Gulp in NetBeans IDE",
+              ""
+            ],
+            [
+              "6",
+              "[@egonw](https://github.com/egonw)/[**org.openscience.cdk**](https://github.com/egonw/org.openscience.cdk)",
+              "Repository with Eclipse bundle exports of the CDK modules and matching required third party libraries.",
+              ""
+            ],
+            [
+              "6",
+              "[@rzwitserloot](https://github.com/rzwitserloot)/[**com.zwitserloot.cmdr…**](https://github.com/rzwitserloot/com.zwitserloot.cmdreader)",
+              "Easy Command Line option reading in java. (scroll down for help / examples)",
+              ""
+            ],
+            [
+              "5",
+              "[@iwein](https://github.com/iwein)/[**NoESB**](https://github.com/iwein/NoESB)",
+              "Exploring the use Spring Integration as a replacement for an ESB",
+              ""
+            ],
+            [
+              "5",
+              "[@biemond](https://github.com/biemond)/[**OEPE_examples**](https://github.com/biemond/OEPE_examples)",
+              "Oracle Enterprise for Eclipse",
+              ""
+            ],
+            [
+              "5",
+              "[@vy](https://github.com/vy)/[**lubang-menggali**](https://github.com/vy/lubang-menggali)",
+              "Multi-player Lubang Menggali (Mancala) game written using Play Framework and WebSockets.",
+              ""
+            ],
+            [
+              "5",
+              "[@vy](https://github.com/vy)/[**quasar-maven-plugin**](https://github.com/vy/quasar-maven-plugin)",
+              "Maven plugin for the ahead-of-time Quasar instrumentation.",
+              ""
+            ],
+            [
+              "5",
+              "[@egonw](https://github.com/egonw)/[**CDKitty**](https://github.com/egonw/CDKitty)",
+              "The Chemistry Development Kit Google Wave Robot",
+              ""
+            ],
+            [
+              "5",
+              "[@mdeinum](https://github.com/mdeinum)/[**legacy-app**](https://github.com/mdeinum/legacy-app)",
+              "Code for the Improve your legacy app with Spring talks.",
+              ""
+            ],
+            [
+              "5",
+              "[@egonw](https://github.com/egonw)/[**ojdcheck**](https://github.com/egonw/ojdcheck)",
+              "OpenJavaDocCheck",
+              ""
+            ],
+            [
+              "4",
+              "[@biemond](https://github.com/biemond)/[**JDeveloper12c_12.1.2**](https://github.com/biemond/JDeveloper12c_12.1.2)",
+              "JDeveloper 12.1.2 test projects",
+              ""
+            ],
+            [
+              "4",
+              "[@vy](https://github.com/vy)/[**play-chat**](https://github.com/vy/play-chat)",
+              "Chat Application with Play Framework and KnockoutJS",
+              "[:arrow_upper_right:](http://vyazici.blogspot.com/2012/03/chat-application-with-play-framework.html)"
+            ],
+            [
+              "4",
+              "[@mauricioaniche](https://github.com/mauricioaniche)/[**springlint**](https://github.com/mauricioaniche/springlint)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@paulbakker](https://github.com/paulbakker)/[**osgi-websockets-exam…**](https://github.com/paulbakker/osgi-websockets-examples)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@jettro](https://github.com/jettro)/[**JavaNosApi**](https://github.com/jettro/JavaNosApi)",
+              "Java wrapper for the NOS api",
+              "[:arrow_upper_right:](http://www.gridshore.nl)"
+            ],
+            [
+              "4",
+              "[@M66B](https://github.com/M66B)/[**XPrivacyTester**](https://github.com/M66B/XPrivacyTester)",
+              "XPrivacy test application",
+              ""
+            ],
+            [
+              "4",
+              "[@biemond](https://github.com/biemond)/[**jdev11gR2_examples**](https://github.com/biemond/jdev11gR2_examples)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@iwein](https://github.com/iwein)/[**spring-integration**](https://github.com/iwein/spring-integration)",
+              "personal hacking space for spring integration",
+              ""
+            ],
+            [
+              "4",
+              "[@dashorst](https://github.com/dashorst)/[**heroku-wicket-exampl…**](https://github.com/dashorst/heroku-wicket-examples)",
+              "Apache Wicket examples running on heroku",
+              "[:arrow_upper_right:](http://wicketinaction.com/2011/09/git-wicket-running-on-heroku/)"
+            ],
+            [
+              "4",
+              "[@jettro](https://github.com/jettro)/[**CompanyHr**](https://github.com/jettro/CompanyHr)",
+              "A project using google app engine to handle human resource management",
+              ""
+            ],
+            [
+              "4",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**MavenHierarchicalVie…**](https://github.com/GeertjanWielenga/MavenHierarchicalView)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**HTML-WYSIWYG**](https://github.com/GeertjanWielenga/HTML-WYSIWYG)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@rzwitserloot](https://github.com/rzwitserloot)/[**ivyplusplus**](https://github.com/rzwitserloot/ivyplusplus)",
+              "Adds a few useful features to ivy, such as creating an eclipse project from your deps.",
+              "[:arrow_upper_right:](http://zwitserloot.com/ivyplusplus)"
+            ],
+            [
+              "4",
+              "[@rzwitserloot](https://github.com/rzwitserloot)/[**totp-example**](https://github.com/rzwitserloot/totp-example)",
+              "A self-contained, runnable example that shows exactly how to (securely!) do TOTP in java.",
+              ""
+            ],
+            [
+              "4",
+              "[@paulbakker](https://github.com/paulbakker)/[**javafx-osgi-example**](https://github.com/paulbakker/javafx-osgi-example)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@fabianm](https://github.com/fabianm)/[**jsamp**](https://github.com/fabianm/jsamp)",
+              "Library for the Grand Theft Auto San Andreas Multiplayer query mechanism written in Java. ",
+              ""
+            ],
+            [
+              "3",
+              "[@dashorst](https://github.com/dashorst)/[**wicketstuff-security**](https://github.com/dashorst/wicketstuff-security)",
+              "Wicketstuff security temporary location until we migrate it to wicketstuff core. Depend on this at your own risk",
+              ""
+            ],
+            [
+              "3",
+              "[@egonw](https://github.com/egonw)/[**rednael**](https://github.com/egonw/rednael)",
+              "IRC bot that propagates Git commit messages.",
+              ""
+            ],
+            [
+              "3",
+              "[@paulbakker](https://github.com/paulbakker)/[**osgi-vertx-demo**](https://github.com/paulbakker/osgi-vertx-demo)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**NetCassandraBeans**](https://github.com/GeertjanWielenga/NetCassandraBeans)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@ShinDarth](https://github.com/ShinDarth)/[**HTML-to-BBCode-conve…**](https://github.com/ShinDarth/HTML-to-BBCode-converter)",
+              "University Project for \"Engineering Software\" subject.",
+              "[:arrow_upper_right:](http://shinworld.altervista.org/wordpress/convertitore-html-bbcode-scritto-in-java/)"
+            ],
+            [
+              "3",
+              "[@egonw](https://github.com/egonw)/[**xws-taverna**](https://github.com/egonw/xws-taverna)",
+              "XWS Plugin for Taverna",
+              ""
+            ],
+            [
+              "3",
+              "[@egonw](https://github.com/egonw)/[**RobotDF**](https://github.com/egonw/RobotDF)",
+              "Google Wave robot for RDF functionality",
+              ""
+            ],
+            [
+              "3",
+              "[@egonw](https://github.com/egonw)/[**odk**](https://github.com/egonw/odk)",
+              "Orbital Development Kit",
+              ""
+            ],
+            [
+              "3",
+              "[@jettro](https://github.com/jettro)/[**GridshoreSamples**](https://github.com/jettro/GridshoreSamples)",
+              "Small samples that do not deserve to be a project",
+              ""
+            ],
+            [
+              "3",
+              "[@MineMaarten](https://github.com/MineMaarten)/[**MineChess**](https://github.com/MineMaarten/MineChess)",
+              "src of the MineChess Minecraft mod.",
+              ""
+            ],
+            [
+              "3",
+              "[@ShinDarth](https://github.com/ShinDarth)/[**Esercizi-Tecniche-di…**](https://github.com/ShinDarth/Esercizi-Tecniche-di-Programmazione-Concorrente-e-Distribuita)",
+              "Exercises about Socket, RMI, Thread, Servlet, Webservice, ...",
+              "[:arrow_upper_right:](http://shinworld.altervista.org/wordpress/category/programmazioneweb/)"
+            ],
+            [
+              "3",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**TiledNetBeansEditors**](https://github.com/GeertjanWielenga/TiledNetBeansEditors)",
+              "Tiling feature for editor components from ESA Sentinel Toolbox",
+              ""
+            ],
+            [
+              "3",
+              "[@biemond](https://github.com/biemond)/[**webcenter11g_example…**](https://github.com/biemond/webcenter11g_examples)",
+              "WebCenter 11g R1",
+              "[:arrow_upper_right:](http://biemond.blogspot.com)"
+            ],
+            [
+              "3",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**SpringBootTools4NetB…**](https://github.com/GeertjanWielenga/SpringBootTools4NetBeans)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@iwein](https://github.com/iwein)/[**throttle-samples**](https://github.com/iwein/throttle-samples)",
+              "Experiments with throttling",
+              ""
+            ],
+            [
+              "3",
+              "[@jreijn](https://github.com/jreijn)/[**insight-plugin-hst**](https://github.com/jreijn/insight-plugin-hst)",
+              "Spring Insight plugin for Hippo CMS7 based webapplications",
+              ""
+            ],
+            [
+              "3",
+              "[@pmlopes](https://github.com/pmlopes)/[**v-odm**](https://github.com/pmlopes/v-odm)",
+              "Vert.x ODM",
+              ""
+            ],
+            [
+              "3",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**HTML5Palette**](https://github.com/GeertjanWielenga/HTML5Palette)",
+              "Code snippets for video and other HTML5 snippets for the Component Palette in NetBeans",
+              ""
+            ],
+            [
+              "3",
+              "[@vy](https://github.com/vy)/[**play-facebook**](https://github.com/vy/play-facebook)",
+              "Ready to go Play Framework application with Facebook Login integration.",
+              "[:arrow_upper_right:](http://vyazici.blogspot.com/2012/02/facebook-login-and-secure-module.html)"
+            ],
+            [
+              "3",
+              "[@martijn00](https://github.com/martijn00)/[**MusicPlayerCodenameO…**](https://github.com/martijn00/MusicPlayerCodenameOne)",
+              "Example of a streaming audio app in CodenameOne",
+              ""
+            ],
+            [
+              "3",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**NetBeansKeyPromoter**](https://github.com/GeertjanWielenga/NetBeansKeyPromoter)",
+              "Status line shows key press of UI element such as menu item.",
+              ""
+            ],
+            [
+              "2",
+              "[@vy](https://github.com/vy)/[**null-check**](https://github.com/vy/null-check)",
+              "Validates @Nonnull method arguments at runtime using Spring AOP.",
+              ""
+            ],
+            [
+              "2",
+              "[@biemond](https://github.com/biemond)/[**activiti**](https://github.com/biemond/activiti)",
+              "Activiti workflow , bpmn",
+              ""
+            ],
+            [
+              "2",
+              "[@rzwitserloot](https://github.com/rzwitserloot)/[**com.zwitserloot.json**](https://github.com/rzwitserloot/com.zwitserloot.json)",
+              "Fluent JSON library for java",
+              ""
+            ],
+            [
+              "2",
+              "[@martijn00](https://github.com/martijn00)/[**Zipato**](https://github.com/martijn00/Zipato)",
+              "Zipato app made with CodenameOne",
+              ""
+            ],
+            [
+              "2",
+              "[@nhaarman](https://github.com/nhaarman)/[**PebbleNotifier**](https://github.com/nhaarman/PebbleNotifier)",
+              "An Android application which sends notifications to a Pebble smartwatch.",
+              "[:arrow_upper_right:](https://play.google.com/store/apps/details?id=com.haarman.pebblenotifier)"
+            ],
+            [
+              "2",
+              "[@mdeinum](https://github.com/mdeinum)/[**samples**](https://github.com/mdeinum/samples)",
+              "Java/Spring code samples.",
+              ""
+            ],
+            [
+              "2",
+              "[@ShinDarth](https://github.com/ShinDarth)/[**Exit-Poll-Generator**](https://github.com/ShinDarth/Exit-Poll-Generator)",
+              "University Project for \"Mathematical and Statistical Methods\" subject.",
+              ""
+            ],
+            [
+              "2",
+              "[@paulbakker](https://github.com/paulbakker)/[**forge-osgi**](https://github.com/paulbakker/forge-osgi)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@paulbakker](https://github.com/paulbakker)/[**osgi-demo**](https://github.com/paulbakker/osgi-demo)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@egonw](https://github.com/egonw)/[**lavoisier**](https://github.com/egonw/lavoisier)",
+              "Oxygen is to breathing and lungs what lavoisier is to molecules and databases.",
+              ""
+            ],
+            [
+              "2",
+              "[@jreijn](https://github.com/jreijn)/[**spring-session-docke…**](https://github.com/jreijn/spring-session-docker-demo)",
+              "This project uses Spring Boot, Spring Session, Redis, HAProxy and Docker to run HA environment with Docker Compose",
+              ""
+            ],
+            [
+              "2",
+              "[@egonw](https://github.com/egonw)/[**knime-chemspider**](https://github.com/egonw/knime-chemspider)",
+              "Source code for a ChemSpider query API plugin for KNIME.",
+              "[:arrow_upper_right:](http://chem-bla-ics.blogspot.com/2007/10/complife2007-utrechtnl-day-1-and-2.html)"
+            ],
+            [
+              "2",
+              "[@elevenetc](https://github.com/elevenetc)/[**Brush**](https://github.com/elevenetc/Brush)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jreijn](https://github.com/jreijn)/[**hippo-addon-restful-…**](https://github.com/jreijn/hippo-addon-restful-webservices)",
+              "This project provides webservices against the Hippo CMS content repository",
+              "[:arrow_upper_right:](https://github.com/jreijn/hippo-addon-restful-webservices/wiki)"
+            ],
+            [
+              "2",
+              "[@mauricioaniche](https://github.com/mauricioaniche)/[**palestra-lambda3-jun…**](https://github.com/mauricioaniche/palestra-lambda3-jun2016)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jreijn](https://github.com/jreijn)/[**gogreen-android**](https://github.com/jreijn/gogreen-android)",
+              "This project is a native Android application for the mobile Hippo CMS GoGreen demo.",
+              ""
+            ],
+            [
+              "2",
+              "[@paulbakker](https://github.com/paulbakker)/[**arquillian-as7-demo**](https://github.com/paulbakker/arquillian-as7-demo)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@jreijn](https://github.com/jreijn)/[**cocoon3-demo**](https://github.com/jreijn/cocoon3-demo)",
+              "A small Cocoon3 demo project that parses an RSS feed.",
+              ""
+            ],
+            [
+              "2",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**DukeScriptSamples**](https://github.com/GeertjanWielenga/DukeScriptSamples)",
+              "Samples for DukeScript users",
+              ""
+            ],
+            [
+              "2",
+              "[@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**YoOracleJET**](https://github.com/GeertjanWielenga/YoOracleJET)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@biemond](https://github.com/biemond)/[**JavaEE7**](https://github.com/biemond/JavaEE7)",
+              "Java EE 7",
+              ""
             ]
           ]
         }
