@@ -53,7 +53,8 @@
           "[C](undefined)",
           "[C++](#c-2)",
           "[ActionScript](#actionscript)",
-          "[Clojure](#clojure)"
+          "[Clojure](#clojure)",
+          "[CoffeeScript](#coffeescript)"
         ]
       },
       {
@@ -4863,6 +4864,75 @@
               "2",
               "[@pepijndevos](https://github.com/pepijndevos)/[**Clomian**](https://github.com/pepijndevos/Clomian)",
               "Clojure port of Mian(Minecraft Analysis)",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "CoffeeScript #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "47",
+              "[@myrne](https://github.com/myrne)/[**performance-now**](https://github.com/myrne/performance-now)",
+              "Implements performance.now (based on process.hrtime).",
+              ""
+            ],
+            [
+              "12",
+              "[@myrne](https://github.com/myrne)/[**mongo-utils**](https://github.com/myrne/mongo-utils)",
+              " Utilities for managing MongoDB databases",
+              ""
+            ],
+            [
+              "4",
+              "[@myrne](https://github.com/myrne)/[**parse-appcache-manif…**](https://github.com/myrne/parse-appcache-manifest)",
+              "Parses HTML5 application cache manifest",
+              ""
+            ],
+            [
+              "3",
+              "[@rharel](https://github.com/rharel)/[**node-avl-tree**](https://github.com/rharel/node-avl-tree)",
+              "AVL-tree for Node.js and the browser.",
+              ""
+            ],
+            [
+              "3",
+              "[@myrne](https://github.com/myrne)/[**faithful**](https://github.com/myrne/faithful)",
+              "Like Async, but employing promises.",
+              ""
+            ],
+            [
+              "2",
+              "[@stewartrule](https://github.com/stewartrule)/[**Backbone-Inquiry**](https://github.com/stewartrule/Backbone-Inquiry)",
+              "Add-on to easily query your Backbone collections",
+              ""
+            ],
+            [
+              "2",
+              "[@myrne](https://github.com/myrne)/[**osi-licenses**](https://github.com/myrne/osi-licenses)",
+              "id-name pairs of OSI-approved licenses",
+              ""
+            ],
+            [
+              "2",
+              "[@myrne](https://github.com/myrne)/[**explorer**](https://github.com/myrne/explorer)",
+              "Explore directories in various ways.",
+              ""
+            ],
+            [
+              "2",
+              "[@myrne](https://github.com/myrne)/[**f-throttle**](https://github.com/myrne/f-throttle)",
+              "Limit concurrency of a function returning a promise.",
               ""
             ]
           ]
