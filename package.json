@@ -60,7 +60,8 @@
           "[Lua](#lua)",
           "[Matlab](#matlab)",
           "[Objective-C](#objective-c)",
-          "[Perl](#perl)"
+          "[Perl](#perl)",
+          "[PHP](#php)"
         ]
       },
       {
@@ -7279,6 +7280,1497 @@
               "2",
               "[@yko](https://github.com/yko)/[**mojolicious-plugin-l…**](https://github.com/yko/mojolicious-plugin-linkedcontent)",
               "Plugin to manage css and js",
+              ""
+            ]
+          ]
+        }
+      },
+      {
+        "h3": "PHP #"
+      },
+      {
+        "table": {
+          "headers": [
+            ":star2:",
+            "Name",
+            "Description",
+            "🌍"
+          ],
+          "rows": [
+            [
+              "3584",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-debugbar**](https://github.com/barryvdh/laravel-debugbar)",
+              "Laravel Debugbar (Integrates PHP Debug Bar)",
+              ""
+            ],
+            [
+              "3441",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-ide-helper**](https://github.com/barryvdh/laravel-ide-helper)",
+              "Laravel IDE Helper",
+              ""
+            ],
+            [
+              "1569",
+              "[@gabordemooij](https://github.com/gabordemooij)/[**redbean**](https://github.com/gabordemooij/redbean)",
+              "ORM layer that creates models, config and database on the fly",
+              "[:arrow_upper_right:](http://www.redbeanphp.com)"
+            ],
+            [
+              "922",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-dompdf**](https://github.com/barryvdh/laravel-dompdf)",
+              "A DOMPDF Wrapper for Laravel",
+              ""
+            ],
+            [
+              "794",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-cors**](https://github.com/barryvdh/laravel-cors)",
+              "Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application",
+              ""
+            ],
+            [
+              "553",
+              "[@dannyvankooten](https://github.com/dannyvankooten)/[**AltoRouter**](https://github.com/dannyvankooten/AltoRouter)",
+              "PHP5.3+ Routing Class. Lightweight yet extremely flexible. Supports REST, dynamic and reversed routing. ",
+              "[:arrow_upper_right:](http://altorouter.com/)"
+            ],
+            [
+              "473",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-translation-…**](https://github.com/barryvdh/laravel-translation-manager)",
+              "Manage Laravel translation files",
+              ""
+            ],
+            [
+              "368",
+              "[@dannyvankooten](https://github.com/dannyvankooten)/[**PHP-Router**](https://github.com/dannyvankooten/PHP-Router)",
+              "Simple PHP Router class (supports REST and reverse routing)",
+              ""
+            ],
+            [
+              "364",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-snappy**](https://github.com/barryvdh/laravel-snappy)",
+              "Laravel Snappy PDF",
+              ""
+            ],
+            [
+              "237",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-elfinder**](https://github.com/barryvdh/laravel-elfinder)",
+              "elFinder bundle for Laravel 4",
+              ""
+            ],
+            [
+              "226",
+              "[@danslo](https://github.com/danslo)/[**ApiImport**](https://github.com/danslo/ApiImport)",
+              "Boilerplate between the Magento API and ImportExport, so that you can do fast Array/XMLRPC/SOAP based product imports.",
+              ""
+            ],
+            [
+              "212",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-httpcache**](https://github.com/barryvdh/laravel-httpcache)",
+              "Laravel HTTP Cache",
+              ""
+            ],
+            [
+              "198",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-migration-ge…**](https://github.com/barryvdh/laravel-migration-generator)",
+              "Generate migrations based on existing tables",
+              ""
+            ],
+            [
+              "152",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**symfony-console-form**](https://github.com/matthiasnoback/symfony-console-form)",
+              "Use Symfony forms for Console command input",
+              ""
+            ],
+            [
+              "141",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-vendor-clean…**](https://github.com/barryvdh/laravel-vendor-cleanup)",
+              "L4 Vendor Cleanup Command",
+              ""
+            ],
+            [
+              "137",
+              "[@kvz](https://github.com/kvz)/[**system_daemon**](https://github.com/kvz/system_daemon)",
+              "Discontinued. All the boilerplate required to daemonize php",
+              "[:arrow_upper_right:](http://pear.php.net/package/System_Daemon)"
+            ],
+            [
+              "123",
+              "[@ShawnMcCool](https://github.com/ShawnMcCool)/[**database-backup**](https://github.com/ShawnMcCool/database-backup)",
+              "A database backup package.",
+              ""
+            ],
+            [
+              "107",
+              "[@ShawnMcCool](https://github.com/ShawnMcCool)/[**laravel-form-base-mo…**](https://github.com/ShawnMcCool/laravel-form-base-model)",
+              "A base model for forms.",
+              ""
+            ],
+            [
+              "104",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-async-queue**](https://github.com/barryvdh/laravel-async-queue)",
+              "Laravel Async Queue Driver",
+              ""
+            ],
+            [
+              "90",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**SymfonyDependencyInj…**](https://github.com/matthiasnoback/SymfonyDependencyInjectionTest)",
+              "Library for testing user classes related to the Symfony Dependency Injection Component",
+              ""
+            ],
+            [
+              "82",
+              "[@frankdejonge](https://github.com/frankdejonge)/[**Monga**](https://github.com/frankdejonge/Monga)",
+              "MongoDB Abstaction UNMAINTAINED, go here ->",
+              "[:arrow_upper_right:](http://github.com/thephpleague/monga)"
+            ],
+            [
+              "81",
+              "[@ceeram](https://github.com/ceeram)/[**clear_cache**](https://github.com/ceeram/clear_cache)",
+              "clear cakephp caches with shell or within your app, also includes debugkit panel to clean caches",
+              ""
+            ],
+            [
+              "73",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**SymfonyConfigTest**](https://github.com/matthiasnoback/SymfonyConfigTest)",
+              "",
+              ""
+            ],
+            [
+              "71",
+              "[@danslo](https://github.com/danslo)/[**Danslo_Aop**](https://github.com/danslo/Danslo_Aop)",
+              "Bringing aspect oriented programming to Magento.",
+              ""
+            ],
+            [
+              "70",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**symfony-service-defi…**](https://github.com/matthiasnoback/symfony-service-definition-validator)",
+              "A set of tools for validating Symfony service definitions.",
+              ""
+            ],
+            [
+              "69",
+              "[@rosstuck](https://github.com/rosstuck)/[**TuckConverterBundle**](https://github.com/rosstuck/TuckConverterBundle)",
+              "Adds the Symfony2 command container:convert which converts service config files to other formats",
+              ""
+            ],
+            [
+              "69",
+              "[@rdohms](https://github.com/rdohms)/[**dms-filter**](https://github.com/rdohms/dms-filter)",
+              "Library that offers Input Filtering based on Annotations for use with Objects. Check out 2.dev for 2.0 pre-release.",
+              "[:arrow_upper_right:](http://doh.ms/project/list)"
+            ],
+            [
+              "56",
+              "[@dannyvankooten](https://github.com/dannyvankooten)/[**wp-plugin-profiler**](https://github.com/dannyvankooten/wp-plugin-profiler)",
+              "Basic profiler for WordPress plugins. Measures response times with and without a given plugin activated.",
+              ""
+            ],
+            [
+              "54",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**symfony-bundle-plugi…**](https://github.com/matthiasnoback/symfony-bundle-plugins)",
+              "Allow Symfony bundles to have plugins",
+              ""
+            ],
+            [
+              "53",
+              "[@rosstuck](https://github.com/rosstuck)/[**tactician**](https://github.com/rosstuck/tactician)",
+              "[Moved to thephpleague\\tactician] A small, pluggable command bus.",
+              "[:arrow_upper_right:](http://tactician.thephpleague.com/)"
+            ],
+            [
+              "53",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-twigbridge**](https://github.com/barryvdh/laravel-twigbridge)",
+              "Laravel TwigBridge",
+              ""
+            ],
+            [
+              "50",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**random-disaster-bund…**](https://github.com/matthiasnoback/random-disaster-bundle)",
+              "ProjectBundle a.k.a. RandomDisasterBundle ",
+              ""
+            ],
+            [
+              "50",
+              "[@dannyvankooten](https://github.com/dannyvankooten)/[**edd-helpscout**](https://github.com/dannyvankooten/edd-helpscout)",
+              "Easy Digital Downloads integration for HelpScout. A WordPress Plugin.",
+              ""
+            ],
+            [
+              "49",
+              "[@rdohms](https://github.com/rdohms)/[**dms-filter-bundle**](https://github.com/rdohms/dms-filter-bundle)",
+              "Provides a FilterService for Symfony to allow users to implement input filtering in entities using Annotations",
+              ""
+            ],
+            [
+              "49",
+              "[@joostvanveen](https://github.com/joostvanveen)/[**php-oop-fundamentals**](https://github.com/joostvanveen/php-oop-fundamentals)",
+              "This repository accompanies the Tuts+ course PHP OOP Fundamentals",
+              ""
+            ],
+            [
+              "48",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**wp-db-driver**](https://github.com/markoheijnen/wp-db-driver)",
+              "",
+              ""
+            ],
+            [
+              "47",
+              "[@WanWizard](https://github.com/WanWizard)/[**sparks-datamapper**](https://github.com/WanWizard/sparks-datamapper)",
+              "CodeIgniter Sparks Package for Datamapper ORM",
+              "[:arrow_upper_right:](http://wanwizard.eu)"
+            ],
+            [
+              "44",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-omnipay**](https://github.com/barryvdh/laravel-omnipay)",
+              "Omnipay ServiceProvider for Laravel",
+              ""
+            ],
+            [
+              "44",
+              "[@rdohms](https://github.com/rdohms)/[**meetup-api-client**](https://github.com/rdohms/meetup-api-client)",
+              "Guzzle powered Meetup.com API Client",
+              ""
+            ],
+            [
+              "43",
+              "[@kvz](https://github.com/kvz)/[**cakephp-elasticsearc…**](https://github.com/kvz/cakephp-elasticsearch-plugin)",
+              "Discontinued. CakePHP plugin for Elasticsearch: the Open Source, Distributed, RESTful, Search Engine",
+              "[:arrow_upper_right:](http://www.elasticsearch.org/)"
+            ],
+            [
+              "43",
+              "[@gabordemooij](https://github.com/gabordemooij)/[**stamp**](https://github.com/gabordemooij/stamp)",
+              "Stamp is a template system for clean HTML only templates, no foreign syntax required.",
+              "[:arrow_upper_right:](http://www.stampte.com)"
+            ],
+            [
+              "43",
+              "[@frankdejonge](https://github.com/frankdejonge)/[**Poser**](https://github.com/frankdejonge/Poser)",
+              "Composer Class Aliassing",
+              ""
+            ],
+            [
+              "42",
+              "[@frankdejonge](https://github.com/frankdejonge)/[**Cabinet**](https://github.com/frankdejonge/Cabinet)",
+              "Cabinet DBAL. [NO LONGER MAINTAINED]",
+              ""
+            ],
+            [
+              "41",
+              "[@frankdejonge](https://github.com/frankdejonge)/[**locked-console-comma…**](https://github.com/frankdejonge/locked-console-command)",
+              "Command locking from Symfony/Laravel Console commands.",
+              ""
+            ],
+            [
+              "39",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**badges**](https://github.com/matthiasnoback/badges)",
+              "Package which will receive many nice badges",
+              ""
+            ],
+            [
+              "39",
+              "[@joostvanveen](https://github.com/joostvanveen)/[**build-a-cms-with-cod…**](https://github.com/joostvanveen/build-a-cms-with-codeigniter)",
+              "Source code for the Tutsplus course 'Build a CMS with Codeigniter'",
+              ""
+            ],
+            [
+              "38",
+              "[@MichMich](https://github.com/MichMich)/[**laravel-mandrill**](https://github.com/MichMich/laravel-mandrill)",
+              "A LaravelPHP package for working w/ Mandrill.",
+              ""
+            ],
+            [
+              "38",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**convenient-immutabil…**](https://github.com/matthiasnoback/convenient-immutability)",
+              "Make objects initially inconsistent, yet eventually immutable",
+              ""
+            ],
+            [
+              "38",
+              "[@barryvdh](https://github.com/barryvdh)/[**composer-cleanup-plu…**](https://github.com/barryvdh/composer-cleanup-plugin)",
+              "Composer plugin for cleaning up unused files from packages.",
+              ""
+            ],
+            [
+              "37",
+              "[@rdohms](https://github.com/rdohms)/[**DMS**](https://github.com/rdohms/DMS)",
+              "Component library",
+              "[:arrow_upper_right:](http://doh.ms)"
+            ],
+            [
+              "36",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-security**](https://github.com/barryvdh/laravel-security)",
+              "Laravel Security",
+              ""
+            ],
+            [
+              "35",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**tabify-edit-screen**](https://github.com/markoheijnen/tabify-edit-screen)",
+              "Enable tabs in the edit screen and manage them from the back-end.",
+              ""
+            ],
+            [
+              "34",
+              "[@danslo](https://github.com/danslo)/[**Magento-HHVM-Module-…**](https://github.com/danslo/Magento-HHVM-Module-Compatibility)",
+              "Magento installation with a bunch of modules that I test on HHVM.",
+              ""
+            ],
+            [
+              "34",
+              "[@Mark-H](https://github.com/Mark-H)/[**VersionX2**](https://github.com/Mark-H/VersionX2)",
+              "Resource & Element Versioning Extra for MODX Revolution (supports 2.2 and up). Extends the core in a future-proof manner to keep copies of every change to resources, templates, template variables, chunks, snippets and plugins.",
+              "[:arrow_upper_right:](https://www.markhamstra.com/modx-blog/2012/05/versionx-2.0-finally-available/)"
+            ],
+            [
+              "31",
+              "[@ceeram](https://github.com/ceeram)/[**GoogleAuthenticate**](https://github.com/ceeram/GoogleAuthenticate)",
+              "",
+              ""
+            ],
+            [
+              "30",
+              "[@joostvanveen](https://github.com/joostvanveen)/[**Getting-started-with…**](https://github.com/joostvanveen/Getting-started-with-Laravel-4)",
+              "This is the source code to accompany the Tuts+ course Getting started with Laravel 4",
+              ""
+            ],
+            [
+              "28",
+              "[@WanWizard](https://github.com/WanWizard)/[**Datamapper**](https://github.com/WanWizard/Datamapper)",
+              "DataMapper is an Object Relational Mapper for PHP.",
+              ""
+            ],
+            [
+              "27",
+              "[@ceeram](https://github.com/ceeram)/[**blame**](https://github.com/ceeram/blame)",
+              "Abandoned: Use muffin/footprint instead",
+              "[:arrow_upper_right:]( https://github.com/usemuffin/footprint)"
+            ],
+            [
+              "27",
+              "[@coenjacobs](https://github.com/coenjacobs)/[**wordpress-composer-i…**](https://github.com/coenjacobs/wordpress-composer-installer)",
+              "",
+              ""
+            ],
+            [
+              "27",
+              "[@wouterj](https://github.com/wouterj)/[**fred**](https://github.com/wouterj/fred)",
+              "A simple PHP task runner based on Iterators",
+              ""
+            ],
+            [
+              "26",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-assetic**](https://github.com/barryvdh/laravel-assetic)",
+              "Assetic ServiceProvider for Laravel",
+              ""
+            ],
+            [
+              "26",
+              "[@joostvanveen](https://github.com/joostvanveen)/[**codeigniter-best-pra…**](https://github.com/joostvanveen/codeigniter-best-practises)",
+              "Source code for the Tutsplus course 'Codeigniter best practises'",
+              ""
+            ],
+            [
+              "25",
+              "[@dannyvankooten](https://github.com/dannyvankooten)/[**plugin-endpoints**](https://github.com/dannyvankooten/plugin-endpoints)",
+              "Register URL endpoints for which only certain WordPress plugins are enabled.",
+              ""
+            ],
+            [
+              "25",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**high-quality-bundles…**](https://github.com/matthiasnoback/high-quality-bundles-project)",
+              "The \"Symfony Standard Edition\" adapted for my High Quality Bundles workshop",
+              ""
+            ],
+            [
+              "23",
+              "[@joostvanveen](https://github.com/joostvanveen)/[**php-security-pitfall…**](https://github.com/joostvanveen/php-security-pitfalls)",
+              "Code repository for Tutsplus course PHP Security Pitfalls",
+              ""
+            ],
+            [
+              "22",
+              "[@renan](https://github.com/renan)/[**CakePHP-XHProf**](https://github.com/renan/CakePHP-XHProf)",
+              "Plugin that quickly enables XHProf profiling for your CakePHP application.",
+              "[:arrow_upper_right:](http://renan.github.io/CakePHP-XHProf/)"
+            ],
+            [
+              "21",
+              "[@danslo](https://github.com/danslo)/[**HiphopIndexer**](https://github.com/danslo/HiphopIndexer)",
+              "Magento module that ensures only specific modules are loaded when requests are made through HHVM and when they match a specific request path.",
+              ""
+            ],
+            [
+              "21",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**broadway-serializati…**](https://github.com/matthiasnoback/broadway-serialization)",
+              "Serialization helpers for Broadway",
+              ""
+            ],
+            [
+              "21",
+              "[@WanWizard](https://github.com/WanWizard)/[**fuel-nestedsets**](https://github.com/WanWizard/fuel-nestedsets)",
+              "Do not use! Fuel's ORM now has built-in support for nested sets!",
+              ""
+            ],
+            [
+              "20",
+              "[@ShawnMcCool](https://github.com/ShawnMcCool)/[**laravel-closure-comp…**](https://github.com/ShawnMcCool/laravel-closure-compiler)",
+              "Closure-compiler bundle for Laravel.",
+              ""
+            ],
+            [
+              "20",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**simple-bus**](https://github.com/matthiasnoback/simple-bus)",
+              "Warning: this project has been moved to its own organization and the package has been split.  Please take a look at its new location:",
+              "[:arrow_upper_right:](https://github.com/SimpleBus)"
+            ],
+            [
+              "20",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**microsoft-translator**](https://github.com/matthiasnoback/microsoft-translator)",
+              "PHP library for making calls to the Microsoft Translator V2 API",
+              ""
+            ],
+            [
+              "20",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-stack-middle…**](https://github.com/barryvdh/laravel-stack-middleware)",
+              "Stack Middleware for Laravel 5",
+              ""
+            ],
+            [
+              "20",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**LazyServicesBundle**](https://github.com/matthiasnoback/LazyServicesBundle)",
+              "",
+              ""
+            ],
+            [
+              "20",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**doctrine-orm-value-o…**](https://github.com/matthiasnoback/doctrine-orm-value-object)",
+              "A library for using value objects inside Doctrine entities",
+              ""
+            ],
+            [
+              "18",
+              "[@kvz](https://github.com/kvz)/[**eventcache**](https://github.com/kvz/eventcache)",
+              "Discontinued. PHP caching & invalidation for the lazy coder",
+              ""
+            ],
+            [
+              "18",
+              "[@Mark-H](https://github.com/Mark-H)/[**importX**](https://github.com/Mark-H/importX)",
+              "Addon for MODX Revolution which will take your CSV Formatted files (or raw paste) and transforms it into resources. Funded by Working Party (digital agency based in Sydney, @workingparty)",
+              "[:arrow_upper_right:](http://www.markhamstra.com/)"
+            ],
+            [
+              "18",
+              "[@danslo](https://github.com/danslo)/[**LibraryRewrite**](https://github.com/danslo/LibraryRewrite)",
+              "Allows you to rewrite Magento libraries without copying them entirely.",
+              ""
+            ],
+            [
+              "18",
+              "[@ceeram](https://github.com/ceeram)/[**wsdl**](https://github.com/ceeram/wsdl)",
+              "Soap made simple again, build a classmap off the wsdl and connect with the Wsdl datasource and CakePHP",
+              ""
+            ],
+            [
+              "18",
+              "[@Mark-H](https://github.com/Mark-H)/[**ClientConfig**](https://github.com/Mark-H/ClientConfig)",
+              "ClientConfig is a MODX Revolution Extra to allow clients to maintain settings in a user friendly way.",
+              "[:arrow_upper_right:](http://modxpo.eu/schedule/sessions/developing-extras-for-modx-hands-on)"
+            ],
+            [
+              "17",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**WP_Image**](https://github.com/markoheijnen/WP_Image)",
+              "",
+              ""
+            ],
+            [
+              "17",
+              "[@Mark-H](https://github.com/Mark-H)/[**EvoGallery**](https://github.com/Mark-H/EvoGallery)",
+              "MODX Evolution gallery addon",
+              ""
+            ],
+            [
+              "17",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**wp-no-taxonomy-base**](https://github.com/markoheijnen/wp-no-taxonomy-base)",
+              "This is a WordPress plugin that will remove the base slug of certain custom taxonomies.",
+              ""
+            ],
+            [
+              "17",
+              "[@wouterj](https://github.com/wouterj)/[**WouterJEloquentBundl…**](https://github.com/wouterj/WouterJEloquentBundle)",
+              "Integrates the Eloquent ORM in the Symfony framework",
+              ""
+            ],
+            [
+              "16",
+              "[@barryvdh](https://github.com/barryvdh)/[**elfinder-flysystem-d…**](https://github.com/barryvdh/elfinder-flysystem-driver)",
+              "elFinder driver for Flysystem",
+              ""
+            ],
+            [
+              "16",
+              "[@low](https://github.com/low)/[**low.nospam.ee_addon**](https://github.com/low/low.nospam.ee_addon)",
+              "Spam prevention add-on for ExpressionEngine",
+              "[:arrow_upper_right:](http://loweblog.com/freelance/article/ee-low-nospam/)"
+            ],
+            [
+              "16",
+              "[@ceeram](https://github.com/ceeram)/[**EmailLogger**](https://github.com/ceeram/EmailLogger)",
+              "Email engine for CakeLog, CakePHP 2.x",
+              ""
+            ],
+            [
+              "15",
+              "[@ShawnMcCool](https://github.com/ShawnMcCool)/[**tdd-kata**](https://github.com/ShawnMcCool/tdd-kata)",
+              "This repository is a PHP-based starter-kit for TDD Kata.",
+              ""
+            ],
+            [
+              "15",
+              "[@fahad19](https://github.com/fahad19)/[**cakephp-bower**](https://github.com/fahad19/cakephp-bower)",
+              ":baby_chick: CakePHP Plugin for Twitter Bower",
+              "[:arrow_upper_right:](http://fahad19.github.com/cakephp-bower)"
+            ],
+            [
+              "14",
+              "[@danslo](https://github.com/danslo)/[**MigrationHelper**](https://github.com/danslo/MigrationHelper)",
+              "Migration Helper is a Magento module that helps you by automatically generating database migrations for backend configuration changes. ",
+              ""
+            ],
+            [
+              "14",
+              "[@low](https://github.com/low)/[**low_freeform_field**](https://github.com/low/low_freeform_field)",
+              "ExpressionEngine Custom Fieldtype to select a Freeform Field",
+              ""
+            ],
+            [
+              "14",
+              "[@fahad19](https://github.com/fahad19)/[**clear_cache**](https://github.com/fahad19/clear_cache)",
+              "CakePHP plugin/shell for deleting cache files",
+              "[:arrow_upper_right:](http://fahad19.com/blog/clear-cache-plugin-for-cakephp)"
+            ],
+            [
+              "14",
+              "[@dannyvankooten](https://github.com/dannyvankooten)/[**wp-cdn-loader**](https://github.com/dannyvankooten/wp-cdn-loader)",
+              "Loads WordPress assets from a CDN instead of of local server.",
+              ""
+            ],
+            [
+              "13",
+              "[@ShawnMcCool](https://github.com/ShawnMcCool)/[**laravel-vanilla-inte…**](https://github.com/ShawnMcCool/laravel-vanilla-integration)",
+              "A Vanilla Forums Integration Bundle for Laravel Applications",
+              ""
+            ],
+            [
+              "13",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**Improved-image-edito…**](https://github.com/markoheijnen/Improved-image-editor)",
+              "All cool goodies WordPress core maybe should have",
+              ""
+            ],
+            [
+              "13",
+              "[@ShawnMcCool](https://github.com/ShawnMcCool)/[**laravel-eloquent-bas…**](https://github.com/ShawnMcCool/laravel-eloquent-base-model)",
+              "An Eloquent base model for Laravel.",
+              ""
+            ],
+            [
+              "13",
+              "[@coenjacobs](https://github.com/coenjacobs)/[**wc-bundle-style-coup…**](https://github.com/coenjacobs/wc-bundle-style-coupons)",
+              "WordPress plugin: Make WooCommerce coupons require a set of products to be in the cart before being applied.",
+              "[:arrow_upper_right:](http://wordpress.org/plugins/woocommerce-bundle-style-coupons/)"
+            ],
+            [
+              "13",
+              "[@Mark-H](https://github.com/Mark-H)/[**SubscribeMe**](https://github.com/Mark-H/SubscribeMe)",
+              "SubscribeMe is a subscriptions extra for MODX Revolution, integrated with PayPal and the MODX Security stuff.",
+              "[:arrow_upper_right:](http://www.markhamstra.com)"
+            ],
+            [
+              "12",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**phpunit-asynchronici…**](https://github.com/matthiasnoback/phpunit-asynchronicity)",
+              "Library for asserting things that happen asynchronously with PHPUnit",
+              ""
+            ],
+            [
+              "12",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**code-sniffer-sniff-d…**](https://github.com/matthiasnoback/code-sniffer-sniff-dsl)",
+              "DSL for writing sniffs for PHP_CodeSniffer",
+              ""
+            ],
+            [
+              "12",
+              "[@ShawnMcCool](https://github.com/ShawnMcCool)/[**laravel-presentable**](https://github.com/ShawnMcCool/laravel-presentable)",
+              "Presenter classes for Laravel",
+              ""
+            ],
+            [
+              "12",
+              "[@low](https://github.com/low)/[**low_options**](https://github.com/low/low_options)",
+              "An ExpressionEngine add-on to display channel field list items or options",
+              ""
+            ],
+            [
+              "12",
+              "[@low](https://github.com/low)/[**low_replace**](https://github.com/low/low_replace)",
+              "Low Replace for ExpressionEngine",
+              "[:arrow_upper_right:](http://gotolow.com/addons/low-replace)"
+            ],
+            [
+              "12",
+              "[@dannyvankooten](https://github.com/dannyvankooten)/[**laravel-vat**](https://github.com/dannyvankooten/laravel-vat)",
+              "EU VAT library for Laravel",
+              ""
+            ],
+            [
+              "11",
+              "[@fahad19](https://github.com/fahad19)/[**social_bookmarks**](https://github.com/fahad19/social_bookmarks)",
+              "Croogo plugin for showing graphical social bookmark links",
+              "[:arrow_upper_right:](http://www.croogo.org)"
+            ],
+            [
+              "11",
+              "[@Mark-H](https://github.com/Mark-H)/[**MenuExtended**](https://github.com/Mark-H/MenuExtended)",
+              "MenuExtended is a simple menu builder for MODX Revolution.. with some extended functionality which explains the name. :)",
+              ""
+            ],
+            [
+              "11",
+              "[@renan](https://github.com/renan)/[**CakePHP-Bootstrap**](https://github.com/renan/CakePHP-Bootstrap)",
+              "",
+              ""
+            ],
+            [
+              "11",
+              "[@Mark-H](https://github.com/Mark-H)/[**Tweetalyzer**](https://github.com/Mark-H/Tweetalyzer)",
+              "Tweetalyzer uses the public Twitter Search API to fetch tweet with your search, analyzes them with a customied version of James Hennessey's phpInsight Sentiment Analysis class and displays the tweet with a funny emoticon.",
+              ""
+            ],
+            [
+              "10",
+              "[@wouterj](https://github.com/wouterj)/[**shift-php**](https://github.com/wouterj/shift-php)",
+              "A very simple, Event Driven, MOVE oriented PHP Framework",
+              ""
+            ],
+            [
+              "10",
+              "[@rdohms](https://github.com/rdohms)/[**dms-twig-extension-b…**](https://github.com/rdohms/dms-twig-extension-bundle)",
+              "DMS Twig Extension Bundle, leverages Fabien Potencier's extra twig extensions for your website.",
+              ""
+            ],
+            [
+              "10",
+              "[@low](https://github.com/low)/[**low_list**](https://github.com/low/low_list)",
+              "Low List for ExpressionEngine",
+              "[:arrow_upper_right:](http://gotolow.com/)"
+            ],
+            [
+              "10",
+              "[@rosstuck](https://github.com/rosstuck)/[**sort**](https://github.com/rosstuck/sort)",
+              "Syntatic sugar for sorting in PHP",
+              ""
+            ],
+            [
+              "10",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**wp-mysqli**](https://github.com/markoheijnen/wp-mysqli)",
+              "Database layer for mysqli",
+              ""
+            ],
+            [
+              "10",
+              "[@low](https://github.com/low)/[**low_widont**](https://github.com/low/low_widont)",
+              "Low Widon't for ExpressionEngine",
+              "[:arrow_upper_right:](http://gotolow.com/addons/low-widont)"
+            ],
+            [
+              "10",
+              "[@frankdejonge](https://github.com/frankdejonge)/[**doctrine-query-speci…**](https://github.com/frankdejonge/doctrine-query-specification)",
+              "Specification based querying for Doctrine2",
+              ""
+            ],
+            [
+              "9",
+              "[@barryvdh](https://github.com/barryvdh)/[**laravel-form-bridge**](https://github.com/barryvdh/laravel-form-bridge)",
+              "Laravel Bridge for the Symfony Form Component",
+              ""
+            ],
+            [
+              "9",
+              "[@sahildua2305](https://github.com/sahildua2305)/[**duckduckgo-ia-search**](https://github.com/sahildua2305/duckduckgo-ia-search)",
+              ":speech_balloon: Slash command for searching Instant Answers right from the chat window on Slack",
+              ""
+            ],
+            [
+              "9",
+              "[@ShawnMcCool](https://github.com/ShawnMcCool)/[**using-doctrine**](https://github.com/ShawnMcCool/using-doctrine)",
+              "Simple Doctrine Examples",
+              ""
+            ],
+            [
+              "9",
+              "[@danslo](https://github.com/danslo)/[**WebsiteLimit**](https://github.com/danslo/WebsiteLimit)",
+              "Restrict Magento admin users to a specific website.",
+              ""
+            ],
+            [
+              "9",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**ConsoleCommandGenera…**](https://github.com/matthiasnoback/ConsoleCommandGeneratorBundle)",
+              "Bundle for generating Symfony2 commands",
+              ""
+            ],
+            [
+              "9",
+              "[@fahad19](https://github.com/fahad19)/[**themes**](https://github.com/fahad19/themes)",
+              "Themes for Croogo CMS",
+              "[:arrow_upper_right:](http://croogo.org)"
+            ],
+            [
+              "9",
+              "[@coenjacobs](https://github.com/coenjacobs)/[**rickroll-admin-login**](https://github.com/coenjacobs/rickroll-admin-login)",
+              "WordPress plugin: Redirects the user trying to log in with 'admin' as username, to the world famous Rickroll video on YouTube.",
+              ""
+            ],
+            [
+              "9",
+              "[@low](https://github.com/low)/[**low_title**](https://github.com/low/low_title)",
+              "Low Title for ExpressionEngine",
+              "[:arrow_upper_right:](http://gotolow.com/addons/low-title)"
+            ],
+            [
+              "9",
+              "[@low](https://github.com/low)/[**low_seg2cat**](https://github.com/low/low_seg2cat)",
+              "Low Seg2Cat for ExpressionEngine",
+              "[:arrow_upper_right:](http://gotolow.com/addons/low-seg2cat)"
+            ],
+            [
+              "9",
+              "[@mvriel](https://github.com/mvriel)/[**p1ng**](https://github.com/mvriel/p1ng)",
+              "Enterprise Issue tracker in PHP",
+              ""
+            ],
+            [
+              "9",
+              "[@Mark-H](https://github.com/Mark-H)/[**VersionX**](https://github.com/Mark-H/VersionX)",
+              "A complete rewrite of VersionX is available from a different repository!",
+              "[:arrow_upper_right:](https://github.com/Mark-H/VersionX2)"
+            ],
+            [
+              "9",
+              "[@low](https://github.com/low)/[**low_nospam**](https://github.com/low/low_nospam)",
+              "ExpressionEngine 2.x add-on to fight site spam with Akismet",
+              "[:arrow_upper_right:](http://gotolow.com/addons/low-nospam)"
+            ],
+            [
+              "9",
+              "[@ceeram](https://github.com/ceeram)/[**user**](https://github.com/ceeram/user)",
+              "CakePHP User plugin, with row based auth/acl checks",
+              ""
+            ],
+            [
+              "8",
+              "[@Mark-H](https://github.com/Mark-H)/[**StatusPage**](https://github.com/Mark-H/StatusPage)",
+              "A simple, standalone, PHP status page.",
+              ""
+            ],
+            [
+              "8",
+              "[@Mark-H](https://github.com/Mark-H)/[**getRelated**](https://github.com/Mark-H/getRelated)",
+              "getRelated is a Snippet for MODX Revolution that will automatically find related pages based on fields you specify. ",
+              "[:arrow_upper_right:](https://www.markhamstra.com/modx-blog/2012/2/showing-related-resources-automatically-introducin/)"
+            ],
+            [
+              "8",
+              "[@danslo](https://github.com/danslo)/[**Rubic_Cache_Backend_…**](https://github.com/danslo/Rubic_Cache_Backend_Aerospike)",
+              "Aerospike Cache Backend for Magento.",
+              ""
+            ],
+            [
+              "8",
+              "[@sahildua2305](https://github.com/sahildua2305)/[**tweetogram**](https://github.com/sahildua2305/tweetogram)",
+              "Twitter API Demonstration",
+              ""
+            ],
+            [
+              "8",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**leanpub-api-client**](https://github.com/matthiasnoback/leanpub-api-client)",
+              "",
+              ""
+            ],
+            [
+              "8",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**wordpress-mu-domain-…**](https://github.com/markoheijnen/wordpress-mu-domain-mapping)",
+              "Map any blog/site on a WordPressMU or WordPress 3.X network to an external domain.",
+              ""
+            ],
+            [
+              "8",
+              "[@rdohms](https://github.com/rdohms)/[**ManoWars**](https://github.com/rdohms/ManoWars)",
+              "Sample code for teaching about Unit Tests and TDD",
+              ""
+            ],
+            [
+              "8",
+              "[@fahad19](https://github.com/fahad19)/[**markdown**](https://github.com/fahad19/markdown)",
+              "Markdown plugin for Croogo",
+              "[:arrow_upper_right:](http://fahad19.com/blog/markdown-plugin)"
+            ],
+            [
+              "8",
+              "[@dannyvankooten](https://github.com/dannyvankooten)/[**smtp-mailer**](https://github.com/dannyvankooten/smtp-mailer)",
+              "A WordPress plugin that configures `wp_mail` to use SMTP.",
+              ""
+            ],
+            [
+              "8",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**WP-Translate-Theme**](https://github.com/markoheijnen/WP-Translate-Theme)",
+              "The theme behind WP Translate. It's uses the power of Bootstrap.",
+              "[:arrow_upper_right:](http://wp-translate.org)"
+            ],
+            [
+              "7",
+              "[@rosstuck](https://github.com/rosstuck)/[**DoctrineEventStore**](https://github.com/rosstuck/DoctrineEventStore)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@WanWizard](https://github.com/WanWizard)/[**Datamapper-ci**](https://github.com/WanWizard/Datamapper-ci)",
+              "DataMapper third party package for CodeIgniter",
+              ""
+            ],
+            [
+              "7",
+              "[@low](https://github.com/low)/[**low_reorder_vt**](https://github.com/low/low_reorder_vt)",
+              "Low Reorder variable type for Low Variables - ExpressionEngine Add-ons",
+              ""
+            ],
+            [
+              "7",
+              "[@low](https://github.com/low)/[**low_regex**](https://github.com/low/low_regex)",
+              "Twig preg_replace filter for Craft CMS",
+              ""
+            ],
+            [
+              "7",
+              "[@mvriel](https://github.com/mvriel)/[**phpCodeControl**](https://github.com/mvriel/phpCodeControl)",
+              "Commit / SCM inspection tool aimed at PHP Projects",
+              ""
+            ],
+            [
+              "7",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**leanpub-sampler**](https://github.com/matthiasnoback/leanpub-sampler)",
+              "A simple script for generating samples for Leanpub books",
+              ""
+            ],
+            [
+              "7",
+              "[@fahad19](https://github.com/fahad19)/[**li3_css**](https://github.com/fahad19/li3_css)",
+              "Lithium library for introducing new CSS features",
+              "[:arrow_upper_right:](http://fahad19.github.com/li3_css)"
+            ],
+            [
+              "7",
+              "[@low](https://github.com/low)/[**low_likes**](https://github.com/low/low_likes)",
+              "",
+              ""
+            ],
+            [
+              "7",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**symfony-controller-a…**](https://github.com/matthiasnoback/symfony-controller-annotation)",
+              "Helper library for creating event listeners that influence a Symfony application flow based on annotations",
+              ""
+            ],
+            [
+              "6",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**WordPress-Karuta**](https://github.com/markoheijnen/WordPress-Karuta)",
+              "The best card game in the WORLD",
+              ""
+            ],
+            [
+              "6",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**domstreamwrapper**](https://github.com/matthiasnoback/domstreamwrapper)",
+              "A PHP stream wrapper for modifying DOM node values using traditional file manipulation functions",
+              ""
+            ],
+            [
+              "6",
+              "[@low](https://github.com/low)/[**low.cp.ee_addon**](https://github.com/low/low.cp.ee_addon)",
+              "ExpressionEngine Control Panel tweaks",
+              "[:arrow_upper_right:](http://loweblog.com/freelance/article/ee-low-cp-extension/)"
+            ],
+            [
+              "6",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**Improved-Heartbeat**](https://github.com/markoheijnen/Improved-Heartbeat)",
+              "",
+              ""
+            ],
+            [
+              "6",
+              "[@low](https://github.com/low)/[**low_random**](https://github.com/low/low_random)",
+              "Low Random for ExpressionEngine",
+              "[:arrow_upper_right:](http://gotolow.com/addons/low-random)"
+            ],
+            [
+              "6",
+              "[@Mark-H](https://github.com/Mark-H)/[**MODX-CMP-Defaults**](https://github.com/Mark-H/MODX-CMP-Defaults)",
+              "This is an ongoing effort into setting up a blank slate to develop a CMP of. If it helps you, cool! Feel free to suggest or discuss other tactics. And yes, I know modExtra exists -  but that's too much for me. :)",
+              ""
+            ],
+            [
+              "6",
+              "[@MichMich](https://github.com/MichMich)/[**laravel-webcap**](https://github.com/MichMich/laravel-webcap)",
+              "A Laravel bundle: Provides a very simple way to capture website screenshots.",
+              ""
+            ],
+            [
+              "6",
+              "[@dannyvankooten](https://github.com/dannyvankooten)/[**wp-mail-in-backgroun…**](https://github.com/dannyvankooten/wp-mail-in-background)",
+              "Process emails sent by `wp_mail` in a \"background queue\".",
+              ""
+            ],
+            [
+              "6",
+              "[@sahildua2305](https://github.com/sahildua2305)/[**A-B-testing-PHP**](https://github.com/sahildua2305/A-B-testing-PHP)",
+              "A light-weight and modular framework written in PHP that automates A/B testing",
+              ""
+            ],
+            [
+              "6",
+              "[@low](https://github.com/low)/[**low_search_tag**](https://github.com/low/low_search_tag)",
+              "Low Search and Solspace Tag compatibility",
+              ""
+            ],
+            [
+              "6",
+              "[@dannyvankooten](https://github.com/dannyvankooten)/[**shortnr**](https://github.com/dannyvankooten/shortnr)",
+              "Shortnr: a simple file-based url shortener in PHP, managed on the command line.",
+              ""
+            ],
+            [
+              "6",
+              "[@rosstuck](https://github.com/rosstuck)/[**dsqueue**](https://github.com/rosstuck/dsqueue)",
+              "A proof-of-concept queue lib that abstracts the difference in queue backends",
+              ""
+            ],
+            [
+              "6",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**workshop-unit-testin…**](https://github.com/matthiasnoback/workshop-unit-testing)",
+              "Accompanying project for my PHPUnit workshop",
+              ""
+            ],
+            [
+              "6",
+              "[@mvriel](https://github.com/mvriel)/[**joind.in-experimenta…**](https://github.com/mvriel/joind.in-experimental)",
+              "Experimental shell on top of API v2",
+              "[:arrow_upper_right:](www.joind.in)"
+            ],
+            [
+              "6",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**wp-i18n-team-crawler**](https://github.com/markoheijnen/wp-i18n-team-crawler)",
+              "",
+              "[:arrow_upper_right:](http://wpcentral.io/internationalization)"
+            ],
+            [
+              "5",
+              "[@barryvdh](https://github.com/barryvdh)/[**OAuth**](https://github.com/barryvdh/OAuth)",
+              "PSR2 compliant OAuth 1.0 library based on Andy Smith's OAuth library here: http://oauth.googlecode.com/svn/code/php…",
+              ""
+            ],
+            [
+              "5",
+              "[@gabordemooij](https://github.com/gabordemooij)/[**RB4Plugins**](https://github.com/gabordemooij/RB4Plugins)",
+              "Plugins for RedBeanPHP4",
+              ""
+            ],
+            [
+              "5",
+              "[@Mark-H](https://github.com/Mark-H)/[**FirstChildRedirect**](https://github.com/Mark-H/FirstChildRedirect)",
+              "FirstChildRedirect updated for MODX 2.1 and beyond.",
+              ""
+            ],
+            [
+              "5",
+              "[@danslo](https://github.com/danslo)/[**pear2modman**](https://github.com/danslo/pear2modman)",
+              "Converts PEAR modules from Magento Connect to a modman module.",
+              ""
+            ],
+            [
+              "5",
+              "[@low](https://github.com/low)/[**lowblocks**](https://github.com/low/lowblocks)",
+              "",
+              ""
+            ],
+            [
+              "5",
+              "[@low](https://github.com/low)/[**low_nice_date**](https://github.com/low/low_nice_date)",
+              "Low Nice Date for ExpressionEngine 2.x",
+              "[:arrow_upper_right:](http://gotolow.com/addons/low-nice-date)"
+            ],
+            [
+              "5",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**MicrosoftTranslatorB…**](https://github.com/matthiasnoback/MicrosoftTranslatorBundle)",
+              "Symfony2 bundle for the microsoft-translator PHP library",
+              ""
+            ],
+            [
+              "5",
+              "[@WanWizard](https://github.com/WanWizard)/[**fuel-simplepie**](https://github.com/WanWizard/fuel-simplepie)",
+              "FuelPHP package which implements the SimplePie RSS classes",
+              ""
+            ],
+            [
+              "5",
+              "[@jariz](https://github.com/jariz)/[**ChannelBot**](https://github.com/jariz/ChannelBot)",
+              "A reddit bot that posts the newest uploaded videos to subreddits.",
+              ""
+            ],
+            [
+              "5",
+              "[@sahildua2305](https://github.com/sahildua2305)/[**browser-tail-log**](https://github.com/sahildua2305/browser-tail-log)",
+              "A php application for serving tail -F output to the browser.",
+              ""
+            ],
+            [
+              "5",
+              "[@coenjacobs](https://github.com/coenjacobs)/[**symfony-vardumper**](https://github.com/coenjacobs/symfony-vardumper)",
+              "Brings the Symfony VarDumper component to your WordPress installation.",
+              "[:arrow_upper_right:](https://wordpress.org/plugins/symfony-vardumper/)"
+            ],
+            [
+              "5",
+              "[@Mark-H](https://github.com/Mark-H)/[**EventManager**](https://github.com/Mark-H/EventManager)",
+              "There's better components for Events in MODX now - leaving up the source just in case, but I strongly suggest using EventsX or mxCalendar instead. EventManager is not going to be supported in favour of other components.",
+              "[:arrow_upper_right:](http://www.markhamstra.com)"
+            ],
+            [
+              "5",
+              "[@defries](https://github.com/defries)/[**genesis-translations**](https://github.com/defries/genesis-translations)",
+              "WordPress plugin to translate the Genesis Framework",
+              ""
+            ],
+            [
+              "4",
+              "[@low](https://github.com/low)/[**low_author**](https://github.com/low/low_author)",
+              "ExpressionEngine add-on to add the entry's author's screen name as a searchable channel field.",
+              ""
+            ],
+            [
+              "4",
+              "[@renan](https://github.com/renan)/[**email_reply_parser**](https://github.com/renan/email_reply_parser)",
+              "Small library to parse plain text email content and identify fragments of quoted texts, signature or original body content.",
+              ""
+            ],
+            [
+              "4",
+              "[@wouterj](https://github.com/wouterj)/[**PHPbench**](https://github.com/wouterj/PHPbench)",
+              "A small libary that tests your code.",
+              ""
+            ],
+            [
+              "4",
+              "[@wouterj](https://github.com/wouterj)/[**docbot**](https://github.com/wouterj/docbot)",
+              "A linter tool for documentations using the Symfony Doc Standards",
+              ""
+            ],
+            [
+              "4",
+              "[@dannyvankooten](https://github.com/dannyvankooten)/[**wordpress-recent-fac…**](https://github.com/dannyvankooten/wordpress-recent-facebook-posts)",
+              "Recent Facebook Posts for WordPress",
+              ""
+            ],
+            [
+              "4",
+              "[@rdohms](https://github.com/rdohms)/[**Tweester**](https://github.com/rdohms/Tweester)",
+              "A Wordpress plugin to display lists of users who have tweeted a define phrase, useful to display a list of supporters on your site.",
+              ""
+            ],
+            [
+              "4",
+              "[@jariz](https://github.com/jariz)/[**2stepauth**](https://github.com/jariz/2stepauth)",
+              "MyBB plugin that provides 2 step authentication trough Google Authenticator.",
+              ""
+            ],
+            [
+              "4",
+              "[@frankdejonge](https://github.com/frankdejonge)/[**Calculator**](https://github.com/frankdejonge/Calculator)",
+              "Calculator",
+              ""
+            ],
+            [
+              "4",
+              "[@fahad19](https://github.com/fahad19)/[**cakephp-stitch**](https://github.com/fahad19/cakephp-stitch)",
+              "Stitch your JavaScript files as CommonJS for the browser",
+              "[:arrow_upper_right:](http://fahad19.github.io/cakephp-stitch)"
+            ],
+            [
+              "4",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**post-format-ui**](https://github.com/markoheijnen/post-format-ui)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**Minit-Pro**](https://github.com/markoheijnen/Minit-Pro)",
+              "",
+              ""
+            ],
+            [
+              "4",
+              "[@rdohms](https://github.com/rdohms)/[**chainlink**](https://github.com/rdohms/chainlink)",
+              "Drop-in implementation of the Chain of Responsibility pattern",
+              ""
+            ],
+            [
+              "4",
+              "[@rosstuck](https://github.com/rosstuck)/[**doctrine-playground**](https://github.com/rosstuck/doctrine-playground)",
+              "A handy, dandy sandbox for playing with Doctrine 2.5",
+              ""
+            ],
+            [
+              "4",
+              "[@jariz](https://github.com/jariz)/[**RedditOAuth**](https://github.com/jariz/RedditOAuth)",
+              "A really basic Reddit OAuth library. Still space for expansion.",
+              ""
+            ],
+            [
+              "4",
+              "[@kvz](https://github.com/kvz)/[**cakephp-ipv6-plugin**](https://github.com/kvz/cakephp-ipv6-plugin)",
+              "Discontinued. Plugin-wrapped CakePHP behavior to work with IPv6 addresses with efficient MySQL storage",
+              ""
+            ],
+            [
+              "3",
+              "[@defries](https://github.com/defries)/[**Genesis-Admin-Bar-Ad…**](https://github.com/defries/Genesis-Admin-Bar-Addition)",
+              "Making use of the new WordPress 3.1 admin bar this plugin adds an extra menu to your Admin Bar. The links are resources related to the Genesis Framework. The menus are translatable and the output of the menu is now filterable. Via this filter any plugin or child theme for the Genesis Framework can add it's own menu to the Genesis Admin Bar menu.",
+              "[:arrow_upper_right:](http://remkusdevries.com/plugins/genesis-admin-bar-addition/)"
+            ],
+            [
+              "3",
+              "[@sahildua2305](https://github.com/sahildua2305)/[**village-connect**](https://github.com/sahildua2305/village-connect)",
+              "Making internet available to people with no internet connection",
+              "[:arrow_upper_right:](http://devpost.com/software/village-connect)"
+            ],
+            [
+              "3",
+              "[@Mark-H](https://github.com/Mark-H)/[**ContextRouter**](https://github.com/Mark-H/ContextRouter)",
+              "ContextRouter is a simple plug-and-play plugin allowing you to use different contexts, and, based on the http_host context settings you need to set anyway, it routes your front-end requests as required.",
+              ""
+            ],
+            [
+              "3",
+              "[@Mark-H](https://github.com/Mark-H)/[**RapidNewProject**](https://github.com/Mark-H/RapidNewProject)",
+              "Very early dev. See readme for more information on what this is.",
+              ""
+            ],
+            [
+              "3",
+              "[@Mark-H](https://github.com/Mark-H)/[**SocialSuite**](https://github.com/Mark-H/SocialSuite)",
+              "[unsupported] SocialSuite is a collection of snippets and other useful tools to integrate social media with your MODX Revolution website.",
+              ""
+            ],
+            [
+              "3",
+              "[@dannyvankooten](https://github.com/dannyvankooten)/[**edd-alexa-site-ranki…**](https://github.com/dannyvankooten/edd-alexa-site-rankings)",
+              "Builds a database of Alexa site rankings from sites activated through Easy Digital Downloads - Software Licensing.",
+              ""
+            ],
+            [
+              "3",
+              "[@skoop](https://github.com/skoop)/[**Stefan-Koopmanschap-…**](https://github.com/skoop/Stefan-Koopmanschap-s-Toolbox)",
+              "A toolbox of tools and scripts used by Stefan Koopmanschap",
+              ""
+            ],
+            [
+              "3",
+              "[@WanWizard](https://github.com/WanWizard)/[**fuel-ideal**](https://github.com/WanWizard/fuel-ideal)",
+              "FuelPHP package for Dutch iDEAL bank payments",
+              ""
+            ],
+            [
+              "3",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**WordPress-contributi…**](https://github.com/markoheijnen/WordPress-contributions)",
+              "",
+              ""
+            ],
+            [
+              "3",
+              "[@rdohms](https://github.com/rdohms)/[**superfeedr-api-clien…**](https://github.com/rdohms/superfeedr-api-client)",
+              "API Client for the Superfeedr Service, based on Guzzle.",
+              ""
+            ],
+            [
+              "3",
+              "[@mvriel](https://github.com/mvriel)/[**ngem**](https://github.com/mvriel/ngem)",
+              "Nothing to see here yet; move along :)",
+              ""
+            ],
+            [
+              "3",
+              "[@fahad19](https://github.com/fahad19)/[**wiki**](https://github.com/fahad19/wiki)",
+              "Croogo's wiki",
+              ""
+            ],
+            [
+              "3",
+              "[@ceeram](https://github.com/ceeram)/[**validati18n**](https://github.com/ceeram/validati18n)",
+              "Internationalised Validation Behavior, validate behavior for CakePHP 1.2",
+              ""
+            ],
+            [
+              "2",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**multimedia-box**](https://github.com/markoheijnen/multimedia-box)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mvriel](https://github.com/mvriel)/[**docblock-lexer**](https://github.com/mvriel/docblock-lexer)",
+              "Temporary repository for constructing a new PSR-5 compatible Lexer to read PHPDoc Blocks",
+              ""
+            ],
+            [
+              "2",
+              "[@mvriel](https://github.com/mvriel)/[**joindin-api-client**](https://github.com/mvriel/joindin-api-client)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**WP-CLI-Language**](https://github.com/markoheijnen/WP-CLI-Language)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@mvriel](https://github.com/mvriel)/[**TextToLatex**](https://github.com/mvriel/TextToLatex)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@skoop](https://github.com/skoop)/[**Gesichtbuch**](https://github.com/skoop/Gesichtbuch)",
+              "Code of the symfony workshop I've done at Symfony Day Cologne 2010",
+              ""
+            ],
+            [
+              "2",
+              "[@skoop](https://github.com/skoop)/[**MediTerra**](https://github.com/skoop/MediTerra)",
+              "An application to manage your Windows Azure Storage",
+              "[:arrow_upper_right:](http://www.leftontheweb.com/tag/mediterra)"
+            ],
+            [
+              "2",
+              "[@Mark-H](https://github.com/Mark-H)/[**TaggingAtoZ**](https://github.com/Mark-H/TaggingAtoZ)",
+              "TaggingAtoZ is a MODX Revo snippet that lists tags from a number of TVs into an alphabetical, grouped list.",
+              ""
+            ],
+            [
+              "2",
+              "[@coenjacobs](https://github.com/coenjacobs)/[**woocommerce-debug-ba…**](https://github.com/coenjacobs/woocommerce-debug-bar)",
+              "WordPress plugin: Adds a WooCommerce debug panel to the Debug Bar plugin.",
+              ""
+            ],
+            [
+              "2",
+              "[@coenjacobs](https://github.com/coenjacobs)/[**p2-channels**](https://github.com/coenjacobs/p2-channels)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@Mark-H](https://github.com/Mark-H)/[**Domaineer**](https://github.com/Mark-H/Domaineer)",
+              "Domaineer is a MODX Revolution plugin that you can use to set domain-specific settings and/or placeholders. See the Readme for more information.",
+              "[:arrow_upper_right:](http://www.markhamstra.com)"
+            ],
+            [
+              "2",
+              "[@ShawnMcCool](https://github.com/ShawnMcCool)/[**old-lio**](https://github.com/ShawnMcCool/old-lio)",
+              "the old nextversion used to learn about some patterns (eventually dumped)",
+              ""
+            ],
+            [
+              "2",
+              "[@sahildua2305](https://github.com/sahildua2305)/[**Local-tweet-map**](https://github.com/sahildua2305/Local-tweet-map)",
+              "Local Tweet Map : Visualize the most recent tweets within 1-mile radius of your current location",
+              ""
+            ],
+            [
+              "2",
+              "[@jariz](https://github.com/jariz)/[**MentionBot**](https://github.com/jariz/MentionBot)",
+              "Reddit bot that monitors all posts and checks if a user gets mentioned, then PMs mentioned user",
+              ""
+            ],
+            [
+              "2",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**wp-polls**](https://github.com/markoheijnen/wp-polls)",
+              "Adds an AJAX poll system to your WordPress blog. You can also easily add a poll into your WordPress's blog post/page.",
+              ""
+            ],
+            [
+              "2",
+              "[@ShawnMcCool](https://github.com/ShawnMcCool)/[**laravel-slugs**](https://github.com/ShawnMcCool/laravel-slugs)",
+              "An automated slug system for Laravel 4.",
+              ""
+            ],
+            [
+              "2",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**YouTube-DJ**](https://github.com/markoheijnen/YouTube-DJ)",
+              "Be a DJ with the YouTube DJ Gear.",
+              "[:arrow_upper_right:](http://youdj.me)"
+            ],
+            [
+              "2",
+              "[@ShawnMcCool](https://github.com/ShawnMcCool)/[**equipment-rental**](https://github.com/ShawnMcCool/equipment-rental)",
+              "an exercise in modeling",
+              ""
+            ],
+            [
+              "2",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**gmagick-editor**](https://github.com/markoheijnen/gmagick-editor)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@wouterj](https://github.com/wouterj)/[**Bundleless**](https://github.com/wouterj/Bundleless)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**CloudVPS-Object-Stor…**](https://github.com/markoheijnen/CloudVPS-Object-Store)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@sahildua2305](https://github.com/sahildua2305)/[**resume-host**](https://github.com/sahildua2305/resume-host)",
+              "Application for hosting resume online and access with one simple and memorable link",
+              ""
+            ],
+            [
+              "2",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**OpenSesh**](https://github.com/markoheijnen/OpenSesh)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@dannyvankooten](https://github.com/dannyvankooten)/[**wp-campaign-monitor**](https://github.com/dannyvankooten/wp-campaign-monitor)",
+              "Campaign Monitor for WordPress.",
+              ""
+            ],
+            [
+              "2",
+              "[@Mark-H](https://github.com/Mark-H)/[**CamperManagement**](https://github.com/Mark-H/CamperManagement)",
+              "A custom development addon for managing camper inventory.",
+              "[:arrow_upper_right:](http://rtfm.modx.com/display/ADDON/CamperManagement)"
+            ],
+            [
+              "2",
+              "[@renan](https://github.com/renan)/[**php-bacula-config**](https://github.com/renan/php-bacula-config)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@ceeram](https://github.com/ceeram)/[**FormTitles**](https://github.com/ceeram/FormTitles)",
+              "AutoFill html attribute 'title' for input and input labels",
+              ""
+            ],
+            [
+              "2",
+              "[@rosstuck](https://github.com/rosstuck)/[**BIG-Register**](https://github.com/rosstuck/BIG-Register)",
+              "A few classes for connecting to the Dutch BIG-Register (health care professionals)",
+              ""
+            ],
+            [
+              "2",
+              "[@Mark-H](https://github.com/Mark-H)/[**Notify404**](https://github.com/Mark-H/Notify404)",
+              "Notify404 is a utitlity plugin that notifies you per email when a page not found is served on your MODX Revolution powered website.",
+              ""
+            ],
+            [
+              "2",
+              "[@rdohms](https://github.com/rdohms)/[**ugDirectory**](https://github.com/rdohms/ugDirectory)",
+              "Application meant to manage a list of User Groups and their information",
+              "[:arrow_upper_right:](http://dev.rafaeldohms.com.br/projects/show/ugdirectory)"
+            ],
+            [
+              "2",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**Polyglots**](https://github.com/markoheijnen/Polyglots)",
+              "Allows to connect your site to translate.wordpress.org and other GlotPress installation",
+              ""
+            ],
+            [
+              "2",
+              "[@defries](https://github.com/defries)/[**404-redirected**](https://github.com/defries/404-redirected)",
+              "",
+              ""
+            ],
+            [
+              "2",
+              "[@rdohms](https://github.com/rdohms)/[**PHPSP-Promos**](https://github.com/rdohms/PHPSP-Promos)",
+              "Site irmão do Blog do PHPSP com sistemas relacionados a diferentes ações do grupo, por exemplo: Sou PHPSP e Contribuo.",
+              "[:arrow_upper_right:](http://sou.phpsp.org.br)"
+            ],
+            [
+              "2",
+              "[@low](https://github.com/low)/[**low.safe_encode.ee2_…**](https://github.com/low/low.safe_encode.ee2_addon)",
+              "Low Safe Encode for ExpressionEngine 2.x",
+              ""
+            ],
+            [
+              "2",
+              "[@defries](https://github.com/defries)/[**WooThemes-Admin-Bar-…**](https://github.com/defries/WooThemes-Admin-Bar-Addition)",
+              "Admin Bar Addition with WooThemes Resources links",
+              "[:arrow_upper_right:](http://remkusdevries.com/plugins/woothemes-admin-bar-addition/)"
+            ],
+            [
+              "2",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**symfony-dependency-i…**](https://github.com/matthiasnoback/symfony-dependency-injection-workshop)",
+              "Sandbox project for a Symfony Dependency Injection workshop",
+              ""
+            ],
+            [
+              "2",
+              "[@low](https://github.com/low)/[**low_search_safeguard**](https://github.com/low/low_search_safeguard)",
+              "An ExpressionEngine add-on to add basic anti-spam measures to Low Search.",
+              ""
+            ],
+            [
+              "2",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**amqp-integration-pat…**](https://github.com/matthiasnoback/amqp-integration-patterns)",
+              "For now: a playground",
+              ""
+            ],
+            [
+              "2",
+              "[@low](https://github.com/low)/[**low_yearly_archives**](https://github.com/low/low_yearly_archives)",
+              "Low Yearly Archives for ExpressionEngine",
+              "[:arrow_upper_right:](http://gotolow.com/addons/low-yearly-archives)"
+            ],
+            [
+              "2",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**MicrosoftTranslatorS…**](https://github.com/matthiasnoback/MicrosoftTranslatorServiceProvider)",
+              "Silex service provider for using the Microsoft Translator V2 API",
+              ""
+            ],
+            [
+              "2",
+              "[@low](https://github.com/low)/[**low_link**](https://github.com/low/low_link)",
+              "Wiki-style links for ExpressionEngine 2",
+              "[:arrow_upper_right:](http://gotolow.com/addons/low-link)"
+            ],
+            [
+              "2",
+              "[@matthiasnoback](https://github.com/matthiasnoback)/[**php-coding-dojo**](https://github.com/matthiasnoback/php-coding-dojo)",
+              "Empty project which can be used in a PHP and PHPUnit-oriented coding dojo",
+              ""
+            ],
+            [
+              "2",
+              "[@markoheijnen](https://github.com/markoheijnen)/[**BuddyPress-Meetup**](https://github.com/markoheijnen/BuddyPress-Meetup)",
+              "",
               ""
             ]
           ]
