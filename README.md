@@ -9,6 +9,7 @@
 
 ## Contents
 
+
  - [JavaScript](#javascript)
  - [Java](#java)
  - [C#](#c-1)
@@ -35,6 +36,7 @@
  - [VimL](#viml)
 
 ### JavaScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 6969 | [@ejci](https://github.com/ejci)/[**favico.js**](https://github.com/ejci/favico.js) | Make use of your favicon with badges, images or videos | [:arrow_upper_right:](http://lab.ejci.net/favico.js/)
@@ -366,7 +368,9 @@
 2 | [@arian](https://github.com/arian)/[**MooCss**](https://github.com/arian/MooCss) | With MooCss (MooTools plugin) you can write Css as Javascript objects (just like Element.Style) to a style tag in the document head | [:arrow_upper_right:](http://www.aryweb.nl/projects/MooCss/)
 2 | [@IjzerenHein](https://github.com/IjzerenHein)/[**famous-lib-tester**](https://github.com/IjzerenHein/famous-lib-tester) | Project for testing whether my libraries and famo.us can be build successfully using webpack, browserify, etc... |
 2 | [@hay](https://github.com/hay)/[**photocommons**](https://github.com/hay/photocommons) | WordPress plugin to include photos from Wikimedia Commons on your blog | [:arrow_upper_right:](http://github.com/hay/photocommon)
+
 ### Java #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 5138 | [@nhaarman](https://github.com/nhaarman)/[**ListViewAnimations**](https://github.com/nhaarman/ListViewAnimations) | An Android library which allows developers to easily add animations to ListView items |
@@ -519,7 +523,9 @@
 2 | [@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**DukeScriptSamples**](https://github.com/GeertjanWielenga/DukeScriptSamples) | Samples for DukeScript users |
 2 | [@GeertjanWielenga](https://github.com/GeertjanWielenga)/[**YoOracleJET**](https://github.com/GeertjanWielenga/YoOracleJET) |  |
 2 | [@biemond](https://github.com/biemond)/[**JavaEE7**](https://github.com/biemond/JavaEE7) | Java EE 7 |
+
 ### C# #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 1549 | [@FransBouma](https://github.com/FransBouma)/[**Massive**](https://github.com/FransBouma/Massive) | A small, happy, dynamic MicroORM for .NET that will love you forever. |
@@ -637,14 +643,18 @@
 2 | [@ikkentim](https://github.com/ikkentim)/[**SampSharp-streamer**](https://github.com/ikkentim/SampSharp-streamer) | A wrapper of the popular SA-MP streamer plugin for SampSharp. |
 2 | [@damianh](https://github.com/damianh)/[**Cedar.Domain**](https://github.com/damianh/Cedar.Domain) |  |
 2 | [@thefringeninja](https://github.com/thefringeninja)/[**CopyAndPasteMe**](https://github.com/thefringeninja/CopyAndPasteMe) |  |
+
 ### CSS #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 17 | [@RoelN](https://github.com/RoelN)/[**Compyx**](https://github.com/RoelN/Compyx) | Multicolor OpenType font "Compyx" |
 12 | [@jeroenoomsNL](https://github.com/jeroenoomsNL)/[**initialize-css**](https://github.com/jeroenoomsNL/initialize-css) | Initialize your base CSS styling with cross browser best practices. Available in CSS and configurable SASS (SCSS) format. | [:arrow_upper_right:](http://jeroenoomsnl.github.io/initialize-css/)
 6 | [@tmnlsthrn](https://github.com/tmnlsthrn)/[**Lotus**](https://github.com/tmnlsthrn/Lotus) | An iOS 7-ish look and feel for your Cydia repository or website. | [:arrow_upper_right:](http://tmnlsthrn.com/lotus/)
 2 | [@code0wl](https://github.com/code0wl)/[**flexy-grid**](https://github.com/code0wl/flexy-grid) | A flex-box grid that is simple to extend and maintain. Simplicity is the key. |
+
 ### C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 283 | [@inliniac](https://github.com/inliniac)/[**suricata**](https://github.com/inliniac/suricata) | Mirror of the official OISF Suricata git repository | [:arrow_upper_right:](http://suricata-ids.org/)
@@ -719,7 +729,9 @@
 2 | [@bnoordhuis](https://github.com/bnoordhuis)/[**entityplus**](https://github.com/bnoordhuis/entityplus) | just another quake 3 mod | [:arrow_upper_right:](https://code.google.com/p/entityplus/)
 2 | [@bnoordhuis](https://github.com/bnoordhuis)/[**mod_modlet**](https://github.com/bnoordhuis/mod_modlet) | Hassle-free module authoring for Apache 2 |
 2 | [@TripNRaVeR](https://github.com/TripNRaVeR)/[**tripndroid-m7-unleas…**](https://github.com/TripNRaVeR/tripndroid-m7-unleashed-3.4) |  |
+
 ### C++ #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 553 | [@tomlooman](https://github.com/tomlooman)/[**EpicSurvivalGameSeri…**](https://github.com/tomlooman/EpicSurvivalGameSeries) | Third person survival game (tutorial) series for Unreal Engine 4. |
@@ -793,7 +805,9 @@
 2 | [@companje](https://github.com/companje)/[**ofxDateTime**](https://github.com/companje/ofxDateTime) | openFrameworks addon doing calculations with dates and times (needs some polishing) |
 2 | [@companje](https://github.com/companje)/[**ofxKeyMap**](https://github.com/companje/ofxKeyMap) | openFrameworks addon for keeping track of pressed keys |
 2 | [@zhmu](https://github.com/zhmu)/[**tortilla**](https://github.com/zhmu/tortilla) | C++ BitTorrent library and client |
+
 ### ActionScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 37 | [@jankeesvw](https://github.com/jankeesvw)/[**LogMeister**](https://github.com/jankeesvw/LogMeister) | LogMeister, one Flash logger to rule them all |
@@ -805,7 +819,9 @@
 2 | [@dotKokott](https://github.com/dotKokott)/[**Project5000**](https://github.com/dotKokott/Project5000) |  |
 2 | [@speedok](https://github.com/speedok)/[**jiglibflash**](https://github.com/speedok/jiglibflash) |  | [:arrow_upper_right:](http://www.jiglibflash.com)
 2 | [@jvanbaarsen](https://github.com/jvanbaarsen)/[**ld23**](https://github.com/jvanbaarsen/ld23) | My Ludumdare 23 entry |
+
 ### Clojure #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 91 | [@fmw](https://github.com/fmw)/[**vix**](https://github.com/fmw/vix) | Website-management software (CMS) written in Clojure. | [:arrow_upper_right:](http://www.vixu.com)
@@ -840,7 +856,9 @@
 2 | [@meggermo](https://github.com/meggermo)/[**matomic**](https://github.com/meggermo/matomic) | My project to explore Datomic |
 2 | [@pepijndevos](https://github.com/pepijndevos)/[**Wemail**](https://github.com/pepijndevos/Wemail) | social email |
 2 | [@pepijndevos](https://github.com/pepijndevos)/[**Clomian**](https://github.com/pepijndevos/Clomian) | Clojure port of Mian(Minecraft Analysis) |
+
 ### CoffeeScript #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 47 | [@myrne](https://github.com/myrne)/[**performance-now**](https://github.com/myrne/performance-now) | Implements performance.now (based on process.hrtime). |
@@ -852,7 +870,9 @@
 2 | [@myrne](https://github.com/myrne)/[**osi-licenses**](https://github.com/myrne/osi-licenses) | id-name pairs of OSI-approved licenses |
 2 | [@myrne](https://github.com/myrne)/[**explorer**](https://github.com/myrne/explorer) | Explore directories in various ways. |
 2 | [@myrne](https://github.com/myrne)/[**f-throttle**](https://github.com/myrne/f-throttle) | Limit concurrency of a function returning a promise. |
+
 ### Go #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 131 | [@tpjg](https://github.com/tpjg)/[**goriakpbc**](https://github.com/tpjg/goriakpbc) | A golang riak client inspired by the Ruby riak-client from Basho and riakpbc from mrb |
@@ -893,7 +913,9 @@
 3 | [@krpors](https://github.com/krpors)/[**hmon**](https://github.com/krpors/hmon) | Simplistic HTTP monitoring using content assertions. |
 2 | [@Luit](https://github.com/Luit)/[**dogebot**](https://github.com/Luit/dogebot) | Slack bot placing :doge: reactions |
 2 | [@Luit](https://github.com/Luit)/[**resp**](https://github.com/Luit/resp) | resp is a package to read and interpret Redis Serialization Protocol data. |
+
 ### Haskell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 217 | [@sebastiaanvisser](https://github.com/sebastiaanvisser)/[**clay**](https://github.com/sebastiaanvisser/clay) | A CSS preprocessor as embedded Haskell. |
@@ -995,7 +1017,9 @@
 2 | [@timjs](https://github.com/timjs)/[**spl-compiler**](https://github.com/timjs/spl-compiler) | A compiler for SPL in Haskell |
 2 | [@basvandijk](https://github.com/basvandijk)/[**usb-safe-examples**](https://github.com/basvandijk/usb-safe-examples) | Examples that demonstrate how to use the usb-safe library |
 2 | [@roelvandijk](https://github.com/roelvandijk)/[**transfinite**](https://github.com/roelvandijk/transfinite) | A data type for transfinite numbers |
+
 ### Lua #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 73 | [@Tieske](https://github.com/Tieske)/[**date**](https://github.com/Tieske/date) | Date & Time module for Lua 5.x | [:arrow_upper_right:](http://tieske.github.io/date/)
@@ -1023,14 +1047,18 @@
 2 | [@InputUsername](https://github.com/InputUsername)/[**Euler**](https://github.com/InputUsername/Euler) | Project Euler solutions in as many languages as possible |
 2 | [@Deltanic](https://github.com/Deltanic)/[**ModLoader**](https://github.com/Deltanic/ModLoader) | Loads any mod without coding anything. |
 2 | [@bas080](https://github.com/bas080)/[**pathogen**](https://github.com/bas080/pathogen) | An infectious minetest mod | [:arrow_upper_right:](https://forum.minetest.net/viewtopic.php?f=9&t=11140)
+
 ### Matlab #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 7 | [@robertoostenveld](https://github.com/robertoostenveld)/[**cifti-matlab**](https://github.com/robertoostenveld/cifti-matlab) | MATLAB code for reading and writing CIFTI connectivity files |
 4 | [@germangh](https://github.com/germangh)/[**eeglab_plugin_aar**](https://github.com/germangh/eeglab_plugin_aar) | AAR plug-in for EEGLAB | [:arrow_upper_right:](http://www.germangh.com/eeglab_plugin_aar)
 3 | [@pjbarendrecht](https://github.com/pjbarendrecht)/[**BsplineLab**](https://github.com/pjbarendrecht/BsplineLab) | An interactive MATLAB tool for B-spline curves |
 2 | [@heimel](https://github.com/heimel)/[**InVivoTools**](https://github.com/heimel/InVivoTools) | InVivoTools a set of neurophysiology tools, forked from VanHooserTools, containing tools for visual stimulation and analysis of calcium imaging and extracellular electrophysiology data |
+
 ### Objective-C #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 2020 | [@ioscreator](https://github.com/ioscreator)/[**ioscreator**](https://github.com/ioscreator/ioscreator) | Tutorials from ioscreator.com | [:arrow_upper_right:](ioscreator.com)
@@ -1082,7 +1110,9 @@
 2 | [@mac-cain13](https://github.com/mac-cain13)/[**ios-kenteken-formatt…**](https://github.com/mac-cain13/ios-kenteken-formatter) | Nederlandse kentekens formatten en valideren in je iOS project. |
 2 | [@hollance](https://github.com/hollance)/[**MHMetaColors**](https://github.com/hollance/MHMetaColors) | Category that allows you to write, for example, [UIColor xFF3399] to make a new UIColor object with values #FF3399.  |
 2 | [@misato](https://github.com/misato)/[**DCIntrospectARC**](https://github.com/misato/DCIntrospectARC) | The DCIntrospect ARC & iOS6 compatible |
+
 ### Perl #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 899 | [@creaktive](https://github.com/creaktive)/[**rainbarf**](https://github.com/creaktive/rainbarf) | CPU/RAM/battery stats chart bar for tmux (and GNU screen) | [:arrow_upper_right:](https://metacpan.org/module/rainbarf)
@@ -1245,7 +1275,9 @@
 2 | [@xsawyerx](https://github.com/xsawyerx)/[**authorize-rule**](https://github.com/xsawyerx/authorize-rule) | Rule-based authorization mechanism |
 2 | [@avar](https://github.com/avar)/[**pre-receive-reject-b…**](https://github.com/avar/pre-receive-reject-binaries) | A configurable stand-alone Git hook to reject pushes of binary data |
 2 | [@yko](https://github.com/yko)/[**mojolicious-plugin-l…**](https://github.com/yko/mojolicious-plugin-linkedcontent) | Plugin to manage css and js |
+
 ### PHP #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 3584 | [@barryvdh](https://github.com/barryvdh)/[**laravel-debugbar**](https://github.com/barryvdh/laravel-debugbar) | Laravel Debugbar (Integrates PHP Debug Bar) |
@@ -1494,7 +1526,9 @@
 2 | [@low](https://github.com/low)/[**low_link**](https://github.com/low/low_link) | Wiki-style links for ExpressionEngine 2 | [:arrow_upper_right:](http://gotolow.com/addons/low-link)
 2 | [@matthiasnoback](https://github.com/matthiasnoback)/[**php-coding-dojo**](https://github.com/matthiasnoback/php-coding-dojo) | Empty project which can be used in a PHP and PHPUnit-oriented coding dojo |
 2 | [@markoheijnen](https://github.com/markoheijnen)/[**BuddyPress-Meetup**](https://github.com/markoheijnen/BuddyPress-Meetup) |  |
+
 ### Python #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 8838 | [@faif](https://github.com/faif)/[**python-patterns**](https://github.com/faif/python-patterns) | A collection of design patterns/idioms in Python |
@@ -1666,7 +1700,9 @@ Fork of Google Code project at: http://code.google.com/p/python-oembed/ |
 2 | [@joepie91](https://github.com/joepie91)/[**multiloggy**](https://github.com/joepie91/multiloggy) | A fork of Sean B. Palmer's public IRC logging bot 'loggy', implementing multi-channel support. |
 2 | [@dokterbob](https://github.com/dokterbob)/[**django-ga-tracking**](https://github.com/dokterbob/django-ga-tracking) | TIny Django template tag library for generating Google Analytics tracking URL's |
 2 | [@gvx](https://github.com/gvx)/[**tutorialsource**](https://github.com/gvx/tutorialsource) | Several Python tutorials, pretending to be source code. | [:arrow_upper_right:](http://gyvox.webs.com/tutorials.htm)
+
 ### R #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 269 | [@jeroenooms](https://github.com/jeroenooms)/[**opencpu**](https://github.com/jeroenooms/opencpu) | OpenCPU system for embedded scientific computation and reproducible research | [:arrow_upper_right:](opencpu.org)
@@ -1709,7 +1745,9 @@ Fork of Google Code project at: http://code.google.com/p/python-oembed/ |
 2 | [@jeroenooms](https://github.com/jeroenooms)/[**travis**](https://github.com/jeroenooms/travis) | Travis CI Client for R |
 2 | [@jeroenooms](https://github.com/jeroenooms)/[**minimist**](https://github.com/jeroenooms/minimist) | R binding to minimist JavaScript library |
 2 | [@MicheleNuijten](https://github.com/MicheleNuijten)/[**BayesMed**](https://github.com/MicheleNuijten/BayesMed) | Default Bayesian hypothesis tests for correlation, partial correlation, and mediation |
+
 ### Ruby #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 996 | [@YorickPeterse](https://github.com/YorickPeterse)/[**oga**](https://github.com/YorickPeterse/oga) | Oga is an XML/HTML parser written in Ruby. | [:arrow_upper_right:](http://code.yorickpeterse.com/oga/latest)
@@ -1948,7 +1986,9 @@ Fork of Google Code project at: http://code.google.com/p/python-oembed/ |
 2 | [@alloy](https://github.com/alloy)/[**piccsy-fetcher**](https://github.com/alloy/piccsy-fetcher) | Fetches low-res versions of the images you’ve ‘picked’ on piccsy.com | [:arrow_upper_right:](piccsy.com)
 2 | [@banister](https://github.com/banister)/[**custom_boolean**](https://github.com/banister/custom_boolean) | a hack to have if/else_if/else conditions with user-defined truthiness |
 2 | [@mrrooijen](https://github.com/mrrooijen)/[**simple_generators**](https://github.com/mrrooijen/simple_generators) | A couple of generators that supply you with some common templates to speed up the development process. | [:arrow_upper_right:](http://rdoc.info/projects/meskyanichi/simple_generators)
+
 ### Scala #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 296 | [@RayRoestenburg](https://github.com/RayRoestenburg)/[**akka-in-action**](https://github.com/RayRoestenburg/akka-in-action) | Accompanying source code for akka in action |
@@ -2003,7 +2043,9 @@ Fork of Google Code project at: http://code.google.com/p/python-oembed/ |
 2 | [@bartschuller](https://github.com/bartschuller)/[**Euler**](https://github.com/bartschuller/Euler) | My personal solutions in Scala to the project Euler problems |
 2 | [@lispmeister](https://github.com/lispmeister)/[**psychic-octo-bear**](https://github.com/lispmeister/psychic-octo-bear) | Example of using the akka-tracing library to trace Akka calls via Twitter's Zipkin |
 2 | [@bartschuller](https://github.com/bartschuller)/[**acme-delegation**](https://github.com/bartschuller/acme-delegation) | Delegation in Scala using def macros (which is the wrong way) |
+
 ### Shell #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 222 | [@wunki](https://github.com/wunki)/[**vagrant-freebsd**](https://github.com/wunki/vagrant-freebsd) | FreeBSD with ZFS for Vagrant |
@@ -2014,18 +2056,24 @@ Fork of Google Code project at: http://code.google.com/p/python-oembed/ |
 4 | [@remibergsma](https://github.com/remibergsma)/[**uniqueXenServer**](https://github.com/remibergsma/uniqueXenServer) | Make a XenServer unique after cloning from a template |
 2 | [@victorcete](https://github.com/victorcete)/[**dotfiles**](https://github.com/victorcete/dotfiles) |  |
 2 | [@remibergsma](https://github.com/remibergsma)/[**screen-ssh-agent-upd…**](https://github.com/remibergsma/screen-ssh-agent-updater) | Little script to always use the most recent ssh-agent socket. Useful when using GNU screen. |
+
 ### Swift #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 46 | [@Swiftrien](https://github.com/Swiftrien)/[**SwifterSockets**](https://github.com/Swiftrien/SwifterSockets) | A collection of socket utilities in Swift for OS-X and iOS | [:arrow_upper_right:](http://swiftfire.nl/pages/projects/swiftersockets/)
 5 | [@Swiftrien](https://github.com/Swiftrien)/[**Swiftfire**](https://github.com/Swiftrien/Swiftfire) | A personal web server in Swift for static websites | [:arrow_upper_right:](http://swiftfire.nl/)
 4 | [@Swiftrien](https://github.com/Swiftrien)/[**SwifterLog**](https://github.com/Swiftrien/SwifterLog) | A single class framework in Swift to create log entries in up to 5 destinations. | [:arrow_upper_right:](http://swiftfire.nl/pages/projects/swifterlog/)
 3 | [@Swiftrien](https://github.com/Swiftrien)/[**SwifterJSON**](https://github.com/Swiftrien/SwifterJSON) | A single class framework in Swift to read/write & parse the JSON Format. | [:arrow_upper_right:](http://swiftfire.nl/pages/projects/swifterjson/)
+
 ### TeX #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 21 | [@vtraag](https://github.com/vtraag)/[**tikz-colorbrewer**](https://github.com/vtraag/tikz-colorbrewer) | Definition files providing colours as defined by the ColorBrewer project. |
+
 ### VimL #
+
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 721 | [@xolox](https://github.com/xolox)/[**vim-notes**](https://github.com/xolox/vim-notes) | Easy note taking in Vim | [:arrow_upper_right:](http://peterodding.com/code/vim/notes/)
@@ -2043,6 +2091,7 @@ Fork of Google Code project at: http://code.google.com/p/python-oembed/ |
 7 | [@dbakker](https://github.com/dbakker)/[**vim-paragraph-motion**](https://github.com/dbakker/vim-paragraph-motion) | Vim replacement mappings for { and } |
 7 | [@immerzeel](https://github.com/immerzeel)/[**vim-remember-the-mil…**](https://github.com/immerzeel/vim-remember-the-milk) | Vim interface to Remember the Milk (http://www.rememberthemilk.com) |
 2 | [@dbakker](https://github.com/dbakker)/[**vim-adjustscroll**](https://github.com/dbakker/vim-adjustscroll) | Automatically scrolls to keep your cursor at 1/3 of the screen |
+
 
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
