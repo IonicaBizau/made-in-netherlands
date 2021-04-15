@@ -2095,6 +2095,7 @@ Fork of Google Code project at: http://code.google.com/p/python-oembed/ |
  | 222 | [@wunki](https://github.com/wunki)/[**vagrant-freebsd**](https://github.com/wunki/vagrant-freebsd) | FreeBSD with ZFS for Vagrant |
 191 | [@aschenkels-ictstudio](https://github.com/aschenkels-ictstudio)/[**odoo-install-scripts**](https://github.com/aschenkels-ictstudio/odoo-install-scripts) | ODOO Install Script (formerly OpenERP) | [:arrow_upper_right:](http://www.schenkels.nl)
 31 | [@wunki](https://github.com/wunki)/[**wunki-dotfiles**](https://github.com/wunki/wunki-dotfiles) | Dotfiles of Petar Radosevic. Years of Unix customizations in one repository. | [:arrow_upper_right:](https://wunki.org)
+13 | [@simonmeulenbeek](https://github.com/simonmeulenbeek)/[**eezy**](https://github.com/simonmeulenbeek/Eezy) | Super simple automation for all your projects. | [:arrow_upper_right:](https://simonmb.xyz/projects-eezy/)
 6 | [@aschenkels-ictstudio](https://github.com/aschenkels-ictstudio)/[**pentaho-install-scri…**](https://github.com/aschenkels-ictstudio/pentaho-install-script) | Pentaho Install Scripts |
 5 | [@marekq](https://github.com/marekq)/[**denyhosts-map**](https://github.com/marekq/denyhosts-map) | Plots the GeoIP information of your hosts.deny into a nice map! |
 4 | [@remibergsma](https://github.com/remibergsma)/[**uniqueXenServer**](https://github.com/remibergsma/uniqueXenServer) | Make a XenServer unique after cloning from a template |
