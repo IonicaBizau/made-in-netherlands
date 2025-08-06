@@ -1579,6 +1579,7 @@
 | 3115 | [@nvie](https://github.com/nvie)/[**rq**](https://github.com/nvie/rq) | Simple job queues for Python | [:arrow_upper_right:](http://python-rq.org) |
 | 2474 | [@pennersr](https://github.com/pennersr)/[**django-allauth**](https://github.com/pennersr/django-allauth) | Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. | [:arrow_upper_right:](http://www.intenct.nl/projects/django-allauth/) |
 | 1674 | [@nvie](https://github.com/nvie)/[**pip-tools**](https://github.com/nvie/pip-tools) | A set of tools to keep your pinned Python dependencies fresh. |  |
+| 907 | [@vanschelven](https://github.com/vanschelven)/[**bugsink**](https://github.com/bugsink/bugsink) | Self-hosted Error Tracking (Sentry-compatible) | [:arrow_upper_right:](http://www.bugsink.com/) |
 | 398 | [@nvie](https://github.com/nvie)/[**times**](https://github.com/nvie/times) | Times and time zones in Python with a focus on best practices. | [:arrow_upper_right:](http://pypi.python.org/pypi/times) |
 | 313 | [@dokterbob](https://github.com/dokterbob)/[**django-newsletter**](https://github.com/dokterbob/django-newsletter) | An email newsletter application for the Django web application framework, including an extended admin interface, web (un)subscription, dynamic e-mail templates, an archive and HTML email support. |  |
 | 306 | [@FSX](https://github.com/FSX)/[**momoko**](https://github.com/FSX/momoko) | Wraps (asynchronous) Psycopg2 for Tornado. | [:arrow_upper_right:](http://momoko.61924.nl/) |
@@ -2154,6 +2155,11 @@ Fork of Google Code project at: http://code.google.com/p/python-oembed/ |  |
 
 
 
+
+
+
+
+
 ## :question: Get Help
 
 There are few ways to get help:
@@ -2163,10 +2169,6 @@ There are few ways to get help:
  1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
  2. For bug reports and feature requests, open issues. :bug:
  3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
-
-
-
-
 
 
 
